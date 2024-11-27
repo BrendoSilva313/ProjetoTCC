@@ -1,0 +1,255 @@
+/* Reset */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html, body {
+    height: 100%;
+}
+
+body {
+    min-height: 100vh;
+    font-family: 'Open Sans', sans-serif;
+    line-height: 1.6;
+    background-color: #F4F6F8; /* Fundo neutro, sutilmente frio */
+}
+
+/* Estilização do menu do Site */
+
+.header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    padding: 1.3rem 10%;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    z-index: 100;
+}
+
+.header::before {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: #546E7A; /* Cinza azulado para seriedade e foco */
+    backdrop-filter: blur(50px);
+    z-index: -1;
+}
+
+.header::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, #0288D1, transparent); /* Azul técnico para movimento */
+    transition: .5s;
+}
+
+.header:hover::after {
+    left: 100%;
+}
+
+.logo {
+    font-size: 2rem;
+    text-decoration: none;
+    color: #ECEFF1; /* Branco suave */
+    font-weight: 700;
+}
+
+.menu a {
+    font-size: 1.15rem;
+    text-decoration: none;
+    color: #ECEFF1; /* Branco suave */
+    font-weight: 500;
+    margin-left: 2.5rem;
+}
+
+.menu i {
+    font-size: 2.8rem;
+    color: #ECEFF1; /* Branco suave */
+    cursor: pointer;
+    padding-left: 30px;
+}
+
+#check {
+    display: none;
+}
+
+.icons {
+    position: absolute;
+    font-size: 2.8rem;
+    right: 5%;
+    color: #26A69A; /* Verde técnico para ícones */
+    cursor: pointer;
+    display: none;
+}
+
+/* Estilização da página Sobre */
+
+.main {
+    padding-top: 6rem;
+    padding: 2rem 10%;
+    text-align: justify;
+}
+
+.about-section h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: #0288D1; /* Azul técnico */
+}
+
+.about-section h2 {
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin-top: 2rem;
+    color: #0288D1; /* Azul técnico */
+}
+
+.about-section p {
+    font-size: 1.1rem;
+    color: #37474F; /* Cinza escuro para leitura */
+    margin-bottom: 1.5rem;
+    line-height: 1.8;
+}
+
+.about-section p strong {
+    font-weight: 700;
+    color: #0D47A1; /* Azul profundo para destaque */
+}
+
+/* Estilização da Página de Contato */
+.contact-section {
+    padding-top: 6rem;
+    padding: 3rem 10%;
+    text-align: justify;
+    background-color: #ECEFF1; /* Fundo branco suave */
+}
+
+.contact-section h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    margin-bottom: 1rem;
+    color: #0D47A1; /* Azul profundo */
+}
+
+.contact-section p {
+    font-size: 1.1rem;
+    color: #546E7A; /* Cinza azulado */
+    margin-bottom: 1.5rem;
+    line-height: 1.8;
+}
+
+.contact-form {
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    margin: 2rem 0;
+    background-color: #FFFFFF; /* Fundo branco */
+    padding: 2rem;
+    border-radius: 0.5rem;
+    box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+label {
+    font-size: 1.1rem;
+    color: #37474F; /* Cinza escuro */
+}
+
+input, textarea {
+    padding: 1rem;
+    font-size: 1rem;
+    border: 1px solid #B0BEC5; /* Cinza claro para bordas */
+    border-radius: 0.3rem;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+textarea {
+    resize: vertical;
+}
+
+button[type="submit"] {
+    padding: 1rem;
+    background-color: #26A69A; /* Verde técnico para ações */
+    color: white;
+    border: none;
+    border-radius: 0.3rem;
+    font-size: 1.1rem;
+    cursor: pointer;
+    margin-top: 1rem;
+}
+
+button[type="submit"]:hover {
+    background-color: #00796B; /* Verde escuro ao passar o mouse */
+}
+
+/* Responsividade do Site */
+@media (max-width: 1080px) {
+    .header {
+        padding: 1.3rem 5%;
+    }    
+}
+
+@media (max-width: 768px) {
+    .icons {
+        display: inline-flex;
+    }
+
+    .menu {
+        position: absolute;
+        top: 100%;
+        left: 0;
+        width: 100%;
+        height: 0;
+        background: rgba(2, 136, 209, 0.9); /* Azul técnico transparente */
+        backdrop-filter: blur(50px);
+        box-shadow: 0 .5rem 1rem rgba(2, 136, 209, 0.6);
+        overflow: hidden;
+        transition: .3s ease;
+    }
+
+    .menu a {
+        display: block;
+        font-size: 1.1rem;
+        margin: 1.5rem 0;
+        text-align: center;
+        opacity: 0;
+        transform: translateY(-50px);
+        transition: .3s ease;
+    }
+
+    #check:checked ~ .menu {
+        height: 15.7rem;
+    }
+
+    #check:checked ~ .menu a {
+        transform: translateY(0);
+        transition-delay: calc(.15s * var(--i));
+        opacity: 1;
+    }
+}
+
+@media (max-width: 768px) {
+    .contact-section {
+        padding: 3rem 5%;
+    }
+
+    input, textarea {
+        font-size: 1rem;
+    }
+}

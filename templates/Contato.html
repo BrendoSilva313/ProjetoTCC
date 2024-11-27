@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contato</title>
+
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="/static/css/style.css" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="header">
+        <a href="#" class="logo">Logo</a>
+
+        <input type="checkbox" id="check">
+        <label for="check" class="icons">
+            <i class='bx bx-menu' id="icon-menu"></i>
+            <i class='bx bx-x' id="icon-fechar"></i>
+        </label>
+
+        <nav class="menu">
+            <a href="/html/index.html" style="--i:0;">Sobre</a>
+            <a href="/html/Mapeamento.html" style="--i:1;">Mapeamento</a>
+            <a href="/templates/Contato.html" style="--i:2;">Contato</a>
+            <a href="/html/Referencias.html" style="--i:4;">Referências</a>
+        </nav>
+    </header>
+
+    <main class="main">
+        <section class="contact-section">
+            <h1>Entre em Contato</h1>
+            <p>Se você tiver dúvidas, sugestões ou quiser mais informações sobre o projeto, fique à vontade para entrar em contato conosco através do formulário abaixo:</p>
+
+            <form  method="POST" action="{{ url_for('contato') }}" class="contact-form" aria-labelledby="form-heading">
+                <div class="form-group">
+                    <label for="nome" id="form-heading">Nome:</label>
+                    <input type="text" id="nome" name="nome" placeholder="Seu nome completo" required aria-required="true">
+                </div>
+                
+                <div class="form-group">
+                    <label for="email">E-mail:</label>
+                    <input type="email" id="email" name="email" placeholder="Seu e-mail" required aria-required="true">
+                </div>
+
+                <div class="form-group">
+                    <label for="mensagem">Mensagem:</label>
+                    <textarea id="mensagem" name="mensagem" placeholder="Sua mensagem" rows="6" required aria-required="true"></textarea>
+                </div>
+
+                <button type="submit" class="btn-submit">Enviar Mensagem</button>
+            </form>
+        </section>
+    </main>
+
+    <footer>
+        <p>© 2024 Todos os direitos reservados</p>
+    </footer>
+</body>
+</html>
