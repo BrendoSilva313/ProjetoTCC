@@ -40,7 +40,6 @@ def atualizar_tem_dns(cursor, dominio_id, tem_dns):
     except Exception as e:
         logging.error(f"Erro ao atualizar tem_dns para domínio ID {dominio_id}: {e}")
 
-# Consultar ou inserir localização na tabela `localizacoes`
 def obter_ou_inserir_localizacao(cursor, ip):
     try:
         # Verificar se o IP já existe na tabela
@@ -54,14 +53,16 @@ def obter_ou_inserir_localizacao(cursor, ip):
         cidade = resposta.get('city')
         regiao = resposta.get('region')
         pais = resposta.get('country')
+        loc = resposta.get('loc')  # Latitude e longitude no formato "lat,lng"
+        latitude, longitude = loc.split(",") if loc else (None, None)
 
         # Inserir nova localização
         sql = """
-            INSERT INTO localizacoes (ip, cidade, regiao, pais)
-            VALUES (%s, %s, %s, %s)
+            INSERT INTO localizacoes (ip, cidade, regiao, pais, latitude, longitude)
+            VALUES (%s, %s, %s, %s, %s, %s)
         """
-        cursor.execute(sql, (ip, cidade, regiao, pais))
-        logging.info(f"Localização inserida para IP {ip}: {cidade}, {regiao}, {pais}")
+        cursor.execute(sql, (ip, cidade, regiao, pais, latitude, longitude))
+        logging.info(f"Localização inserida para IP {ip}: {cidade}, {regiao}, {pais}, {latitude}, {longitude}")
         return cursor.lastrowid
     except Exception as e:
         logging.warning(f"Erro ao consultar/inserir localização para IP {ip}: {e}")
