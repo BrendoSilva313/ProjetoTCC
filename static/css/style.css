@@ -16,8 +16,7 @@ body {
     background-color: #F4F6F8; /* Fundo neutro, sutilmente frio */
 }
 
-/* Estilização do menu do Site */
-
+/* Estilização do menu do site */
 .header {
     position: fixed;
     top: 0;
@@ -64,6 +63,13 @@ body {
     font-weight: 700;
 }
 
+.logo-img {
+    height: 50px;
+    width: auto;
+    object-fit: contain;
+    border-radius: 10px;
+}
+
 .menu a {
     font-size: 1.15rem;
     text-decoration: none;
@@ -92,8 +98,7 @@ body {
     display: none;
 }
 
-/* Estilização da página Sobre */
-
+/* Estilização das seções principais */
 .main {
     padding-top: 6rem;
     padding: 2rem 10%;
@@ -126,7 +131,7 @@ body {
     color: #0D47A1; /* Azul profundo para destaque */
 }
 
-/* Estilização da Página de Contato */
+/* Estilização da página de contato */
 .contact-section {
     padding-top: 6rem;
     padding: 3rem 10%;
@@ -139,6 +144,7 @@ body {
     font-weight: 700;
     margin-bottom: 1rem;
     color: #0D47A1; /* Azul profundo */
+    text-align: center; /* Centraliza o título em telas menores */
 }
 
 .contact-section p {
@@ -146,17 +152,20 @@ body {
     color: #546E7A; /* Cinza azulado */
     margin-bottom: 1.5rem;
     line-height: 1.8;
+    text-align: center;
 }
 
 .contact-form {
     display: flex;
     flex-direction: column;
     gap: 1.5rem;
-    margin: 2rem 0;
+    margin: 2rem auto; /* Centraliza o formulário */
+    max-width: 700px; /* Define um limite para telas maiores */
     background-color: #FFFFFF; /* Fundo branco */
     padding: 2rem;
     border-radius: 0.5rem;
     box-shadow: 0 0 1rem rgba(0, 0, 0, 0.1);
+    width: 100%; /* Faz com que o formulário ocupe o máximo da largura disponível */
 }
 
 .form-group {
@@ -192,17 +201,25 @@ button[type="submit"] {
     font-size: 1.1rem;
     cursor: pointer;
     margin-top: 1rem;
+    transition: background-color 0.3s ease;
 }
 
 button[type="submit"]:hover {
     background-color: #00796B; /* Verde escuro ao passar o mouse */
 }
 
-/* Responsividade do Site */
+
+/* Melhorias de responsividade */
+
+
 @media (max-width: 1080px) {
     .header {
         padding: 1.3rem 5%;
-    }    
+    }
+
+    .main {
+        padding: 2rem 5%;
+    }
 }
 
 @media (max-width: 768px) {
@@ -242,14 +259,60 @@ button[type="submit"]:hover {
         transition-delay: calc(.15s * var(--i));
         opacity: 1;
     }
-}
 
-@media (max-width: 768px) {
     .contact-section {
         padding: 3rem 5%;
     }
 
     input, textarea {
         font-size: 1rem;
+    }
+
+    .contact-section {
+        padding: 2rem 5%;
+    }
+
+    .contact-section h1 {
+        font-size: 2rem;
+    }
+
+    .contact-section p {
+        font-size: 1rem;
+    }
+
+    .contact-form {
+        padding: 1.5rem;
+    }
+
+    input, textarea {
+        font-size: 0.9rem;
+    }
+
+    button[type="submit"] {
+        padding: 0.8rem;
+        font-size: 1rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .contact-section h1 {
+        font-size: 1.8rem;
+    }
+
+    .contact-section p {
+        font-size: 0.95rem;
+    }
+
+    .contact-form {
+        gap: 1rem;
+    }
+
+    input, textarea {
+        padding: 0.8rem;
+    }
+
+    button[type="submit"] {
+        padding: 0.7rem;
+        font-size: 0.9rem;
     }
 }

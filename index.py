@@ -6,8 +6,8 @@ def enviar_email(nome, email, mensagem):
     # Configurações do servidor
     smtp_server = 'smtp.gmail.com'
     smtp_port = 587
-    sender_email = 'soberaniadigitalbrasil@gmail.com'  # Seu e-mail
-    sender_password = 'ywzy nroh dgml ttxx'         # Sua senha de aplicativo (não a senha da sua conta)
+    sender_email = 'soberaniadigitalbrasil@gmail.com'
+    sender_password = 'ywzy nroh dgml ttxx'         
 
     # Configuração do e-mail
     subject = 'Mensagem de Contato do Formulário'
@@ -16,7 +16,7 @@ def enviar_email(nome, email, mensagem):
     # Criar o objeto MIME
     msg = MIMEMultipart()
     msg['From'] = sender_email
-    msg['To'] = sender_email  # Envia para o seu e-mail
+    msg['To'] = sender_email 
     msg['Subject'] = subject
 
     # Adicionar o corpo da mensagem

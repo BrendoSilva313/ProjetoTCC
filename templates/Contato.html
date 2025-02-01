@@ -4,17 +4,17 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Contato</title>
-
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}" />
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">   
     <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
-    <link rel="stylesheet" href="/static/css/style.css" />
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
     <link href="https://fonts.googleapis.com/css2?family=Inconsolata:wght@200&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap" rel="stylesheet">
 </head>
 <body>
     <header class="header">
-        <a href="#" class="logo">Logo</a>
+        <a href="#" class="logo">
+            <img src="{{ url_for('static', filename='img/logo.jpeg') }}" alt="Logo do Projeto" class="logo-img"> 
+        </a>
 
         <input type="checkbox" id="check">
         <label for="check" class="icons">
