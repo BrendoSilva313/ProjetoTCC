@@ -9,7 +9,7 @@ Investigar a infraestrutura de e-mail do governo brasileiro para avaliar sua dep
 ## 🛠️ Tecnologias Utilizadas
 - **Back-end:** Python (Flask)
 - **Front-end:** JavaScript, HTML, CSS (Frameworks como Leaflet.js para mapas)
-- **Banco de Dados:** PostgreSQL/MySQL
+- **Banco de Dados:** MySQL
 - **APIs e Ferramentas:** IpInfo
 
 ## 🔍 Funcionalidades
