@@ -1,1160 +1,1160 @@
-id;dominio_id;mx_records;ip;localizacao_id;prioridade
-1, 2, 'abc-gov-br.mail.protection.outlook.com', '52.101.200.0', 1, 0
-2, 3, 'abcd-gov-br.mail.protection.outlook.com', '52.101.9.17', 2, 5
-3, 3, 'abcd-gov-br.mail.protection.outlook.com', '52.101.9.17', 2, 10
-4, 4, 'abcnaidadecerta-gov-br.mail.protection.outlook.com', '52.101.41.3', 3, 0
-5, 5, 'abgf-gov-br.mail.protection.outlook.com', '52.101.198.1', 4, 0
-6, 6, 'mx01.abin.gov.br', '200.198.220.7', 5, 10
-7, 6, 'mx02.abin.gov.br', '200.198.220.17', 6, 10
-8, 7, 'smtp.abrasil.gov.br', '161.148.9.250', 7, 10
-9, 9, 'mail.ac.gov.br', '179.252.114.123', 8, 0
-10, 14, 'mx.acraiz.gov.br', '200.130.30.6', 9, 1
-11, 14, 'mx.acraiz.gov.br', '200.130.30.6', 9, 5
-12, 15, 'mail.acre.gov.br', '179.252.114.123', 8, 0
-13, 17, 'aeb-gov-br.mail.protection.outlook.com', '52.101.11.10', 10, 0
-14, 23, 'mail.infraero.gov.br', '45.171.50.29', 11, 10
-15, 24, 'smtp01.radiobras.gov.br', NULL, NULL, 10
-16, 27, 'cluster1.us.messagelabs.com', '67.219.250.212', 12, 10
-17, 27, 'cluster1a.us.messagelabs.com', '52.207.128.88', 13, 20
-18, 29, 'cluster1.us.messagelabs.com', '67.219.250.212', 12, 10
-19, 29, 'cluster1a.us.messagelabs.com', '52.207.128.88', 13, 20
-20, 33, '0f2532e9-ffe2-4f18-992f-bc109b59ed59.in.tmes.trendmicro.com', '18.208.22.79', 14, 0
-21, 35, 'smtp.aids.gov.br', '189.28.129.174', 15, 10
-22, 35, 'ex-ed-01.aids.gov.br', '189.28.129.173', 16, 10
-23, 35, 'ex-ed-02.aids.gov.br', '189.28.129.174', 15, 10
-24, 37, 'zimbra.aleam.gov.br', '177.92.163.132', 17, 10
-25, 37, 'webmail.aleam.gov.br', '177.92.163.142', 18, 20
-26, 38, 'smtp.alemg.gov.br', '177.86.143.130', 19, 5
-27, 39, 'smtp.almg.gov.br', '177.86.143.130', 19, 5
-28, 42, 'aspmx.l.google.com', '64.233.186.27', 20, 1
-29, 42, 'alt1.aspmx.l.google.com', '64.233.184.27', 21, 5
-30, 42, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-31, 42, 'alt3.aspmx.l.google.com', '142.250.153.27', 23, 10
-32, 42, 'alt4.aspmx.l.google.com', '142.251.9.27', 24, 10
-33, 45, 'amazonfund-gov-br.mail.protection.outlook.com', '52.101.198.1', 4, 10
-34, 51, 'mx1.amazul.gov.br', '187.29.162.15', 25, 9
-35, 51, 'mx3.amazul.gov.br', '187.29.162.14', 26, 9
-36, 51, 'mx4.amazul.gov.br', '187.29.11.36', 27, 9
-37, 52, 'an-gov-br.mail.protection.outlook.com', '52.101.11.3', 28, 0
-38, 53, 'ana.in.tmes.trendmicro.com', '18.208.22.79', 14, 0
-39, 54, 'anac-gov-br.mail.protection.outlook.com', '52.101.42.18', 29, 0
-40, 56, 'anatel-gov-br.in.tmes.trendmicro.com', '18.208.22.77', 30, 10
-41, 57, 'ancine-gov-br.mail.protection.outlook.com', '52.101.8.42', 31, 0
-42, 58, 'agent.aneel.gov.br', '200.198.220.179', 32, 10
-43, 58, 'master.aneel.gov.br', '200.198.220.178', 33, 100
-44, 58, 'coulomb.aneel.gov.br', '200.198.220.179', 32, 100
-45, 58, 'mailsrv.aneel.gov.br', '200.198.220.179', 32, 100
-46, 59, 'anm-gov-br.mail.protection.outlook.com', '52.101.11.13', 34, 10
-47, 60, 'anp-gov-br.mail.protection.outlook.com', '52.101.8.42', 31, 10
-48, 61, 'anpd-gov-br.mail.protection.outlook.com', '52.101.198.0', 35, 0
-49, 62, 'ans-gov-br.mail.protection.outlook.com', '52.101.41.26', 36, 0
-50, 63, 'antaq.in.tmes.trendmicro.com', '18.208.22.77', 30, 10
-51, 64, 'antt-gov-br.mail.protection.outlook.com', '52.101.40.2', 37, 10
-52, 65, 'cluster1.us.messagelabs.com', '67.219.250.212', 12, 10
-53, 65, 'cluster1a.us.messagelabs.com', '52.207.128.88', 13, 20
-54, 66, 'antispam.ap.gov.br', '177.84.201.239', 38, 0
-55, 69, 'protection.serpro.gov.br', '161.148.50.251', 39, 10
-56, 72, 'arquivonacional-gov-br.mail.protection.outlook.com', '52.101.8.34', 40, 0
-57, 73, 'relay.mdic.gov.br', NULL, NULL, 10
-58, 73, 'smtp2.mdic.gov.br', NULL, NULL, 15
-59, 80, 'smtp01.radiobras.gov.br', NULL, NULL, 10
-60, 80, 'smtp02.radiobras.gov.br', NULL, NULL, 20
-61, 81, 'ba-gov-br.mail.protection.outlook.com', '52.101.40.1', 41, 0
-62, 83, 'badesc-gov-br.mail.protection.outlook.com', '52.101.40.24', 42, 10
-63, 87, 'd001smt14.bnb.gov.br', '198.17.120.44', 43, 20
-64, 87, 'd001smt15.bnb.gov.br', '198.17.121.44', 44, 20
-65, 90, 'bcb-gov-br.mail.protection.outlook.com', '52.101.10.12', 45, 10
-66, 95, 'mailscan-in.serpro.gov.br', '161.148.21.200', 46, 0
-67, 97, 'mail.bn.gov.br', '177.223.196.212', 47, 10
-68, 97, 'bn-gov-br.mail.protection.outlook.com', '52.101.198.0', 35, 20
-69, 97, 'correio.bn.gov.br', '200.9.175.158', 48, 30
-70, 98, 'bnb-gov-br.mail.protection.outlook.com', '52.101.9.2', 49, 0
-71, 100, 'bndes-gov-br.mail.protection.outlook.com', '52.101.198.0', 35, 0
-72, 108, 'esa01.presidencia.gov.br', '170.246.255.51', 50, 5
-73, 108, 'esa02.presidencia.gov.br', '170.246.255.52', 51, 10
-74, 110, 'smtp053.gdfnet.df.gov.br', '131.72.222.253', 52, 5
-75, 110, 'smtp054.gdfnet.df.gov.br', '131.72.222.254', 53, 5
-76, 110, 'smtp051.gdfnet.df.gov.br', '131.72.221.51', 54, 15
-77, 113, 'alpha.planalto.gov.br', '170.246.255.10', 55, 5
-78, 115, 'mailmx.abc.gov.br', '201.36.109.91', 56, 10
-79, 116, 'caxias.irbbrasilre.com', '200.214.65.150', 57, 10
-80, 116, 'tijuca.irbbrasilre.com', '189.125.177.216', 58, 10
-81, 117, 'smtp-serpro01.mds.gov.br', '200.198.205.29', 59, 10
-82, 117, 'smtp-serpro02.mds.gov.br', '200.198.205.30', 60, 10
-83, 133, 'aspmx.l.google.com', '64.233.186.27', 20, 1
-84, 133, 'alt1.aspmx.l.google.com', '64.233.184.27', 21, 5
-85, 133, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-86, 133, 'aspmx2.googlemail.com', '64.233.184.27', 21, 10
-87, 133, 'aspmx3.googlemail.com', '142.250.27.26', 61, 10
-88, 135, 'mailscan-in.serpro.gov.br', '161.148.21.200', 46, 0
-89, 139, 'cade-gov-br.mail.protection.outlook.com', '52.101.9.14', 62, 0
-90, 142, 'smtp-serpro01.mds.gov.br', '200.198.205.29', 59, 0
-91, 142, 'smtp-serpro02.mds.gov.br', '200.198.205.30', 60, 0
-92, 143, 'caixa-gov-br.mail.protection.outlook.com', '52.101.11.15', 63, 0
-93, 161, 'souzinha1.camara.gov.br', '200.219.133.161', 64, 10
-94, 161, 'souzinha2.camara.gov.br', '200.219.133.162', 65, 10
-95, 161, 'souzinha3.camara.gov.br', '200.219.133.163', 66, 10
-96, 163, 'relay.mdic.gov.br', NULL, NULL, 10
-97, 163, 'smtp2.mdic.gov.br', NULL, NULL, 15
-98, 168, 'capes-gov-br.mail.protection.outlook.com', '52.101.42.6', 67, 0
-99, 169, 'mx.capitalderisco.gov.br', '200.212.144.20', 68, 10
-100, 175, 'esa01.presidencia.gov.br', '170.246.255.51', 50, 5
-101, 175, 'esa02.presidencia.gov.br', '170.246.255.52', 51, 10
-102, 176, 'casadamoeda-gov-br.mail.protection.outlook.com', '52.101.10.1', 69, 0
-103, 177, 'esa01.presidencia.gov.br', '170.246.255.51', 50, 5
-104, 177, 'esa02.presidencia.gov.br', '170.246.255.52', 51, 10
-105, 178, 'mail.casaruibarbosa.gov.br', '187.0.209.84', 70, 10
-106, 181, 'cauac-gov-br.mail.protection.outlook.com', '52.101.194.13', 71, 10
-107, 182, 'caual-gov-br.mail.protection.outlook.com', '52.101.9.2', 49, 10
-108, 183, 'cauam-gov-br.mail.protection.outlook.com', '52.101.11.15', 63, 10
-109, 184, 'cauap-gov-br.mail.protection.outlook.com', '52.101.42.6', 67, 10
-110, 185, 'cauba-gov-br.mail.protection.outlook.com', '52.101.9.26', 72, 10
-111, 186, 'caubr-gov-br.mail.protection.outlook.com', '52.101.40.0', 73, 10
-112, 187, 'cauce-gov-br.mail.protection.outlook.com', '52.101.40.0', 73, 10
-113, 188, 'caudf-gov-br.mail.protection.outlook.com', '52.101.9.14', 62, 10
-114, 189, 'caues-gov-br.mail.protection.outlook.com', '52.101.10.14', 74, 10
-115, 190, 'caugo-gov-br.mail.protection.outlook.com', '52.101.11.15', 63, 10
-116, 191, 'cauma-gov-br.mail.protection.outlook.com', '52.101.8.51', 75, 10
-117, 192, 'caumg-gov-br.mail.protection.outlook.com', '52.101.11.2', 76, 10
-118, 193, 'caums-gov-br.mail.protection.outlook.com', '52.101.11.15', 63, 10
-119, 194, 'caumt-gov-br.mail.protection.outlook.com', '52.101.194.13', 71, 10
-120, 195, 'caupa-gov-br.mail.protection.outlook.com', '52.101.41.56', 77, 10
-121, 196, 'caupb-gov-br.mail.protection.outlook.com', '52.101.8.51', 75, 10
-122, 197, 'caupe-gov-br.mail.protection.outlook.com', '52.101.10.6', 78, 0
-123, 198, 'caupi-gov-br.mail.protection.outlook.com', '52.101.8.51', 75, 0
-124, 199, 'caupr-gov-br.mail.protection.outlook.com', '52.101.42.10', 79, 10
-125, 199, 'ms32310411.msv1.invalid', NULL, NULL, 32767
-126, 200, 'caurj-gov-br.mail.protection.outlook.com', '52.101.40.4', 80, 10
-127, 201, 'caurn-gov-br.mail.protection.outlook.com', '52.101.41.56', 77, 0
-128, 202, 'cauro-gov-br.mail.protection.outlook.com', '52.101.42.16', 81, 0
-129, 203, 'caurr-gov-br.mail.protection.outlook.com', '52.101.42.18', 29, 0
-130, 204, 'caurs-gov-br.mail.protection.outlook.com', '52.101.40.0', 73, 0
-131, 205, 'causc-gov-br.mail.protection.outlook.com', '52.101.11.2', 76, 0
-132, 206, 'cause-gov-br.mail.protection.outlook.com', '52.101.8.44', 82, 10
-133, 207, 'causp-gov-br.mail.protection.outlook.com', '52.101.42.16', 81, 0
-134, 208, 'cauto-gov-br.mail.protection.outlook.com', '52.101.41.56', 77, 10
-135, 210, 'sucuri.snisb.gov.br', '177.15.65.152', 83, 10
-136, 210, 'bonito.snisb.gov.br', '177.15.65.189', 84, 50
-137, 211, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 10
-138, 211, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 20
-139, 211, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-140, 214, 'pop.cbtu.gov.br', '186.200.39.170', 88, 25
-141, 214, 'pop2.cbtu.gov.br', '186.200.39.169', 89, 30
-142, 222, 'ceagesp-gov-br.mail.protection.outlook.com', '52.101.11.13', 34, 0
-143, 223, 'mx1.casacivil.ce.gov.br', '189.90.171.3', 90, 10
-144, 223, 'mx2.casacivil.ce.gov.br', '189.90.171.4', 91, 10
-145, 225, 'hercules1.cef.gov.br', '200.201.166.106', 92, 10
-146, 227, 'mail.ceitec.gov.br', '200.132.5.15', 93, 10
-147, 228, 'smtp01.pr.gov.br', '200.189.123.155', 94, 5
-148, 228, 'smtp02.pr.gov.br', '200.189.123.155', 94, 5
-149, 228, 'smtp03.pr.gov.br', '200.189.123.155', 94, 5
-150, 228, 'smtp04.pr.gov.br', '200.189.123.155', 94, 5
-151, 228, 'smtp05.pr.gov.br', '200.189.123.155', 94, 5
-152, 229, 'mail.cemaden.gov.br', '200.133.244.156', 95, 1
-153, 230, 'mailscan-in.serpro.gov.br', '161.148.21.200', 46, 0
-154, 231, 'mail.cenp.gov.br', '200.139.10.103', 96, 10
-155, 237, 'mx01.abin.gov.br', '200.198.220.7', 5, 10
-156, 237, 'mx02.abin.gov.br', '200.198.220.17', 6, 10
-157, 239, 'teresopolis.cti.gov.br', '200.144.113.17', 97, 10
-158, 240, 'mail.cetem.gov.br', '200.20.105.3', 98, 10
-159, 241, 'aspmx.l.google.com', '64.233.186.27', 20, 1
-160, 241, 'alt1.aspmx.l.google.com', '64.233.184.27', 21, 5
-161, 241, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-162, 241, 'alt3.aspmx.l.google.com', '142.250.153.27', 23, 10
-163, 241, 'alt4.aspmx.l.google.com', '142.251.9.27', 24, 10
-164, 244, 'aspmx.l.google.com', '64.233.186.27', 20, 1
-165, 244, 'alt1.aspmx.l.google.com', '64.233.184.27', 21, 5
-166, 244, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-167, 244, 'alt3.aspmx.l.google.com', '142.250.153.27', 23, 10
-168, 244, 'alt4.aspmx.l.google.com', '142.251.9.27', 24, 10
-169, 245, 'mx.core.locaweb.com.br', '177.153.23.241', 99, 10
-170, 245, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 20
-171, 245, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 20
-172, 245, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-173, 246, 'mx.cfmv.gov.br', '189.85.87.76', 100, 10
-174, 246, 'mx2.cfmv.gov.br', '45.4.192.12', 101, 20
-175, 247, 'mx.uhserver.com', '200.147.36.29', 102, 10
-176, 248, 'mx.cgna.gov.br', '200.216.54.201', 103, 10
-177, 250, 'mxa-007a2802.gslb.pphosted.com', '148.163.146.14', 104, 10
-178, 250, 'mxb-007a2802.gslb.pphosted.com', '148.163.143.246', 105, 10
-179, 251, 'cgu-gov-br.mail.protection.outlook.com', '52.101.11.2', 76, 0
-180, 253, 'mxa-007a2802.gslb.pphosted.com', '148.163.146.14', 104, 10
-181, 253, 'mxb-007a2802.gslb.pphosted.com', '148.163.143.246', 105, 10
-182, 254, 'mailscan-in.serpro.gov.br', '161.148.21.200', 46, 0
-183, 255, 'aspmx.l.google.com', '64.233.186.27', 20, 10
-184, 255, 'alt1.aspmx.l.google.com', '64.233.184.27', 21, 20
-185, 255, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 20
-186, 255, 'aspmx2.googlemail.com', '64.233.184.27', 21, 30
-187, 255, 'aspmx3.googlemail.com', '142.250.27.26', 61, 30
-188, 255, 'aspmx4.googlemail.com', '142.250.153.27', 23, 30
-189, 255, 'aspmx5.googlemail.com', '142.251.9.26', 106, 30
-190, 256, 'aspmx.l.google.com', '64.233.186.27', 20, 1
-191, 256, 'alt1.aspmx.l.google.com', '64.233.184.27', 21, 5
-192, 256, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-193, 256, 'aspmx2.googlemail.com', '64.233.184.27', 21, 10
-194, 256, 'aspmx3.googlemail.com', '142.250.27.26', 61, 10
-195, 257, 'cidadania-gov-br.mail.protection.outlook.com', '52.101.10.2', 107, 0
-196, 258, 'mail1.bcb.gov.br', NULL, NULL, 10
-197, 258, 'mail2.bcb.gov.br', NULL, NULL, 10
-198, 258, 'mail3.bcb.gov.br', NULL, NULL, 10
-199, 259, 'funasa.in.tmes.trendmicro.com', '18.208.22.78', 108, 0
-200, 263, 'mail.cienciasus.gov.br', '162.241.2.213', 109, 0
-201, 264, 'tora.ciscea.gov.br', '200.255.49.23', 110, 5
-202, 264, 'tora2.ciscea.gov.br', '200.216.54.205', 111, 10
-203, 264, 'antispam.ciscea.gov.br', '200.255.49.23', 110, 15
-204, 264, 'antispam2.ciscea.gov.br', '200.216.54.205', 111, 20
-205, 266, 'cmb-gov-br.mail.protection.outlook.com', '52.101.11.9', 112, 0
-206, 268, 'cnen-gov-br.mail.protection.outlook.com', '52.101.10.12', 45, 0
-207, 270, 'cnfcp-gov-br.mail.protection.outlook.com', '52.101.9.17', 2, 20
-208, 275, 'coaf-gov-br.mail.protection.outlook.com', '52.101.198.1', 4, 0
-209, 276, 'mx.core.locaweb.com.br', '177.153.23.241', 99, 10
-210, 276, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 20
-211, 276, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 20
-212, 276, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-213, 278, 'codesa-gov-br.mail.protection.outlook.com', '52.101.9.2', 49, 10
-214, 280, 'smtp.codevasf.gov.br', '189.84.136.140', 113, 10
-215, 280, 'smtp2.codevasf.gov.br', '186.216.211.93', 114, 20
-216, 283, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-217, 283, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-218, 283, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-219, 283, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-220, 283, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-221, 284, 'mail.cofecon.gov.br', '162.214.54.154', 118, 0
-222, 285, 'cofen-gov-br.mail.protection.outlook.com', '52.101.9.11', 119, 0
-223, 286, 'mx.core.locaweb.com.br', '177.153.23.241', 99, 10
-224, 286, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 20
-225, 286, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 20
-226, 286, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-227, 289, 'mte-mx03.mlicloud.com', '187.108.197.246', 120, 10
-228, 289, 'mte-mx04.mlicloud.com', '187.108.197.187', 121, 10
-229, 289, 'dc02-economia-mx01.mlicloud.com', '186.227.197.37', 122, 10
-230, 289, 'dc02-economia-mx02.mlicloud.com', '187.45.183.227', 123, 10
-231, 296, 'smtp-serpro.mds.gov.br', NULL, NULL, 0
-232, 297, 'relay01.planejamento.gov.br', '189.9.7.65', 124, 10
-233, 297, 'relay02.planejamento.gov.br', '189.9.7.66', 125, 10
-234, 304, 'mailin.conab.gov.br', '160.238.29.68', 126, 1
-235, 307, 'concar-gov-br.mail.protection.outlook.com', '52.101.9.14', 62, 5
-236, 310, 'mx1.saude.gov.br', '189.28.129.1', 127, 10
-237, 310, 'mx2.saude.gov.br', '189.28.129.2', 128, 10
-238, 310, 'mx4.saude.gov.br', '189.28.129.4', 129, 10
-239, 310, 'mx5.saude.gov.br', '189.28.129.16', 130, 10
-240, 314, 'consorciociga-gov-br.mail.protection.outlook.com', '52.101.41.21', 131, 0
-241, 315, 'consorcionordeste-gov-br.mail.protection.outlook.com', '52.101.40.24', 42, 0
-242, 318, 'consumidor-gov-br.mail.protection.outlook.com', '52.101.41.21', 131, 0
-243, 318, 'maine.mj.gov.br', '189.9.0.101', 132, 10
-244, 318, 'piaget.mj.gov.br', '189.9.0.101', 132, 20
-245, 320, 'mx1.titan.email', '44.218.81.177', 133, 10
-246, 320, 'mx2.titan.email', '3.215.61.3', 134, 20
-247, 322, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 10
-248, 322, 'mx.core.locaweb.com.br', '177.153.23.241', 99, 10
-249, 322, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 20
-250, 322, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-251, 324, 'mail.corecongo.gov.br', '162.241.2.66', 135, 0
-252, 325, 'mail.coreconpe.gov.br', '162.241.61.189', 136, 0
-253, 326, 'mx.core.locaweb.com.br', '177.153.23.241', 99, 10
-254, 326, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 20
-255, 326, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 20
-256, 326, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-257, 328, 'mail.coreconsp.gov.br', '162.240.161.58', 137, 0
-258, 330, 'coren-ap.gov.br', '192.185.223.121', 138, 0
-259, 331, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-260, 332, 'mx-br.spfbl.net', '52.67.41.212', 139, 0
-261, 332, 'praetoriae.bktech.com.br', '3.217.213.23', 140, 1
-262, 332, 'hill55.bktech.com.br', '34.232.250.42', 141, 2
-263, 332, 'mx-us.spfbl.net', '35.162.4.77', 142, 10
-264, 333, 'mx.coren-mg.gov.br', '213.32.17.239', 143, 0
-265, 334, 'mx.core.locaweb.com.br', '177.153.23.241', 99, 10
-266, 334, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 20
-267, 334, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 20
-268, 334, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-269, 336, 'mail.coren-pe.gov.br', '162.240.220.15', 144, 0
-270, 338, 'protection.serpro.gov.br', '161.148.50.251', 39, 0
-271, 339, 'corensp-gov-br01c.mail.protection.outlook.com', '52.101.9.12', 145, 0
-272, 341, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-273, 341, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-274, 341, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-275, 341, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-276, 341, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-277, 342, 'mx.uhserver.com', '200.147.36.29', 102, 10
-278, 343, 'smtp.corenmg.gov.br', '186.248.236.163', 146, 10
-279, 343, 'smtp.corenmg.gov.br', '186.248.236.163', 146, 20
-280, 343, 'smtp.corenmg.gov.br', '186.248.236.163', 146, 30
-281, 343, 'smtp.corenmg.gov.br', '186.248.236.163', 146, 40
-282, 344, 'aspmx2.googlemail.com', '64.233.184.27', 21, 30
-283, 345, '200.234.222.116', NULL, NULL, 10
-284, 346, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-285, 346, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-286, 346, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-287, 346, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-288, 346, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-289, 348, 'mail.corensc.gov.br', '168.181.70.251', 147, 10
-290, 349, 'mail.corensp.gov.br', '201.16.179.9', 148, 1
-291, 349, 'ec2-54-232-52-172.sa-east-1.compute.amazonaws.com', '54.232.52.172', 149, 10
-292, 356, 'cp2.gov.br', '200.189.101.10', 150, 0
-293, 356, '108303612.mail.outlook.com', '52.101.41.3', 3, 0
-294, 357, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-295, 357, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-296, 357, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-297, 357, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-298, 357, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-299, 359, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-300, 359, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-301, 359, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-302, 359, 'aspmx2.googlemail.com', '64.233.184.27', 21, 10
-303, 359, 'aspmx3.googlemail.com', '142.250.27.26', 61, 10
-304, 360, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-305, 360, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-306, 360, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-307, 360, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-308, 360, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-309, 361, 'plesk03.dc.grupogmaes.com', '138.122.95.70', 151, 5
-310, 364, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 10
-311, 364, 'mx.core.locaweb.com.br', '177.153.23.241', 99, 10
-312, 364, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 20
-313, 364, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-314, 365, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-315, 365, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-316, 365, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-317, 365, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-318, 365, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-319, 366, 'wg9.webgenium.com.br', '177.66.204.150', 152, 10
-320, 369, 'mail.crbio01.gov.br', '45.233.113.76', 153, 0
-321, 369, 'mail2.crbio01.gov.br', '45.233.113.66', 154, 10
-322, 370, 'cpanel01.dc.grupogmaes.com', '138.122.92.39', 155, 5
-323, 371, 'crbio03-gov-br.mail.protection.outlook.com', '52.101.198.1', 4, 0
-324, 372, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-325, 372, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-326, 372, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-327, 372, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-328, 372, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-329, 372, 'aspmx2.googlemail.com', '64.233.184.27', 21, 10
-330, 372, 'aspmx3.googlemail.com', '142.250.27.26', 61, 10
-331, 372, 'aspmx4.googlemail.com', '142.250.153.27', 23, 20
-332, 372, 'aspmx5.googlemail.com', '142.251.9.26', 106, 20
-333, 373, 'mx.core.locaweb.com.br', '177.153.23.241', 99, 10
-334, 373, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 20
-335, 373, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 20
-336, 373, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-337, 374, 'mx-vip-01.kinghost.net', '191.6.216.38', 156, 5
-338, 374, 'mx-vip-02.kinghost.net', '191.6.216.39', 157, 5
-339, 375, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-340, 375, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-341, 375, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-342, 375, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-343, 375, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-344, 376, 'mx.uhserver.com', '200.147.36.29', 102, 0
-345, 377, 'mx-vip-01.kinghost.net', '191.6.216.38', 156, 5
-346, 377, 'mx-vip-02.kinghost.net', '191.6.216.39', 157, 5
-347, 380, 'wg9.webgenium.com.br', '177.66.204.150', 152, 10
-348, 381, 'crbio8.gov.br', '216.172.172.228', 158, 0
-349, 382, 'wg9.webgenium.com.br', '177.66.204.150', 152, 10
-350, 383, 'mx-vip-01.kinghost.net', '191.6.216.38', 156, 5
-351, 383, 'mx-vip-02.kinghost.net', '191.6.216.39', 157, 5
-352, 384, 'crbm2-gov-br.mail.protection.outlook.com', '52.101.41.26', 36, 1
-353, 385, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-354, 385, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-355, 385, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-356, 385, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-357, 385, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-358, 386, 'mx-vip-01.kinghost.net', '191.6.216.38', 156, 5
-359, 386, 'mx-vip-02.kinghost.net', '191.6.216.39', 157, 5
-360, 387, 'mail.crbm6.gov.br', '67.225.188.52', 159, 0
-361, 391, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-362, 391, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-363, 391, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-364, 391, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-365, 391, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-366, 392, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-367, 392, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-368, 392, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-369, 392, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-370, 392, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-371, 393, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-372, 393, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-373, 393, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-374, 393, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-375, 393, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-376, 395, 'mx-vip-01.kinghost.net', '191.6.216.38', 156, 5
-377, 395, 'mx-vip-02.kinghost.net', '191.6.216.39', 157, 5
-378, 396, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-379, 396, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-380, 396, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-381, 396, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-382, 396, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-383, 397, 'aspmx.l.google.com', '142.251.0.26', 115, 10
-384, 397, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 20
-385, 397, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 20
-386, 397, 'aspmx2.googlemail.com', '64.233.184.27', 21, 30
-387, 397, 'aspmx3.googlemail.com', '142.250.27.27', 22, 30
-388, 397, 'aspmx4.googlemail.com', '142.250.153.27', 23, 30
-389, 397, 'aspmx5.googlemail.com', '142.251.9.26', 106, 30
-390, 398, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-391, 398, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-392, 398, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-393, 398, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-394, 398, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-395, 399, 'matheus.garlix.com.br', NULL, NULL, 5
-396, 400, 'mx.core.locaweb.com.br', '177.153.23.241', 99, 10
-397, 400, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 20
-398, 400, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 20
-399, 400, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-400, 401, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-401, 401, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-402, 401, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-403, 401, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-404, 401, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-405, 402, 'mxcreci.lk6.com.br', '187.32.80.226', 160, 10
-406, 403, 'barracuda.penso.com.br', '200.219.235.50', 161, 10
-407, 405, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-408, 405, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-409, 405, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-410, 405, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-411, 405, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-412, 406, 'creciac.gov.br', '198.49.75.151', 162, 0
-413, 407, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 10
-414, 407, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 10
-415, 407, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-416, 408, 'aspmx.l.google.com', '142.251.0.26', 115, 0
-417, 408, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-418, 408, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-419, 408, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-420, 408, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-421, 409, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-422, 409, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-423, 409, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-424, 409, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-425, 409, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-426, 410, 'aspmx.l.google.com', '142.251.0.26', 115, 0
-427, 410, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-428, 410, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-429, 410, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-430, 410, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-431, 411, 'mail.crecima.gov.br', '162.241.203.15', 163, 0
-432, 412, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-433, 412, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-434, 412, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-435, 412, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-436, 412, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-437, 413, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-438, 413, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-439, 413, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-440, 413, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 9
-441, 413, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 9
-442, 414, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-443, 414, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-444, 414, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-445, 414, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-446, 414, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-447, 415, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-448, 415, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-449, 415, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-450, 415, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-451, 415, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-452, 416, 'mail.crecipr.gov.br', '201.47.3.86', 164, 10
-453, 416, 'mail2.crecipr.gov.br', '177.36.185.134', 165, 10
-454, 417, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-455, 417, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-456, 417, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-457, 417, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-458, 417, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-459, 418, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-460, 418, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-461, 418, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-462, 418, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-463, 418, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-464, 419, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-465, 419, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-466, 419, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-467, 419, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-468, 419, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-469, 420, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-470, 420, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-471, 420, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-472, 420, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-473, 420, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-474, 421, 'mail.crecito.gov.br', '162.240.166.230', 166, 0
-475, 424, 'cref-sp.gov.br', '187.0.205.22', 167, 0
-476, 425, 'cref4-sp.gov.br', '187.0.205.22', 167, 0
-477, 426, 'cref4.gov.br', '187.0.205.22', 167, 0
-478, 427, 'cref4sp.gov.br', '187.0.205.22', 167, 0
-479, 428, 'aspmx.l.google.com', '142.251.0.26', 115, 10
-480, 428, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 20
-481, 428, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 20
-482, 428, 'aspmx2.googlemail.com', '64.233.184.27', 21, 30
-483, 428, 'aspmx3.googlemail.com', '142.250.27.27', 22, 30
-484, 428, 'aspmx4.googlemail.com', '142.250.153.27', 23, 30
-485, 428, 'aspmx5.googlemail.com', '142.251.9.26', 106, 30
-486, 430, 'mx.core.locaweb.com.br', '177.153.23.241', 99, 10
-487, 430, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 20
-488, 430, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 20
-489, 430, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-490, 431, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 10
-491, 431, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 10
-492, 431, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-493, 432, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 10
-494, 432, 'mx.core.locaweb.com.br', '177.153.23.241', 99, 10
-495, 432, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 20
-496, 432, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-497, 433, 'crefito4.gov.br', '179.124.199.226', 168, 0
-498, 434, 'mail.crefito7.gov.br', '162.214.64.218', 169, 0
-499, 435, 'crefito8-gov-br.mail.protection.outlook.com', '52.101.41.54', 170, 0
-500, 435, 'antigo.mx.a.locaweb.com.br', NULL, NULL, 10
-501, 435, 'antigo.mx.b.locaweb.com.br', NULL, NULL, 10
-502, 435, 'antigo.mx.jk.locaweb.com.br', NULL, NULL, 20
-503, 435, 'ms94649695.msv1.invalid', NULL, NULL, 3276
-504, 437, 'mx.core.locaweb.com.br', '177.153.23.241', 99, 10
-505, 437, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 20
-506, 437, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 20
-507, 437, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-508, 438, 'hl06mta1.argohost.net', '201.139.186.196', 171, 0
-509, 438, 'hl06mta2.argohost.net', '201.139.186.199', 172, 0
-510, 438, 'hl06mta3.argohost.net', '201.139.186.200', 173, 0
-511, 439, 'h01r16.llevon.com.br', '187.0.205.24', 174, 0
-512, 440, 'mx.cremesp.gov.br', '200.198.189.214', 175, 5
-513, 442, 'mx.core.locaweb.com.br', '177.153.23.241', 99, 10
-514, 442, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 20
-515, 442, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 20
-516, 442, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-517, 444, 'crfsc.gov.br', '187.49.226.210', 176, 0
-518, 445, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-519, 445, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-520, 445, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-521, 445, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-522, 445, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-523, 446, 'crm-gov-br.mail.protection.outlook.com', '52.101.11.13', 34, 0
-524, 448, 'mx.spamexperts.com', '38.111.198.185', 177, 10
-525, 448, 'fallbackmx.spamexperts.eu', '38.89.254.156', 178, 20
-526, 448, 'lastmx.spamexperts.net', '38.89.254.156', 178, 30
-527, 450, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 10
-528, 450, 'mx.core.locaweb.com.br', '177.153.23.241', 99, 10
-529, 450, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 20
-530, 450, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-531, 451, 'mx.emailsecurityonline.com.br', '45.71.212.60', 179, 10
-532, 452, 'mail.crmvsc.gov.br', '138.122.95.18', 180, 10
-533, 453, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 10
-534, 453, 'mx.core.locaweb.com.br', '177.153.23.241', 99, 10
-535, 453, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 20
-536, 453, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-537, 454, 'mx.cfmv.gov.br', '189.85.87.76', 100, 10
-538, 454, 'mx2.cfmv.gov.br', '45.4.192.12', 101, 20
-539, 455, 'aspmx.l.google.com', '142.251.0.26', 115, 10
-540, 455, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 20
-541, 455, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 30
-542, 455, 'aspmx2.googlemail.com', '64.233.184.27', 21, 40
-543, 455, 'aspmx3.googlemail.com', '142.250.27.27', 22, 50
-544, 456, 'mail.crq-9.gov.br', '177.92.11.115', 181, 5
-545, 458, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-546, 458, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-547, 458, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-548, 458, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-549, 458, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-550, 459, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-551, 459, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-552, 459, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-553, 459, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-554, 459, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-555, 460, 'antispam.pensomail.com.br', '179.190.27.164', 182, 10
-556, 461, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-557, 461, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-558, 461, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-559, 461, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-560, 461, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-561, 463, 'aspmx.l.google.com', '142.251.0.26', 115, 0
-562, 463, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 1
-563, 463, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 2
-564, 463, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 3
-565, 463, 'alt5.aspmx.l.google.com', '142.250.150.26', 183, 5
-566, 464, 'mx.core.locaweb.com.br', '177.153.23.241', 99, 10
-567, 464, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 20
-568, 464, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 20
-569, 464, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-570, 466, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-571, 466, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-572, 466, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-573, 466, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-574, 466, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-575, 467, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-576, 467, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-577, 467, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-578, 467, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-579, 467, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-580, 468, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-581, 468, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-582, 468, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-583, 468, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-584, 468, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-585, 469, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-586, 469, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-587, 469, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-588, 469, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-589, 469, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-590, 470, 'mx-vip-01.uni5.net', '191.6.220.38', 184, 5
-591, 470, 'mx-vip-02.uni5.net', '191.6.220.39', 185, 5
-592, 471, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 10
-593, 471, 'mx.core.locaweb.com.br', '177.153.23.241', 99, 10
-594, 471, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 20
-595, 471, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-596, 472, 'crtr14-gov-br.mail.protection.outlook.com', '52.101.11.3', 28, 0
-597, 473, 'mx1.ntshs.net', '63.143.34.92', 186, 10
-598, 473, 'mail.crtr17.gov.br', '74.63.210.132', 187, 10
-599, 473, 'mx2.ntshs.net', '216.245.220.55', 188, 20
-600, 474, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 10
-601, 474, 'mx.core.locaweb.com.br', '177.153.23.241', 99, 10
-602, 474, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 20
-603, 474, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-604, 475, 'smtpvin1.f1.k8.com.br', '187.73.32.162', 189, 10
-605, 476, 'mx.core.locaweb.com.br', '177.153.23.241', 99, 10
-606, 476, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 20
-607, 476, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 20
-608, 476, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-609, 477, 'aspmx.l.google.com', '142.251.0.26', 115, 1
-610, 477, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-611, 477, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-612, 477, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-613, 477, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-614, 478, 'mail.crtrpe.gov.br', '192.185.213.13', 190, 0
-615, 479, 'antispam2.llevon.com.br', '187.0.205.39', 191, 10
-616, 479, 'mail.crtrrj.gov.br', '187.0.205.22', 167, 20
-617, 479, 'h01r12.llevon.com.br', '187.0.205.22', 167, 50
-618, 480, 'mail.crtsp.gov.br', '138.122.95.55', 192, 10
-619, 484, 'teresopolis.cti.gov.br', '200.144.113.17', 97, 10
-620, 485, 'luminol.ctir.gov.br', '200.160.7.164', 193, 5
-621, 486, 'cultura-gov-br.mail.protection.outlook.com', '52.101.10.10', 194, 0
-622, 488, 'cvm-gov-br.mail.protection.outlook.com', '52.101.10.2', 107, 0
-623, 490, 'protection.serpro.gov.br', '161.148.50.251', 39, 10
-624, 492, 'dataprev-gov-br.mail.protection.outlook.com', '52.101.40.24', 42, 5
-625, 492, 'smtp2.dataprev.gov.br', '200.152.39.40', 195, 10
-626, 492, 'mailint.dataprev.gov.br', '200.152.35.47', 196, 10
-627, 493, 'azulao.datasus.gov.br', '189.28.143.94', 197, 10
-628, 493, 'falcao.datasus.gov.br', '189.28.143.170', 198, 20
-629, 494, 'decea-gov-br.mail.protection.outlook.com', '52.101.41.28', 199, 5
-630, 495, 'silicio.defesa.gov.br', '200.198.192.140', 200, 5
-631, 496, 'mx1.defesacivil.gov.br', '200.198.213.91', 201, 10
-632, 496, 'mx2.defesacivil.gov.br', '200.198.213.92', 202, 10
-633, 497, 'defesadoconsumidor-gov-br.mail.protection.outlook.com', '52.101.10.12', 45, 10
-634, 497, 'piaget00.mj.gov.br', '189.9.0.101', 132, 11
-635, 500, 'souzinha1.camara.gov.br', '200.219.133.161', 64, 10
-636, 500, 'souzinha2.camara.gov.br', '200.219.133.162', 65, 10
-637, 500, 'souzinha3.camara.gov.br', '200.219.133.163', 66, 10
-638, 505, 'smtp-serpro01.mds.gov.br', '200.198.205.29', 59, 10
-639, 505, 'smtp-serpro02.mds.gov.br', '200.198.205.30', 60, 10
-640, 506, 'smtp053.gdfnet.df.gov.br', '131.72.222.253', 52, 5
-641, 506, 'smtp054.gdfnet.df.gov.br', '131.72.222.254', 53, 5
-642, 506, 'smtp051.gdfnet.df.gov.br', '131.72.221.51', 54, 15
-643, 507, 'esa01.presidencia.gov.br', '170.246.255.51', 50, 5
-644, 507, 'esa02.presidencia.gov.br', '170.246.255.52', 51, 10
-645, 508, 'esa01.presidencia.gov.br', '170.246.255.51', 50, 5
-646, 508, 'esa02.presidencia.gov.br', '170.246.255.52', 51, 10
-647, 516, 'mailing.direitoshumanos.gov.br', '189.9.36.187', 203, 10
-648, 520, 'dc02-dnit-mx02.mlicloud.com', '186.227.197.44', 204, 10
-649, 520, 'dc03-dnit-mx01.mlicloud.com', '187.45.189.84', 205, 10
-650, 521, 'smtp.dnocs.gov.br', '177.14.224.152', 206, 5
-651, 521, 'webmail.dnocs.gov.br', '177.14.224.156', 207, 10
-652, 521, 'd01ls029v.dnocs.gov.br', '177.14.224.151', 208, 30
-653, 522, 'dnpm-pe.gov.br', '208.115.238.130', 209, 0
-654, 523, 'dnpm-gov-br.mail.protection.outlook.com', '52.101.10.1', 69, 10
-655, 525, 'dominiopublico-gov-br.mail.protection.outlook.com', '52.101.42.18', 29, 0
-656, 527, 'dpf-gov-br.mail.protection.outlook.com', '52.101.41.58', 210, 1
-657, 528, 'mailmx.abc.gov.br', '201.36.109.91', 56, 10
-658, 531, 'mx01.abin.gov.br', '200.198.220.7', 5, 10
-659, 531, 'mx02.abin.gov.br', '200.198.220.17', 6, 10
-660, 541, 'ssmtp002.pr.gov.br', NULL, NULL, 0
-661, 541, 'smtp.pr.gov.br', NULL, NULL, 10
-662, 545, 'relayone.serpro.gov.br', '161.148.173.216', 211, 10
-663, 546, 'email.eafmachado.gov.br', '200.131.10.42', 212, 10
-664, 548, 'mx-caprica.zoneedit.com', '64.68.198.24', 213, 0
-665, 550, 'ebserh-gov-br.mail.protection.outlook.com', '52.101.11.9', 112, 0
-666, 552, 'dc02-economia-mx01.mlicloud.com', '186.227.197.37', 122, 10
-667, 552, 'dc02-economia-mx02.mlicloud.com', '187.45.183.227', 123, 10
-668, 552, 'economia-mx-balancer.mlicloud.com', '187.108.197.247', 214, 10
-669, 556, 'educacao-gov-br.mail.protection.outlook.com', '52.101.42.10', 79, 0
-670, 561, 'deedee.tse.gov.br', NULL, NULL, 5
-671, 561, 'dexter.tse.gov.br', NULL, NULL, 10
-672, 562, 'mxa-007a2802.gslb.pphosted.com', '148.163.146.14', 104, 10
-673, 562, 'mxb-007a2802.gslb.pphosted.com', '148.163.143.246', 105, 10
-674, 564, 'mxa-007a2802.gslb.pphosted.com', '148.163.146.14', 104, 10
-675, 564, 'mxb-007a2802.gslb.pphosted.com', '148.163.143.246', 105, 10
-676, 565, 'asetn01.eletronuclear.gov.br', '187.16.71.206', 215, 5
-677, 565, 'asetn02.eletronuclear.gov.br', '187.95.42.141', 216, 5
-678, 567, 'mxa-007a2802.gslb.pphosted.com', '148.163.146.14', 104, 10
-679, 567, 'mxb-007a2802.gslb.pphosted.com', '148.163.143.246', 105, 10
-680, 569, 'mx.embratur.gov.br', NULL, NULL, 5
-681, 569, 'mx2.embratur.gov.br', NULL, NULL, 10
-682, 570, 'aruba.emgea.gov.br', '187.32.152.73', 217, 10
-683, 571, 'mx1.emgepron.gov.br', '187.29.162.15', 25, 9
-684, 571, 'mx3.emgepron.gov.br', '187.29.162.14', 26, 9
-685, 571, 'mx4.emgepron.gov.br', '187.29.11.36', 27, 9
-686, 572, 'smtp.google.com', '64.233.186.26', 218, 1
-687, 576, 'enap-gov-br.mail.protection.outlook.com', '52.101.41.54', 170, 0
-688, 577, 'enbpar-gov-br.mail.protection.outlook.com', '52.101.198.38', 219, 0
-689, 581, 'ensaiosclinicos.gov.br', '140.82.26.58', 220, 10
-690, 585, 'epl-gov-br.mail.protection.outlook.com', '52.101.10.16', 221, 0
-691, 593, 'gw1.correio.es.gov.br', '201.62.44.139', 222, 10
-692, 593, 'gw2.correio.es.gov.br', '201.62.44.16', 223, 10
-693, 595, 'mailmtb.escoladotrabalhador.gov.br', '200.130.15.217', 224, 10
-694, 597, 'mail.esd.gov.br', '200.17.1.129', 225, 10
-695, 600, 'protection.serpro.gov.br', '161.148.50.251', 39, 0
-696, 601, 'esporte-gov-br.mail.protection.outlook.com', '52.101.10.10', 194, 0
-697, 609, 'relay.mdic.gov.br', NULL, NULL, 10
-698, 609, 'smtp2.mdic.gov.br', NULL, NULL, 15
-699, 610, 'relay.mdic.gov.br', NULL, NULL, 10
-700, 610, 'smtp2.mdic.gov.br', NULL, NULL, 15
-701, 611, 'mailscan-in.serpro.gov.br', '161.148.21.200', 46, 10
-702, 612, 'mail7.fab.gov.br', NULL, NULL, 10
-703, 615, 'mx1.mte.gov.br', NULL, NULL, 10
-704, 615, 'mx2.mte.gov.br', NULL, NULL, 20
-705, 616, 'mte-mx03.mlicloud.com', '187.108.197.246', 120, 0
-706, 616, 'mte-mx04.mlicloud.com', '187.108.197.187', 121, 0
-707, 616, 'dc02-economia-mx01.mlicloud.com', '186.227.197.37', 122, 0
-708, 616, 'dc02-economia-mx02.mlicloud.com', '187.45.183.227', 123, 0
-709, 623, 'e2c3358fd45147b663d5a538f5f9fb.mail.outlook.com', '52.101.10.18', 226, 10
-710, 625, 'finep-gov-br.mail.protection.outlook.com', '52.101.198.38', 219, 10
-711, 627, 'florestal2023-mail-onmicrosoft-com.mail.protection.outlook.com', '52.101.200.0', 1, 0
-712, 628, 'fnde-gov-br.mail.protection.outlook.com', '52.101.42.6', 67, 0
-713, 631, 'smtp-serpro.mds.gov.br', NULL, NULL, 10
-714, 639, 'funag-gov-br.mail.protection.outlook.com', '52.101.198.0', 35, 0
-715, 640, 'funai-gov-br.mail.protection.outlook.com', '52.101.8.46', 227, 0
-716, 640, 'smtp1.funai.gov.br', '189.9.55.11', 228, 5
-717, 640, 'smtp2.funai.gov.br', '189.9.55.12', 229, 5
-718, 640, 'primary.us.email.fireeyecloud.com', '34.223.36.122', 230, 10
-719, 640, 'alt1.us.email.fireeyecloud.com', '34.223.36.121', 231, 20
-720, 640, 'alt2.us.email.fireeyecloud.com', '3.93.93.52', 232, 30
-721, 640, 'alt3.us.email.fireeyecloud.com', '34.223.36.123', 233, 40
-722, 641, 'funarte-gov-br.mail.protection.outlook.com', '52.101.198.38', 219, 0
-723, 642, 'funasa.in.tmes.trendmicro.com', '18.208.22.77', 30, 5
-724, 643, 'fundacentro-gov-br.mail.protection.outlook.com', '52.101.41.56', 77, 0
-725, 644, 'aspmx.l.google.com', '142.250.0.26', 234, 1
-726, 644, 'alt1.aspmx.l.google.com', '64.233.184.27', 21, 5
-727, 644, 'alt2.aspmx.l.google.com', '142.250.27.26', 61, 5
-728, 644, 'alt3.aspmx.l.google.com', '142.250.153.27', 23, 10
-729, 644, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-730, 646, 'fundoamazonia-gov-br.mail.protection.outlook.com', '52.101.198.38', 219, 0
-731, 648, 'mx.funpresp.gov.br', '54.233.169.182', 235, 0
-732, 650, 'protection.serpro.gov.br', '161.148.50.251', 39, 0
-733, 651, 'smtp053.gdfnet.df.gov.br', '131.72.222.253', 52, 5
-734, 651, 'smtp054.gdfnet.df.gov.br', '131.72.222.254', 53, 10
-735, 651, 'smtp051.gdfnet.df.gov.br', '131.72.221.51', 54, 15
-736, 654, 'mte-mx03.mlicloud.com', '187.108.197.246', 120, 10
-737, 654, 'mte-mx04.mlicloud.com', '187.108.197.187', 121, 10
-738, 654, 'dc02-economia-mx01.mlicloud.com', '186.227.197.37', 122, 10
-739, 654, 'dc02-economia-mx02.mlicloud.com', '187.45.183.227', 123, 10
-740, 658, 'mailinspector-goias.lb.go.gov.br', '45.183.244.63', 236, 0
-741, 659, 'goias-gov-br.mail.protection.outlook.com', '52.101.10.5', 237, 0
-742, 659, 'mta1.go.gov.br', '45.183.244.45', 238, 50
-743, 662, 'esa01.presidencia.gov.br', '170.246.255.51', 50, 5
-744, 662, 'esa02.presidencia.gov.br', '170.246.255.52', 51, 10
-745, 665, 'protection.serpro.gov.br', '161.148.50.251', 39, 0
-746, 666, 'esa01.presidencia.gov.br', '170.246.255.51', 50, 5
-747, 666, 'esa02.presidencia.gov.br', '170.246.255.52', 51, 10
-748, 669, 'srvwsbrexet01.hemobras.gov.br', '177.221.45.30', 239, 10
-749, 674, 'ibama-gov-br.mail.protection.outlook.com', '52.101.10.12', 45, 5
-750, 675, 'aspmx.l.google.com', '142.250.0.26', 234, 1
-751, 675, 'alt1.aspmx.l.google.com', '64.233.184.27', 21, 5
-752, 675, 'alt2.aspmx.l.google.com', '142.250.27.26', 61, 5
-753, 675, 'alt3.aspmx.l.google.com', '142.250.153.27', 23, 10
-754, 675, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-755, 676, 'ibge-gov-br.mail.protection.outlook.com', '52.101.41.6', 240, 5
-756, 677, 'ibram07.ibram.gov.br', '177.69.150.181', 241, 10
-757, 678, 'aspmx.l.google.com', '142.250.0.26', 234, 10
-758, 678, 'alt1.aspmx.l.google.com', '64.233.184.27', 21, 20
-759, 678, 'alt2.aspmx.l.google.com', '142.250.27.26', 61, 20
-760, 678, 'aspmx2.googlemail.com', '64.233.184.27', 21, 30
-761, 678, 'aspmx3.googlemail.com', '142.250.27.27', 22, 30
-762, 678, 'aspmx4.googlemail.com', '142.250.153.26', 117, 30
-763, 678, 'aspmx5.googlemail.com', '142.251.9.27', 24, 30
-764, 680, 'icmbio-gov-br.mail.protection.outlook.com', '52.101.40.4', 80, 0
-765, 681, 'mx.icpbrasil.gov.br', '200.130.30.6', 9, 1
-766, 681, 'mx.acraiz.gov.br', '200.130.30.6', 9, 5
-767, 682, 'mail.iec.gov.br', '200.139.9.101', 242, 5
-768, 683, 'ien-gov-br.mail.protection.outlook.com', '52.101.198.1', 4, 0
-769, 685, 'mdh.in.tmes.trendmicro.com', '18.208.22.77', 30, 0
-770, 687, 'relay.eb.mil.br', '177.8.81.216', 243, 10
-771, 687, 'relay2.eb.mil.br', '177.8.81.217', 244, 10
-772, 690, 'sol-01.inb.gov.br', '201.87.145.140', 245, 5
-773, 690, 'sol-02.inb.gov.br', '189.127.82.76', 246, 10
-774, 691, 'smtp.google.com', '64.233.186.26', 218, 1
-775, 691, 'srvgw02.inca.gov.br', '200.33.96.13', 247, 15
-776, 693, 'incra-gov-br.mail.protection.outlook.com', '52.101.8.42', 31, 10
-777, 694, 'inde-gov-br.mail.protection.outlook.com', '52.101.194.15', 248, 5
-778, 696, 'mx01.inep.gov.br', '200.130.24.115', 249, 10
-779, 696, 'mx02.inep.gov.br', '200.130.24.116', 250, 10
-780, 696, 'relay.inep.gov.br', '200.130.24.121', 251, 100
-781, 697, 'aspmx.l.google.com', '142.250.0.26', 234, 1
-782, 697, 'alt1.aspmx.l.google.com', '64.233.184.27', 21, 5
-783, 697, 'alt2.aspmx.l.google.com', '142.250.27.26', 61, 5
-784, 697, 'alt3.aspmx.l.google.com', '142.250.153.27', 23, 10
-785, 697, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-786, 703, 'piaget00.mj.gov.br', '189.9.0.101', 132, 1
-787, 703, 'piaget.mj.gov.br', '189.9.0.101', 132, 10
-788, 703, 'maine.mj.gov.br', '189.9.0.101', 132, 20
-789, 705, 'mail.infraero.gov.br', '45.171.50.29', 11, 0
-790, 708, 'infrasa-gov-br.mail.protection.outlook.com', '52.101.11.15', 63, 10
-791, 710, 'aspmx.l.google.com', '142.250.0.26', 234, 1
-792, 710, 'alt1.aspmx.l.google.com', '64.233.184.27', 21, 5
-793, 710, 'alt2.aspmx.l.google.com', '142.250.27.26', 61, 5
-794, 710, 'alt3.aspmx.l.google.com', '142.250.153.27', 23, 10
-795, 710, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-796, 711, 'inmet-gov-br.mail.protection.outlook.com', '52.101.198.1', 4, 0
-797, 712, 'ksmg.inmetro.gov.br', '200.20.212.42', 252, 10
-798, 713, 'ksmg.inmetrogo.gov.br', '200.20.212.41', 253, 10
-799, 715, 'mailserver.inpa.gov.br', '200.17.53.9', 254, 10
-800, 716, 'smtp.inpi.gov.br', '168.90.175.156', 255, 20
-801, 717, 'aspmx.l.google.com', '142.250.0.26', 234, 1);
-802, 717, 'alt1.aspmx.l.google.com', '64.233.184.27', 21, 5
-803, 717, 'alt2.aspmx.l.google.com', '142.250.27.26', 61, 5
-804, 717, 'alt3.aspmx.l.google.com', '142.250.153.27', 23, 10
-805, 717, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-806, 718, 'aspmx.l.google.com', '142.250.0.26', 234, 1
-807, 718, 'alt1.aspmx.l.google.com', '64.233.184.27', 21, 2
-808, 718, 'alt2.aspmx.l.google.com', '142.250.27.26', 61, 3
-809, 718, 'alt3.aspmx.l.google.com', '142.250.153.27', 23, 4
-810, 718, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 5
-811, 719, 'inss-gov-br.mail.protection.outlook.com', '52.101.41.3', 3, 10
-812, 721, 'mailscan-in.serpro.gov.br', '161.148.21.200', 46, 0
-813, 722, 'aspmx.l.google.com', '142.250.0.26', 234, 1
-814, 722, 'alt1.aspmx.l.google.com', '64.233.184.27', 21, 5
-815, 722, 'alt2.aspmx.l.google.com', '142.250.27.26', 61, 5
-816, 722, 'alt3.aspmx.l.google.com', '142.250.153.27', 23, 10
-817, 722, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-818, 723, 'dcse-23.int.gov.br', '200.20.196.22', 256, 0
-819, 724, 'integracao-gov-br.mail.protection.outlook.com', '52.101.41.54', 170, 0
-820, 725, 'naumailmtain1.interlegis.leg.br', '201.54.51.144', 257, 10
-821, 725, 'naumailmtain2.interlegis.leg.br', '201.54.51.145', 258, 10
-822, 725, 'naumailmtain3.interlegis.leg.br', '201.54.51.147', 259, 10
-823, 735, 'ssmtp002.pr.gov.br', NULL, NULL, 5
-824, 735, 'ssmtp003.pr.gov.br', NULL, NULL, 5
-825, 735, 'smtp.pr.gov.br', NULL, NULL, 20
-826, 736, 'ipea-gov-br.mail.protection.outlook.com', '52.101.11.10', 10, 10
-827, 737, 'mailmaster4.ipea.gov.br', '45.171.102.3', 260, 10
-828, 738, 'iphan-gov-br.mail.protection.outlook.com', '52.101.42.10', 79, 0
-829, 740, 'ipsm-gov-br.mail.protection.outlook.com', '52.101.9.0', 261, 0
-830, 741, 'caxias.irbbrasilre.com', '200.214.65.150', 57, 10
-831, 741, 'tijuca.irbbrasilre.com', '189.125.177.216', 58, 10
-832, 742, 'caxias.irbbrasilre.com', '200.214.65.150', 57, 10
-833, 742, 'tijuca.irbbrasilre.com', '189.125.177.216', 58, 10
-834, 743, 'caxias.irbbrasilre.com', '200.214.65.150', 57, 10
-835, 743, 'tijuca.irbbrasilre.com', '189.125.177.216', 58, 10
-836, 744, 'ird-gov-br.mail.protection.outlook.com', '52.101.198.0', 35, 0
-837, 745, 'itaipu-gov-br.mail.protection.outlook.com', '52.101.198.0', 35, 5
-838, 746, 'itamaraty-gov-br.mail.protection.outlook.com', '52.101.198.38', 219, 0
-839, 747, 'iti-gov-br.mail.protection.outlook.com', '52.101.10.5', 237, 0
-840, 748, 'aspmx.l.google.com', '142.250.0.26', 234, 1
-841, 748, 'alt1.aspmx.l.google.com', '64.233.184.27', 21, 5
-842, 748, 'alt2.aspmx.l.google.com', '142.250.27.26', 61, 5
-843, 748, 'alt3.aspmx.l.google.com', '142.250.153.27', 23, 10
-844, 748, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-845, 754, 'jfce-gov-br.mail.protection.outlook.com', '52.101.198.38', 219, 0
-846, 756, 'mail.jfes.gov.br', '187.73.237.197', 262, 10
-847, 761, 'mx.jfrj.jus.br', '177.223.208.15', 263, 0
-848, 761, 'mx.trf2.jus.br', '201.48.221.24', 264, 0
-849, 762, 'ironport.jfrn.gov.br', '45.178.243.130', 265, 0
-850, 763, 'mx1.jfrs.gov.br', '168.194.28.13', 266, 5
-851, 763, 'mx2.jfrs.gov.br', '168.194.28.14', 267, 5
-852, 771, 'mx.justicafederal.gov.br', '201.49.156.78', 268, 10
-853, 789, 'mx1.srvmail.ma.gov.br', '181.191.91.198', 269, 5
-854, 791, 'maismedicos-gov-br.mail.protection.outlook.com', NULL, NULL, 0
-855, 796, 'mcom-gov-br.mail.protection.outlook.com', '52.101.40.24', 42, 0
-856, 797, 'mcti-gov-br.mail.protection.outlook.com', '52.101.198.1', 4, 5
-857, 798, 'mx1.mctic.gov.br', '200.130.9.21', 270, 10
-858, 798, 'mx2.mctic.gov.br', '200.130.9.22', 271, 10
-859, 799, 'cluster1.us.messagelabs.com', '67.219.246.210', 272, 10
-860, 799, 'cluster1a.us.messagelabs.com', '52.207.128.88', 13, 20
-861, 800, 'mdh.in.tmes.trendmicro.com', '18.208.22.77', 30, 0
-862, 801, 'mte-mx03.mlicloud.com', '187.108.197.246', 120, 10
-863, 801, 'mte-mx04.mlicloud.com', '187.108.197.187', 121, 10
-864, 801, 'dc02-economia-mx01.mlicloud.com', '186.227.197.37', 122, 10
-865, 801, 'dc02-economia-mx02.mlicloud.com', '187.45.183.227', 123, 10
-866, 802, 'mdr-gov-br.mail.protection.outlook.com', '52.101.41.21', 131, 0
-867, 803, 'mds-gov-br.mail.protection.outlook.com', '52.101.41.54', 170, 0
-868, 804, 'mec-gov-br.mail.protection.outlook.com', '52.101.9.14', 62, 0
-869, 809, 'mte-mx03.mlicloud.com', '187.108.197.246', 120, 10
-870, 809, 'mte-mx04.mlicloud.com', '187.108.197.187', 121, 10
-871, 809, 'dc02-economia-mx01.mlicloud.com', '186.227.197.37', 122, 10
-872, 809, 'dc02-economia-mx02.mlicloud.com', '187.45.183.227', 123, 10
-873, 812, 'mailmaster4.ipea.gov.br', '45.171.102.3', 260, 10
-874, 815, 'mx1.antispammg.mg.gov.br', '200.198.4.121', 273, 1
-875, 815, 'mx2.antispammg.mg.gov.br', '200.198.4.122', 274, 1
-876, 815, 'mx3.antispammg.mg.gov.br', '200.198.4.53', 275, 1
-877, 816, 'mx1.mi.gov.br', '189.9.36.197', 276, 10
-878, 816, 'mx2.mi.gov.br', '189.9.36.196', 277, 10
-879, 818, 'maine.mj.gov.br', '189.9.0.101', 132, 10
-880, 818, 'piaget.mj.gov.br', '189.9.0.101', 132, 20
-881, 820, 'mj-gov-br.mail.protection.outlook.com', '52.101.11.15', 63, 0
-882, 821, 'mx.core.locaweb.com.br', '177.153.23.241', 99, 10
-883, 821, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 20
-884, 821, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 20
-885, 821, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-886, 822, 'mma-gov-br.mail.protection.outlook.com', '52.101.42.9', 278, 0
-887, 822, 'mail01.mma.gov.br', '45.231.205.19', 279, 10
-888, 822, 'mail.mma.gov.br', '45.231.205.18', 280, 100
-889, 823, 'correio2.mme.gov.br', '200.9.252.142', 281, 10
-890, 823, 'mail.mme.gov.br', '200.9.252.22', 282, 20
-891, 828, 'cluster1.us.messagelabs.com', '67.219.246.210', 272, 10
-892, 828, 'cluster1a.us.messagelabs.com', '52.207.128.88', 13, 20
-893, 831, 'smtp01.mpes.gov.br', '45.178.242.41', 283, 10
-894, 832, 'smtp1.mpu.gov.br', NULL, NULL, 5
-895, 832, 'smtp2.mpu.gov.br', NULL, NULL, 5
-896, 834, 'mpor-gov-br.mail.protection.outlook.com', '52.101.8.34', 40, 10
-897, 835, 'cioba.previdencia.gov.br', '200.152.40.101', 284, 10
-898, 837, 'smtp1.mpu.mp.br', '200.142.1.39', 285, 5
-899, 837, 'smtp2.mpu.mp.br', NULL, NULL, 5
-900, 838, 'mailmx.mre.gov.br', '189.85.94.116', 286, 10
-901, 839, 'snwl.ms.gov.br', '187.86.226.146', 287, 10
-902, 840, 'piaget00.mj.gov.br', '189.9.0.101', 132, 1
-903, 841, 'aspmx.l.google.com', '142.250.0.26', 234, 1
-904, 841, 'alt1.aspmx.l.google.com', '64.233.184.27', 21, 5
-905, 841, 'alt2.aspmx.l.google.com', '142.250.27.26', 61, 5
-906, 841, 'alt3.aspmx.l.google.com', '142.250.153.27', 23, 10
-907, 841, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-908, 842, 'mte-mx03.mlicloud.com', '187.108.197.246', 120, 10
-909, 842, 'mte-mx04.mlicloud.com', '187.108.197.187', 121, 10
-910, 842, 'dc02-economia-mx01.mlicloud.com', '186.227.197.37', 122, 10
-911, 842, 'dc02-economia-mx02.mlicloud.com', '187.45.183.227', 123, 10
-912, 844, 'mte-mx03.mlicloud.com', '187.108.197.246', 120, 10
-913, 844, 'mte-mx04.mlicloud.com', '187.108.197.187', 121, 10
-914, 844, 'dc02-economia-mx01.mlicloud.com', '186.227.197.37', 122, 10
-915, 844, 'dc02-economia-mx02.mlicloud.com', '187.45.183.227', 123, 10
-916, 845, 'mx1.mte.gov.br', NULL, NULL, 10
-917, 845, 'mx2.mte.gov.br', NULL, NULL, 20
-918, 847, 'mdh.in.tmes.trendmicro.com', '18.208.22.80', 288, 0
-919, 850, 'mx.a.locaweb.com.br', '186.202.4.42', 86, 10
-920, 850, 'mx.b.locaweb.com.br', '177.153.23.242', 85, 10
-921, 850, 'mx.jk.locaweb.com.br', '200.234.204.130', 87, 20
-922, 851, 'museudoindio-gov-br.mail.protection.outlook.com', '52.101.9.17', 2, 0
-923, 852, 'museus-gov-br.mail.protection.outlook.com', '52.101.8.42', 31, 0
-924, 853, 'navbrasil-gov-br.mail.protection.outlook.com', '52.101.198.0', 35, 0
-925, 854, 'smtp1.nbr.gov.br', '189.9.0.12', 289, 10
-926, 858, 'mail.niteroi-artes.gov.br', '192.185.221.155', 290, 0
-927, 865, 'srvras.nuclebras.gov.br', '201.57.65.226', 291, 10
-928, 866, 'nuclep-gov-br.mail.protection.outlook.com', '52.101.10.16', 221, 0
-929, 869, 'jacaranda.apps.ibict.br', NULL, NULL, 1
-930, 881, 'colab-antispam-01.pa.gov.br', '177.74.3.71', 292, 10
-931, 881, 'colab-antispam-02.pa.gov.br', '177.74.3.72', 293, 10
-932, 881, 'colab-antispam-03.pa.gov.br', '177.74.3.73', 294, 10
-933, 885, 'webmail.palmares.gov.br', '200.198.213.137', 295, 0
-934, 885, 'mx1.palmares.gov.br', '200.198.213.135', 296, 5
-935, 885, 'mx2.palmares.gov.br', '200.198.213.137', 295, 10
-936, 885, 'mx3.palmares.gov.br', '209.126.109.83', 297, 11
-937, 888, 'esa01.presidencia.gov.br', '170.246.255.51', 50, 5
-938, 888, 'esa02.presidencia.gov.br', '170.246.255.52', 51, 10
-939, 892, 'mx1.pb.gov.br', '138.185.34.4', 298, 100
-940, 892, 'mx2.pb.gov.br', '138.185.34.5', 299, 100
-941, 893, 'aspmx.l.google.com', '142.251.0.27', 300, 10
-942, 893, 'alt1.aspmx.l.google.com', '64.233.184.27', 21, 20
-943, 893, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 20
-944, 893, 'aspmx2.googlemail.com', '64.233.184.27', 21, 30
-945, 893, 'aspmx3.googlemail.com', '142.250.27.27', 22, 30
-946, 893, 'aspmx4.googlemail.com', '142.250.153.27', 23, 30
-947, 893, 'aspmx5.googlemail.com', '142.251.9.27', 24, 30
-948, 894, 'asmail.peconectado.pe.gov.br', '200.238.64.78', 301, 0
-949, 902, 'pf-gov-br.mail.protection.outlook.com', '52.101.10.10', 194, 1
-950, 903, 'aspmx.l.google.com', '142.251.0.27', 300, 1
-951, 903, 'alt1.aspmx.l.google.com', '64.233.184.27', 21, 5
-952, 903, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-953, 903, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-954, 903, 'alt4.aspmx.l.google.com', '142.251.9.27', 24, 10
-955, 906, 'zmta.pi.gov.br', '200.23.153.156', 302, 0
-956, 908, 'esa01.presidencia.gov.br', '170.246.255.51', 50, 5
-957, 908, 'esa02.presidencia.gov.br', '170.246.255.52', 51, 10
-958, 909, 'mte-mx03.mlicloud.com', '187.108.197.246', 120, 10
-959, 909, 'mte-mx04.mlicloud.com', '187.108.197.187', 121, 10
-960, 909, 'dc02-economia-mx01.mlicloud.com', '186.227.197.37', 122, 10
-961, 909, 'dc02-economia-mx02.mlicloud.com', '187.45.183.227', 123, 10
-962, 913, 'souzinha1.camara.gov.br', '200.219.133.161', 64, 10
-963, 913, 'souzinha2.camara.gov.br', '200.219.133.162', 65, 10
-964, 913, 'souzinha3.camara.gov.br', '200.219.133.163', 66, 10
-965, 917, 'protection.serpro.gov.br', '161.148.50.251', 39, 10
-966, 922, 'aspmx.l.google.com', '64.233.186.27', 20, 1
-967, 922, 'alt1.aspmx.l.google.com', '64.233.184.27', 21, 5
-968, 922, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-969, 922, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-970, 922, 'alt4.aspmx.l.google.com', '142.251.9.27', 24, 10
-971, 924, 'sucuri.snisb.gov.br', '177.15.65.152', 83, 10
-972, 924, 'bonito.snisb.gov.br', '177.15.65.189', 84, 50
-973, 926, 'mailmx2.portaldoconsumidor.gov.br', NULL, NULL, 5
-974, 937, 'portodesantos-gov-br.mail.protection.outlook.com', '52.101.11.2', 76, 0
-975, 938, 'portodevitoria.gov.br', '177.39.234.157', 303, 10
-976, 940, 'portosrio-gov-br.mail.protection.outlook.com', '52.101.9.17', 2, 0
-977, 942, 'mte-mx03.mlicloud.com', '187.108.197.246', 120, 10
-978, 942, 'mte-mx04.mlicloud.com', '187.108.197.187', 121, 10
-979, 942, 'dc02-economia-mx01.mlicloud.com', '186.227.197.37', 122, 10
-980, 942, 'dc02-economia-mx02.mlicloud.com', '187.45.183.227', 123, 10
-981, 944, 'ppsa-gov-br.mail.protection.outlook.com', '52.101.41.6', 240, 0
-982, 945, 'smtp01.pr.gov.br', '200.189.123.155', 94, 5
-983, 945, 'smtp02.pr.gov.br', '200.189.123.155', 94, 5
-984, 945, 'smtp03.pr.gov.br', '200.189.123.155', 94, 5
-985, 945, 'smtp04.pr.gov.br', '200.189.123.155', 94, 5
-986, 945, 'smtp05.pr.gov.br', '200.189.123.155', 94, 5
-987, 949, 'mx1.hc5664-24.iphmx.com', '68.232.148.130', 304, 10
-988, 949, 'mx2.hc5664-24.iphmx.com', '68.232.148.130', 304, 10
-989, 951, 'presalpetroleo-gov-br.mail.protection.outlook.com', '52.101.40.2', 37, 0
-990, 952, 'esa01.presidencia.gov.br', '170.246.255.51', 50, 5
-991, 952, 'esa02.presidencia.gov.br', '170.246.255.52', 51, 10
-992, 953, 'previc-gov-br.mail.protection.outlook.com', '52.101.200.0', 1, 0
-993, 954, 'mte-mx03.mlicloud.com', '187.108.197.246', 120, 10
-994, 954, 'mte-mx04.mlicloud.com', '187.108.197.187', 121, 10
-995, 954, 'dc02-economia-mx01.mlicloud.com', '186.227.197.37', 122, 10
-996, 954, 'dc02-economia-mx02.mlicloud.com', '187.45.183.227', 123, 10
-997, 956, 'aspmx.l.google.com', '64.233.186.27', 20, 1
-998, 956, 'alt1.aspmx.l.google.com', '64.233.184.27', 21, 5
-999, 956, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-1000, 956, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-1001, 956, 'alt4.aspmx.l.google.com', '142.251.9.27', 24, 10
-1002, 960, 'prodeb-gov-br.mail.protection.outlook.com', '52.101.40.6', 305, 0
-1003, 961, 'mx3.antispammg.mg.gov.br', '200.198.4.53', 275, 5
-1004, 961, 'mx2.antispammg.mg.gov.br', '200.198.4.122', 274, 8
-1005, 961, 'mx1.antispammg.mg.gov.br', '200.198.4.121', 273, 10
-1006, 962, 'colab-antispam-01.pa.gov.br', '177.74.3.71', 292, 5
-1007, 962, 'colab-antispam-02.pa.gov.br', '177.74.3.72', 293, 10
-1008, 962, 'colab-antispam-03.pa.gov.br', '177.74.3.73', 294, 10
-1009, 973, 'prove.gov.br', '69.73.181.16', 306, 0
-1010, 995, 'protection.serpro.gov.br', '161.148.50.251', 39, 5
-1011, 996, 'ksmg.inmetro.rs.gov.br', '200.132.19.141', 307, 10
-1012, 1003, 'redecontrole-gov-br.mail.protection.outlook.com', '52.101.10.12', 45, 0
-1013, 1004, 'rededecontrole-gov-br.mail.protection.outlook.com', '52.101.42.16', 81, 0
-1014, 1005, 'email.esporte.gov.br', '200.198.205.29', 59, 5
-1015, 1005, 'email3.esporte.gov.br', '200.198.205.30', 60, 10
-1016, 1009, 'protection.serpro.gov.br', '161.148.50.251', 39, 0
-1017, 1020, 'rfb-gov-br.mail.protection.outlook.com', '52.101.11.17', 308, 0
-1018, 1022, 'mx1.rio.gov.br', '187.111.111.2', 309, 10
-1019, 1024, 'mailscan-in.serpro.gov.br', '161.148.21.200', 46, 0
-1020, 1025, 'mx2.webmail.rj.gov.br', '187.62.129.129', 310, 10
-1021, 1030, 'mail.rr.gov.br', '190.123.15.9', 311, 5
-1022, 1032, 'mxsec.direto.procergs.rs.gov.br', '200.189.134.196', 312, 10
-1023, 1032, 'mxsec2.direto.procergs.rs.gov.br', '200.189.134.194', 313, 20
-1024, 1032, 'mxsec3.direto.procergs.rs.gov.br', '200.189.134.155', 314, 30
-1025, 1032, 'mxsec4.direto.procergs.rs.gov.br', '200.189.134.30', 315, 40
-1026, 1034, 'cluster1.us.messagelabs.com', '67.219.247.202', 316, 10
-1027, 1034, 'cluster1a.us.messagelabs.com', '52.207.128.88', 13, 20
-1028, 1035, 'aspmx.l.google.com', '64.233.186.27', 20, 1
-1029, 1035, 'alt1.aspmx.l.google.com', '64.233.184.27', 21, 5
-1030, 1035, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-1031, 1035, 'aspmx2.googlemail.com', '64.233.184.27', 21, 10
-1032, 1035, 'aspmx3.googlemail.com', '142.250.27.27', 22, 10
-1033, 1039, 'mxs3.se.gov.br', '187.17.2.201', 317, 5
-1034, 1039, 'mxs4.se.gov.br', '187.17.2.203', 318, 10
-1035, 1039, 'mxs5.se.gov.br', '187.17.2.206', 319, 15
-1036, 1040, 'seade-gov-br.mail.protection.outlook.com', '52.101.41.28', 199, 0
-1037, 1041, 'esa01.presidencia.gov.br', '170.246.255.51', 50, 5
-1038, 1041, 'esa02.presidencia.gov.br', '170.246.255.52', 51, 10
-1039, 1043, 'esa01.presidencia.gov.br', '170.246.255.51', 50, 5
-1040, 1043, 'esa02.presidencia.gov.br', '170.246.255.52', 51, 10
-1041, 1044, 'esa01.presidencia.gov.br', '170.246.255.51', 50, 5
-1042, 1044, 'esa02.presidencia.gov.br', '170.246.255.52', 51, 10
-1043, 1045, 'esa01.presidencia.gov.br', '170.246.255.51', 50, 5
-1044, 1045, 'esa02.presidencia.gov.br', '170.246.255.52', 51, 10
-1045, 1046, 'amobika.sdh.gov.br', NULL, NULL, 10
-1046, 1047, 'esa01.presidencia.gov.br', '170.246.255.51', 50, 5
-1047, 1047, 'esa02.presidencia.gov.br', '170.246.255.52', 51, 10
-1048, 1048, 'piaget00.mj.gov.br', '189.9.0.101', 132, 1
-1049, 1054, 'relay.mdic.gov.br', NULL, NULL, 10
-1050, 1054, 'smtp2.mdic.gov.br', NULL, NULL, 15
-1051, 1057, 'senad-gov-br.mail.protection.outlook.com', '52.101.10.10', 194, 0
-1052, 1058, 'senado-gov-br.mail.protection.outlook.com', '52.101.10.2', 107, 5
-1053, 1059, 'senador-gov-br.mail.protection.outlook.com', '52.101.42.10', 79, 5
-1054, 1060, 'senadora-gov-br.mail.protection.outlook.com', '52.101.40.2', 37, 5
-1055, 1063, 'protection.serpro.gov.br', '161.148.50.251', 39, 0
-1056, 1065, 'protection.serpro.gov.br', '161.148.50.251', 39, 10
-1057, 1068, 'smtp.seti.gov.br', NULL, NULL, 0
-1058, 1069, 'esa01.presidencia.gov.br', '170.246.255.51', 50, 5
-1059, 1069, 'esa02.presidencia.gov.br', '170.246.255.52', 51, 10
-1060, 1070, 'aspmx.l.google.com', '64.233.186.27', 20, 1
-1061, 1070, 'alt1.aspmx.l.google.com', '64.233.184.27', 21, 5
-1062, 1070, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-1063, 1070, 'alt3.aspmx.l.google.com', '142.250.153.26', 117, 10
-1064, 1070, 'alt4.aspmx.l.google.com', '142.251.9.27', 24, 10
-1065, 1072, 'esa01.presidencia.gov.br', '170.246.255.51', 50, 5
-1066, 1072, 'esa02.presidencia.gov.br', '170.246.255.52', 51, 10
-1067, 1075, 'tyrion.lncc.br', '146.134.8.188', 320, 0
-1068, 1080, 'sigplan.planejamento.gov.br', NULL, NULL, 10
-1069, 1083, 'protection.serpro.gov.br', '161.148.50.251', 39, 0
-1070, 1085, 'mx.via-rs.com.br', '200.198.128.218', 321, 10
-1071, 1085, 'mxbkp.via-rs.com.br', NULL, NULL, 20
-1072, 1088, 'sipam-gov-br.mail.protection.outlook.com', '52.101.198.38', 219, 0
-1073, 1090, 'mx.sirc.gov.br', '200.152.40.96', 322, 10
-1074, 1093, 'protection.serpro.gov.br', '161.148.50.251', 39, 0
-1075, 1095, 'mx.zoho.com', '204.141.43.44', 323, 10
-1076, 1095, 'mx2.zoho.com', '204.141.33.44', 324, 20
-1077, 1095, 'mx3.zoho.com', '136.143.183.44', 325, 50
-1078, 1102, 'mail.snirh.gov.br', NULL, NULL, 10
-1079, 1104, 'sucuri.snisb.gov.br', '177.15.65.152', 83, 10
-1080, 1104, 'bonito.snisb.gov.br', '177.15.65.189', 84, 50
-1081, 1113, 'sp-gov-br.mail.protection.outlook.com', '52.101.10.6', 78, 10
-1082, 1114, 'amobika.mdh.gov.br', '200.198.218.98', 326, 10
-1083, 1116, 'relay.mdic.gov.br', NULL, NULL, 10
-1084, 1116, 'smtp2.mdic.gov.br', NULL, NULL, 15
-1085, 1121, 'stn-gov-br.mail.protection.outlook.com', '52.101.10.14', 74, 0
-1086, 1122, 'sudam-gov-br.mail.protection.outlook.com', '52.101.198.0', 35, 5
-1087, 1123, 'sudeco-gov-br.mail.protection.outlook.com', '52.101.9.24', 327, 0
-1088, 1124, 'sudene-gov-br.mail.protection.outlook.com', '52.101.198.1', 4, 10
-1089, 1125, 'suframa-gov-br.mail.protection.outlook.com', '52.101.198.1', 4, 0
-1090, 1129, 'relay.mdic.gov.br', NULL, NULL, 10
-1091, 1129, 'smtp2.mdic.gov.br', NULL, NULL, 15
-1092, 1131, 'mail.sus.gov.br', '189.28.143.223', 328, 10
-1093, 1132, 'susep-gov-br.mail.protection.outlook.com', '52.101.10.6', 78, 0
-1094, 1133, 'protection.serpro.gov.br', '161.148.50.251', 39, 10
-1095, 1135, 'tcu-gov-br.mail.protection.outlook.com', '52.101.194.0', 329, 30
-1096, 1142, 'tesouro-gov-br.mail.protection.outlook.com', '52.101.41.21', 131, 0
-1097, 1145, 'ticontrole-gov-br.mail.protection.outlook.com', '52.101.42.16', 81, 0
-1098, 1148, 'smtp.google.com', '64.233.186.27', 20, 10
-1099, 1151, 'smtp.to.gov.br', '131.72.217.19', 330, 10
-1100, 1154, 'mte-mx03.mlicloud.com', '187.108.197.246', 120, 10
-1101, 1154, 'mte-mx04.mlicloud.com', '187.108.197.187', 121, 10
-1102, 1154, 'dc02-economia-mx01.mlicloud.com', '186.227.197.37', 122, 10
-1103, 1154, 'dc02-economia-mx02.mlicloud.com', '187.45.183.227', 123, 10
-1104, 1161, 'transportes-gov-br.mail.protection.outlook.com', '52.101.42.13', 331, 5
-1105, 1168, 'aspmx.l.google.com', '142.250.0.26', 234, 1
-1106, 1168, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-1107, 1168, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-1108, 1168, 'alt3.aspmx.l.google.com', '142.250.153.27', 23, 10
-1109, 1168, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-1110, 1169, 'trees-gov-br0i.mail.protection.outlook.com', '52.101.41.22', 332, 5
-1111, 1174, 'tremt-gov-br0i.mail.protection.outlook.com', '52.101.8.32', 333, 0
-1112, 1175, 'aspmx.l.google.com', '142.250.0.26', 234, 1
-1113, 1175, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-1114, 1175, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-1115, 1175, 'alt3.aspmx.l.google.com', '142.250.153.27', 23, 10
-1116, 1175, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-1117, 1180, 'mail01.tre-rj.gov.br', '164.152.54.137', 334, 5
-1118, 1189, 'smtp-a.trensurb.gov.br', '189.9.3.170', 335, 10
-1119, 1189, 'smtp-b.trensurb.gov.br', '189.9.3.171', 336, 15
-1120, 1194, 'mx.jfrj.jus.br', '177.223.208.15', 263, 0
-1121, 1194, 'mx.trf2.jus.br', '201.48.221.24', 264, 0
-1122, 1207, 'vm-z-mail.trt.gov.br', '192.100.177.174', 337, 10
-1123, 1213, 'aspmx.l.google.com', '142.250.0.26', 234, 10
-1124, 1213, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 20
-1125, 1213, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 30
-1126, 1213, 'aspmx2.googlemail.com', '64.233.184.27', 21, 40
-1127, 1213, 'aspmx3.googlemail.com', '142.250.27.26', 61, 50
-1128, 1217, 'aspmx.l.google.com', '142.250.0.26', 234, 1
-1129, 1217, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-1130, 1217, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-1131, 1217, 'alt3.aspmx.l.google.com', '142.250.153.27', 23, 10
-1132, 1217, 'alt4.aspmx.l.google.com', '142.251.9.26', 106, 10
-1133, 1225, 'mail.trt23.gov.br', '201.182.224.203', 338, 10
-1134, 1225, 'mail2.trt23.jus.br', NULL, NULL, 20
-1135, 1229, 'aspmx.l.google.com', '142.250.0.26', 234, 10
-1136, 1229, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 20
-1137, 1229, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 20
-1138, 1229, 'aspmx2.googlemail.com', '64.233.184.27', 21, 30
-1139, 1229, 'aspmx3.googlemail.com', '142.250.27.26', 61, 30
-1140, 1234, 'aspmx.l.google.com', '142.250.0.26', 234, 1
-1141, 1234, 'alt1.aspmx.l.google.com', '64.233.184.26', 116, 5
-1142, 1234, 'alt2.aspmx.l.google.com', '142.250.27.27', 22, 5
-1143, 1234, 'aspmx2.googlemail.com', '64.233.184.27', 21, 10
-1144, 1234, 'aspmx3.googlemail.com', '142.250.27.26', 61, 10
-1145, 1239, 'turismo-gov-br.mail.protection.outlook.com', '52.101.8.44', 82, 10
-1146, 1244, 'unasus-gov-br.mail.protection.outlook.com', '52.101.41.28', 199, 10
-1147, 1246, 'valec-gov-br.mail.protection.outlook.com', '52.101.42.13', 331, 10
-1148, 1248, 'mx.venturecapital.gov.br', '200.212.144.20', 68, 10
-1149, 1249, 'veracruz-rs.gov.br', '177.70.14.19', 339, 0
-1150, 1254, 'alpha.planalto.gov.br', '170.246.255.10', 55, 5
-1151, 1258, 'relay.mdic.gov.br', NULL, NULL, 10
-1152, 1258, 'smtp2.mdic.gov.br', NULL, NULL, 15
-1153, 1262, 'smtp1.nbr.gov.br', '189.9.0.12', 289, 10
-1154, 1263, 'smtp01.radiobras.gov.br', NULL, NULL, 10
-1155, 1263, 'smtp02.radiobras.gov.br', NULL, NULL, 20
-1156, 1272, 'mte-mx03.mlicloud.com', '187.108.197.246', 120, 10
-1157, 1272, 'mte-mx04.mlicloud.com', '187.108.197.187', 121, 10
-1158, 1272, 'dc02-economia-mx01.mlicloud.com', '186.227.197.37', 122, 10
-1159, 1272, 'dc02-economia-mx02.mlicloud.com', '187.45.183.227', 123, 10
+id,dominio_id,mx_records,ip,localizacao_id,prioridade
+1,2,abc-gov-br.mail.protection.outlook.com,52.101.200.0,1.0,0.0
+2,3,abcd-gov-br.mail.protection.outlook.com,52.101.9.17,2.0,5.0
+3,3,abcd-gov-br.mail.protection.outlook.com,52.101.9.17,2.0,10.0
+4,4,abcnaidadecerta-gov-br.mail.protection.outlook.com,52.101.41.3,3.0,0.0
+5,5,abgf-gov-br.mail.protection.outlook.com,52.101.198.1,4.0,0.0
+6,6,mx01.abin.gov.br,200.198.220.7,5.0,10.0
+7,6,mx02.abin.gov.br,200.198.220.17,6.0,10.0
+8,7,smtp.abrasil.gov.br,161.148.9.250,7.0,10.0
+9,9,mail.ac.gov.br,179.252.114.123,8.0,0.0
+10,14,mx.acraiz.gov.br,200.130.30.6,9.0,1.0
+11,14,mx.acraiz.gov.br,200.130.30.6,9.0,5.0
+12,15,mail.acre.gov.br,179.252.114.123,8.0,0.0
+13,17,aeb-gov-br.mail.protection.outlook.com,52.101.11.10,10.0,0.0
+14,23,mail.infraero.gov.br,45.171.50.29,11.0,10.0
+15,24,smtp01.radiobras.gov.br,NULL,,10.0
+16,27,cluster1.us.messagelabs.com,67.219.250.212,12.0,10.0
+17,27,cluster1a.us.messagelabs.com,52.207.128.88,13.0,20.0
+18,29,cluster1.us.messagelabs.com,67.219.250.212,12.0,10.0
+19,29,cluster1a.us.messagelabs.com,52.207.128.88,13.0,20.0
+20,33,0f2532e9-ffe2-4f18-992f-bc109b59ed59.in.tmes.trendmicro.com,18.208.22.79,14.0,0.0
+21,35,smtp.aids.gov.br,189.28.129.174,15.0,10.0
+22,35,ex-ed-01.aids.gov.br,189.28.129.173,16.0,10.0
+23,35,ex-ed-02.aids.gov.br,189.28.129.174,15.0,10.0
+24,37,zimbra.aleam.gov.br,177.92.163.132,17.0,10.0
+25,37,webmail.aleam.gov.br,177.92.163.142,18.0,20.0
+26,38,smtp.alemg.gov.br,177.86.143.130,19.0,5.0
+27,39,smtp.almg.gov.br,177.86.143.130,19.0,5.0
+28,42,aspmx.l.google.com,64.233.186.27,20.0,1.0
+29,42,alt1.aspmx.l.google.com,64.233.184.27,21.0,5.0
+30,42,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+31,42,alt3.aspmx.l.google.com,142.250.153.27,23.0,10.0
+32,42,alt4.aspmx.l.google.com,142.251.9.27,24.0,10.0
+33,45,amazonfund-gov-br.mail.protection.outlook.com,52.101.198.1,4.0,10.0
+34,51,mx1.amazul.gov.br,187.29.162.15,25.0,9.0
+35,51,mx3.amazul.gov.br,187.29.162.14,26.0,9.0
+36,51,mx4.amazul.gov.br,187.29.11.36,27.0,9.0
+37,52,an-gov-br.mail.protection.outlook.com,52.101.11.3,28.0,0.0
+38,53,ana.in.tmes.trendmicro.com,18.208.22.79,14.0,0.0
+39,54,anac-gov-br.mail.protection.outlook.com,52.101.42.18,29.0,0.0
+40,56,anatel-gov-br.in.tmes.trendmicro.com,18.208.22.77,30.0,10.0
+41,57,ancine-gov-br.mail.protection.outlook.com,52.101.8.42,31.0,0.0
+42,58,agent.aneel.gov.br,200.198.220.179,32.0,10.0
+43,58,master.aneel.gov.br,200.198.220.178,33.0,100.0
+44,58,coulomb.aneel.gov.br,200.198.220.179,32.0,100.0
+45,58,mailsrv.aneel.gov.br,200.198.220.179,32.0,100.0
+46,59,anm-gov-br.mail.protection.outlook.com,52.101.11.13,34.0,10.0
+47,60,anp-gov-br.mail.protection.outlook.com,52.101.8.42,31.0,10.0
+48,61,anpd-gov-br.mail.protection.outlook.com,52.101.198.0,35.0,0.0
+49,62,ans-gov-br.mail.protection.outlook.com,52.101.41.26,36.0,0.0
+50,63,antaq.in.tmes.trendmicro.com,18.208.22.77,30.0,10.0
+51,64,antt-gov-br.mail.protection.outlook.com,52.101.40.2,37.0,10.0
+52,65,cluster1.us.messagelabs.com,67.219.250.212,12.0,10.0
+53,65,cluster1a.us.messagelabs.com,52.207.128.88,13.0,20.0
+54,66,antispam.ap.gov.br,177.84.201.239,38.0,0.0
+55,69,protection.serpro.gov.br,161.148.50.251,39.0,10.0
+56,72,arquivonacional-gov-br.mail.protection.outlook.com,52.101.8.34,40.0,0.0
+57,73,relay.mdic.gov.br,NULL,,10.0
+58,73,smtp2.mdic.gov.br,NULL,,15.0
+59,80,smtp01.radiobras.gov.br,NULL,,10.0
+60,80,smtp02.radiobras.gov.br,NULL,,20.0
+61,81,ba-gov-br.mail.protection.outlook.com,52.101.40.1,41.0,0.0
+62,83,badesc-gov-br.mail.protection.outlook.com,52.101.40.24,42.0,10.0
+63,87,d001smt14.bnb.gov.br,198.17.120.44,43.0,20.0
+64,87,d001smt15.bnb.gov.br,198.17.121.44,44.0,20.0
+65,90,bcb-gov-br.mail.protection.outlook.com,52.101.10.12,45.0,10.0
+66,95,mailscan-in.serpro.gov.br,161.148.21.200,46.0,0.0
+67,97,mail.bn.gov.br,177.223.196.212,47.0,10.0
+68,97,bn-gov-br.mail.protection.outlook.com,52.101.198.0,35.0,20.0
+69,97,correio.bn.gov.br,200.9.175.158,48.0,30.0
+70,98,bnb-gov-br.mail.protection.outlook.com,52.101.9.2,49.0,0.0
+71,100,bndes-gov-br.mail.protection.outlook.com,52.101.198.0,35.0,0.0
+72,108,esa01.presidencia.gov.br,170.246.255.51,50.0,5.0
+73,108,esa02.presidencia.gov.br,170.246.255.52,51.0,10.0
+74,110,smtp053.gdfnet.df.gov.br,131.72.222.253,52.0,5.0
+75,110,smtp054.gdfnet.df.gov.br,131.72.222.254,53.0,5.0
+76,110,smtp051.gdfnet.df.gov.br,131.72.221.51,54.0,15.0
+77,113,alpha.planalto.gov.br,170.246.255.10,55.0,5.0
+78,115,mailmx.abc.gov.br,201.36.109.91,56.0,10.0
+79,116,caxias.irbbrasilre.com,200.214.65.150,57.0,10.0
+80,116,tijuca.irbbrasilre.com,189.125.177.216,58.0,10.0
+81,117,smtp-serpro01.mds.gov.br,200.198.205.29,59.0,10.0
+82,117,smtp-serpro02.mds.gov.br,200.198.205.30,60.0,10.0
+83,133,aspmx.l.google.com,64.233.186.27,20.0,1.0
+84,133,alt1.aspmx.l.google.com,64.233.184.27,21.0,5.0
+85,133,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+86,133,aspmx2.googlemail.com,64.233.184.27,21.0,10.0
+87,133,aspmx3.googlemail.com,142.250.27.26,61.0,10.0
+88,135,mailscan-in.serpro.gov.br,161.148.21.200,46.0,0.0
+89,139,cade-gov-br.mail.protection.outlook.com,52.101.9.14,62.0,0.0
+90,142,smtp-serpro01.mds.gov.br,200.198.205.29,59.0,0.0
+91,142,smtp-serpro02.mds.gov.br,200.198.205.30,60.0,0.0
+92,143,caixa-gov-br.mail.protection.outlook.com,52.101.11.15,63.0,0.0
+93,161,souzinha1.camara.gov.br,200.219.133.161,64.0,10.0
+94,161,souzinha2.camara.gov.br,200.219.133.162,65.0,10.0
+95,161,souzinha3.camara.gov.br,200.219.133.163,66.0,10.0
+96,163,relay.mdic.gov.br,NULL,,10.0
+97,163,smtp2.mdic.gov.br,NULL,,15.0
+98,168,capes-gov-br.mail.protection.outlook.com,52.101.42.6,67.0,0.0
+99,169,mx.capitalderisco.gov.br,200.212.144.20,68.0,10.0
+100,175,esa01.presidencia.gov.br,170.246.255.51,50.0,5.0
+101,175,esa02.presidencia.gov.br,170.246.255.52,51.0,10.0
+102,176,casadamoeda-gov-br.mail.protection.outlook.com,52.101.10.1,69.0,0.0
+103,177,esa01.presidencia.gov.br,170.246.255.51,50.0,5.0
+104,177,esa02.presidencia.gov.br,170.246.255.52,51.0,10.0
+105,178,mail.casaruibarbosa.gov.br,187.0.209.84,70.0,10.0
+106,181,cauac-gov-br.mail.protection.outlook.com,52.101.194.13,71.0,10.0
+107,182,caual-gov-br.mail.protection.outlook.com,52.101.9.2,49.0,10.0
+108,183,cauam-gov-br.mail.protection.outlook.com,52.101.11.15,63.0,10.0
+109,184,cauap-gov-br.mail.protection.outlook.com,52.101.42.6,67.0,10.0
+110,185,cauba-gov-br.mail.protection.outlook.com,52.101.9.26,72.0,10.0
+111,186,caubr-gov-br.mail.protection.outlook.com,52.101.40.0,73.0,10.0
+112,187,cauce-gov-br.mail.protection.outlook.com,52.101.40.0,73.0,10.0
+113,188,caudf-gov-br.mail.protection.outlook.com,52.101.9.14,62.0,10.0
+114,189,caues-gov-br.mail.protection.outlook.com,52.101.10.14,74.0,10.0
+115,190,caugo-gov-br.mail.protection.outlook.com,52.101.11.15,63.0,10.0
+116,191,cauma-gov-br.mail.protection.outlook.com,52.101.8.51,75.0,10.0
+117,192,caumg-gov-br.mail.protection.outlook.com,52.101.11.2,76.0,10.0
+118,193,caums-gov-br.mail.protection.outlook.com,52.101.11.15,63.0,10.0
+119,194,caumt-gov-br.mail.protection.outlook.com,52.101.194.13,71.0,10.0
+120,195,caupa-gov-br.mail.protection.outlook.com,52.101.41.56,77.0,10.0
+121,196,caupb-gov-br.mail.protection.outlook.com,52.101.8.51,75.0,10.0
+122,197,caupe-gov-br.mail.protection.outlook.com,52.101.10.6,78.0,0.0
+123,198,caupi-gov-br.mail.protection.outlook.com,52.101.8.51,75.0,0.0
+124,199,caupr-gov-br.mail.protection.outlook.com,52.101.42.10,79.0,10.0
+125,199,ms32310411.msv1.invalid,NULL,,32767.0
+126,200,caurj-gov-br.mail.protection.outlook.com,52.101.40.4,80.0,10.0
+127,201,caurn-gov-br.mail.protection.outlook.com,52.101.41.56,77.0,0.0
+128,202,cauro-gov-br.mail.protection.outlook.com,52.101.42.16,81.0,0.0
+129,203,caurr-gov-br.mail.protection.outlook.com,52.101.42.18,29.0,0.0
+130,204,caurs-gov-br.mail.protection.outlook.com,52.101.40.0,73.0,0.0
+131,205,causc-gov-br.mail.protection.outlook.com,52.101.11.2,76.0,0.0
+132,206,cause-gov-br.mail.protection.outlook.com,52.101.8.44,82.0,10.0
+133,207,causp-gov-br.mail.protection.outlook.com,52.101.42.16,81.0,0.0
+134,208,cauto-gov-br.mail.protection.outlook.com,52.101.41.56,77.0,10.0
+135,210,sucuri.snisb.gov.br,177.15.65.152,83.0,10.0
+136,210,bonito.snisb.gov.br,177.15.65.189,84.0,50.0
+137,211,mx.b.locaweb.com.br,177.153.23.242,85.0,10.0
+138,211,mx.a.locaweb.com.br,186.202.4.42,86.0,20.0
+139,211,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+140,214,pop.cbtu.gov.br,186.200.39.170,88.0,25.0
+141,214,pop2.cbtu.gov.br,186.200.39.169,89.0,30.0
+142,222,ceagesp-gov-br.mail.protection.outlook.com,52.101.11.13,34.0,0.0
+143,223,mx1.casacivil.ce.gov.br,189.90.171.3,90.0,10.0
+144,223,mx2.casacivil.ce.gov.br,189.90.171.4,91.0,10.0
+145,225,hercules1.cef.gov.br,200.201.166.106,92.0,10.0
+146,227,mail.ceitec.gov.br,200.132.5.15,93.0,10.0
+147,228,smtp01.pr.gov.br,200.189.123.155,94.0,5.0
+148,228,smtp02.pr.gov.br,200.189.123.155,94.0,5.0
+149,228,smtp03.pr.gov.br,200.189.123.155,94.0,5.0
+150,228,smtp04.pr.gov.br,200.189.123.155,94.0,5.0
+151,228,smtp05.pr.gov.br,200.189.123.155,94.0,5.0
+152,229,mail.cemaden.gov.br,200.133.244.156,95.0,1.0
+153,230,mailscan-in.serpro.gov.br,161.148.21.200,46.0,0.0
+154,231,mail.cenp.gov.br,200.139.10.103,96.0,10.0
+155,237,mx01.abin.gov.br,200.198.220.7,5.0,10.0
+156,237,mx02.abin.gov.br,200.198.220.17,6.0,10.0
+157,239,teresopolis.cti.gov.br,200.144.113.17,97.0,10.0
+158,240,mail.cetem.gov.br,200.20.105.3,98.0,10.0
+159,241,aspmx.l.google.com,64.233.186.27,20.0,1.0
+160,241,alt1.aspmx.l.google.com,64.233.184.27,21.0,5.0
+161,241,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+162,241,alt3.aspmx.l.google.com,142.250.153.27,23.0,10.0
+163,241,alt4.aspmx.l.google.com,142.251.9.27,24.0,10.0
+164,244,aspmx.l.google.com,64.233.186.27,20.0,1.0
+165,244,alt1.aspmx.l.google.com,64.233.184.27,21.0,5.0
+166,244,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+167,244,alt3.aspmx.l.google.com,142.250.153.27,23.0,10.0
+168,244,alt4.aspmx.l.google.com,142.251.9.27,24.0,10.0
+169,245,mx.core.locaweb.com.br,177.153.23.241,99.0,10.0
+170,245,mx.a.locaweb.com.br,186.202.4.42,86.0,20.0
+171,245,mx.b.locaweb.com.br,177.153.23.242,85.0,20.0
+172,245,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+173,246,mx.cfmv.gov.br,189.85.87.76,100.0,10.0
+174,246,mx2.cfmv.gov.br,45.4.192.12,101.0,20.0
+175,247,mx.uhserver.com,200.147.36.29,102.0,10.0
+176,248,mx.cgna.gov.br,200.216.54.201,103.0,10.0
+177,250,mxa-007a2802.gslb.pphosted.com,148.163.146.14,104.0,10.0
+178,250,mxb-007a2802.gslb.pphosted.com,148.163.143.246,105.0,10.0
+179,251,cgu-gov-br.mail.protection.outlook.com,52.101.11.2,76.0,0.0
+180,253,mxa-007a2802.gslb.pphosted.com,148.163.146.14,104.0,10.0
+181,253,mxb-007a2802.gslb.pphosted.com,148.163.143.246,105.0,10.0
+182,254,mailscan-in.serpro.gov.br,161.148.21.200,46.0,0.0
+183,255,aspmx.l.google.com,64.233.186.27,20.0,10.0
+184,255,alt1.aspmx.l.google.com,64.233.184.27,21.0,20.0
+185,255,alt2.aspmx.l.google.com,142.250.27.27,22.0,20.0
+186,255,aspmx2.googlemail.com,64.233.184.27,21.0,30.0
+187,255,aspmx3.googlemail.com,142.250.27.26,61.0,30.0
+188,255,aspmx4.googlemail.com,142.250.153.27,23.0,30.0
+189,255,aspmx5.googlemail.com,142.251.9.26,106.0,30.0
+190,256,aspmx.l.google.com,64.233.186.27,20.0,1.0
+191,256,alt1.aspmx.l.google.com,64.233.184.27,21.0,5.0
+192,256,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+193,256,aspmx2.googlemail.com,64.233.184.27,21.0,10.0
+194,256,aspmx3.googlemail.com,142.250.27.26,61.0,10.0
+195,257,cidadania-gov-br.mail.protection.outlook.com,52.101.10.2,107.0,0.0
+196,258,mail1.bcb.gov.br,NULL,,10.0
+197,258,mail2.bcb.gov.br,NULL,,10.0
+198,258,mail3.bcb.gov.br,NULL,,10.0
+199,259,funasa.in.tmes.trendmicro.com,18.208.22.78,108.0,0.0
+200,263,mail.cienciasus.gov.br,162.241.2.213,109.0,0.0
+201,264,tora.ciscea.gov.br,200.255.49.23,110.0,5.0
+202,264,tora2.ciscea.gov.br,200.216.54.205,111.0,10.0
+203,264,antispam.ciscea.gov.br,200.255.49.23,110.0,15.0
+204,264,antispam2.ciscea.gov.br,200.216.54.205,111.0,20.0
+205,266,cmb-gov-br.mail.protection.outlook.com,52.101.11.9,112.0,0.0
+206,268,cnen-gov-br.mail.protection.outlook.com,52.101.10.12,45.0,0.0
+207,270,cnfcp-gov-br.mail.protection.outlook.com,52.101.9.17,2.0,20.0
+208,275,coaf-gov-br.mail.protection.outlook.com,52.101.198.1,4.0,0.0
+209,276,mx.core.locaweb.com.br,177.153.23.241,99.0,10.0
+210,276,mx.a.locaweb.com.br,186.202.4.42,86.0,20.0
+211,276,mx.b.locaweb.com.br,177.153.23.242,85.0,20.0
+212,276,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+213,278,codesa-gov-br.mail.protection.outlook.com,52.101.9.2,49.0,10.0
+214,280,smtp.codevasf.gov.br,189.84.136.140,113.0,10.0
+215,280,smtp2.codevasf.gov.br,186.216.211.93,114.0,20.0
+216,283,aspmx.l.google.com,142.251.0.26,115.0,1.0
+217,283,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+218,283,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+219,283,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+220,283,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+221,284,mail.cofecon.gov.br,162.214.54.154,118.0,0.0
+222,285,cofen-gov-br.mail.protection.outlook.com,52.101.9.11,119.0,0.0
+223,286,mx.core.locaweb.com.br,177.153.23.241,99.0,10.0
+224,286,mx.a.locaweb.com.br,186.202.4.42,86.0,20.0
+225,286,mx.b.locaweb.com.br,177.153.23.242,85.0,20.0
+226,286,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+227,289,mte-mx03.mlicloud.com,187.108.197.246,120.0,10.0
+228,289,mte-mx04.mlicloud.com,187.108.197.187,121.0,10.0
+229,289,dc02-economia-mx01.mlicloud.com,186.227.197.37,122.0,10.0
+230,289,dc02-economia-mx02.mlicloud.com,187.45.183.227,123.0,10.0
+231,296,smtp-serpro.mds.gov.br,NULL,,0.0
+232,297,relay01.planejamento.gov.br,189.9.7.65,124.0,10.0
+233,297,relay02.planejamento.gov.br,189.9.7.66,125.0,10.0
+234,304,mailin.conab.gov.br,160.238.29.68,126.0,1.0
+235,307,concar-gov-br.mail.protection.outlook.com,52.101.9.14,62.0,5.0
+236,310,mx1.saude.gov.br,189.28.129.1,127.0,10.0
+237,310,mx2.saude.gov.br,189.28.129.2,128.0,10.0
+238,310,mx4.saude.gov.br,189.28.129.4,129.0,10.0
+239,310,mx5.saude.gov.br,189.28.129.16,130.0,10.0
+240,314,consorciociga-gov-br.mail.protection.outlook.com,52.101.41.21,131.0,0.0
+241,315,consorcionordeste-gov-br.mail.protection.outlook.com,52.101.40.24,42.0,0.0
+242,318,consumidor-gov-br.mail.protection.outlook.com,52.101.41.21,131.0,0.0
+243,318,maine.mj.gov.br,189.9.0.101,132.0,10.0
+244,318,piaget.mj.gov.br,189.9.0.101,132.0,20.0
+245,320,mx1.titan.email,44.218.81.177,133.0,10.0
+246,320,mx2.titan.email,3.215.61.3,134.0,20.0
+247,322,mx.b.locaweb.com.br,177.153.23.242,85.0,10.0
+248,322,mx.core.locaweb.com.br,177.153.23.241,99.0,10.0
+249,322,mx.a.locaweb.com.br,186.202.4.42,86.0,20.0
+250,322,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+251,324,mail.corecongo.gov.br,162.241.2.66,135.0,0.0
+252,325,mail.coreconpe.gov.br,162.241.61.189,136.0,0.0
+253,326,mx.core.locaweb.com.br,177.153.23.241,99.0,10.0
+254,326,mx.a.locaweb.com.br,186.202.4.42,86.0,20.0
+255,326,mx.b.locaweb.com.br,177.153.23.242,85.0,20.0
+256,326,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+257,328,mail.coreconsp.gov.br,162.240.161.58,137.0,0.0
+258,330,coren-ap.gov.br,192.185.223.121,138.0,0.0
+259,331,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+260,332,mx-br.spfbl.net,52.67.41.212,139.0,0.0
+261,332,praetoriae.bktech.com.br,3.217.213.23,140.0,1.0
+262,332,hill55.bktech.com.br,34.232.250.42,141.0,2.0
+263,332,mx-us.spfbl.net,35.162.4.77,142.0,10.0
+264,333,mx.coren-mg.gov.br,213.32.17.239,143.0,0.0
+265,334,mx.core.locaweb.com.br,177.153.23.241,99.0,10.0
+266,334,mx.a.locaweb.com.br,186.202.4.42,86.0,20.0
+267,334,mx.b.locaweb.com.br,177.153.23.242,85.0,20.0
+268,334,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+269,336,mail.coren-pe.gov.br,162.240.220.15,144.0,0.0
+270,338,protection.serpro.gov.br,161.148.50.251,39.0,0.0
+271,339,corensp-gov-br01c.mail.protection.outlook.com,52.101.9.12,145.0,0.0
+272,341,aspmx.l.google.com,142.251.0.26,115.0,1.0
+273,341,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+274,341,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+275,341,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+276,341,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+277,342,mx.uhserver.com,200.147.36.29,102.0,10.0
+278,343,smtp.corenmg.gov.br,186.248.236.163,146.0,10.0
+279,343,smtp.corenmg.gov.br,186.248.236.163,146.0,20.0
+280,343,smtp.corenmg.gov.br,186.248.236.163,146.0,30.0
+281,343,smtp.corenmg.gov.br,186.248.236.163,146.0,40.0
+282,344,aspmx2.googlemail.com,64.233.184.27,21.0,30.0
+283,345,200.234.222.116,NULL,,10.0
+284,346,aspmx.l.google.com,142.251.0.26,115.0,1.0
+285,346,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+286,346,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+287,346,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+288,346,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+289,348,mail.corensc.gov.br,168.181.70.251,147.0,10.0
+290,349,mail.corensp.gov.br,201.16.179.9,148.0,1.0
+291,349,ec2-54-232-52-172.sa-east-1.compute.amazonaws.com,54.232.52.172,149.0,10.0
+292,356,cp2.gov.br,200.189.101.10,150.0,0.0
+293,356,108303612.mail.outlook.com,52.101.41.3,3.0,0.0
+294,357,aspmx.l.google.com,142.251.0.26,115.0,1.0
+295,357,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+296,357,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+297,357,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+298,357,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+299,359,aspmx.l.google.com,142.251.0.26,115.0,1.0
+300,359,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+301,359,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+302,359,aspmx2.googlemail.com,64.233.184.27,21.0,10.0
+303,359,aspmx3.googlemail.com,142.250.27.26,61.0,10.0
+304,360,aspmx.l.google.com,142.251.0.26,115.0,1.0
+305,360,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+306,360,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+307,360,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+308,360,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+309,361,plesk03.dc.grupogmaes.com,138.122.95.70,151.0,5.0
+310,364,mx.b.locaweb.com.br,177.153.23.242,85.0,10.0
+311,364,mx.core.locaweb.com.br,177.153.23.241,99.0,10.0
+312,364,mx.a.locaweb.com.br,186.202.4.42,86.0,20.0
+313,364,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+314,365,aspmx.l.google.com,142.251.0.26,115.0,1.0
+315,365,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+316,365,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+317,365,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+318,365,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+319,366,wg9.webgenium.com.br,177.66.204.150,152.0,10.0
+320,369,mail.crbio01.gov.br,45.233.113.76,153.0,0.0
+321,369,mail2.crbio01.gov.br,45.233.113.66,154.0,10.0
+322,370,cpanel01.dc.grupogmaes.com,138.122.92.39,155.0,5.0
+323,371,crbio03-gov-br.mail.protection.outlook.com,52.101.198.1,4.0,0.0
+324,372,aspmx.l.google.com,142.251.0.26,115.0,1.0
+325,372,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+326,372,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+327,372,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+328,372,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+329,372,aspmx2.googlemail.com,64.233.184.27,21.0,10.0
+330,372,aspmx3.googlemail.com,142.250.27.26,61.0,10.0
+331,372,aspmx4.googlemail.com,142.250.153.27,23.0,20.0
+332,372,aspmx5.googlemail.com,142.251.9.26,106.0,20.0
+333,373,mx.core.locaweb.com.br,177.153.23.241,99.0,10.0
+334,373,mx.a.locaweb.com.br,186.202.4.42,86.0,20.0
+335,373,mx.b.locaweb.com.br,177.153.23.242,85.0,20.0
+336,373,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+337,374,mx-vip-01.kinghost.net,191.6.216.38,156.0,5.0
+338,374,mx-vip-02.kinghost.net,191.6.216.39,157.0,5.0
+339,375,aspmx.l.google.com,142.251.0.26,115.0,1.0
+340,375,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+341,375,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+342,375,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+343,375,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+344,376,mx.uhserver.com,200.147.36.29,102.0,0.0
+345,377,mx-vip-01.kinghost.net,191.6.216.38,156.0,5.0
+346,377,mx-vip-02.kinghost.net,191.6.216.39,157.0,5.0
+347,380,wg9.webgenium.com.br,177.66.204.150,152.0,10.0
+348,381,crbio8.gov.br,216.172.172.228,158.0,0.0
+349,382,wg9.webgenium.com.br,177.66.204.150,152.0,10.0
+350,383,mx-vip-01.kinghost.net,191.6.216.38,156.0,5.0
+351,383,mx-vip-02.kinghost.net,191.6.216.39,157.0,5.0
+352,384,crbm2-gov-br.mail.protection.outlook.com,52.101.41.26,36.0,1.0
+353,385,aspmx.l.google.com,142.251.0.26,115.0,1.0
+354,385,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+355,385,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+356,385,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+357,385,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+358,386,mx-vip-01.kinghost.net,191.6.216.38,156.0,5.0
+359,386,mx-vip-02.kinghost.net,191.6.216.39,157.0,5.0
+360,387,mail.crbm6.gov.br,67.225.188.52,159.0,0.0
+361,391,aspmx.l.google.com,142.251.0.26,115.0,1.0
+362,391,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+363,391,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+364,391,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+365,391,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+366,392,aspmx.l.google.com,142.251.0.26,115.0,1.0
+367,392,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+368,392,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+369,392,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+370,392,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+371,393,aspmx.l.google.com,142.251.0.26,115.0,1.0
+372,393,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+373,393,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+374,393,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+375,393,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+376,395,mx-vip-01.kinghost.net,191.6.216.38,156.0,5.0
+377,395,mx-vip-02.kinghost.net,191.6.216.39,157.0,5.0
+378,396,aspmx.l.google.com,142.251.0.26,115.0,1.0
+379,396,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+380,396,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+381,396,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+382,396,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+383,397,aspmx.l.google.com,142.251.0.26,115.0,10.0
+384,397,alt1.aspmx.l.google.com,64.233.184.26,116.0,20.0
+385,397,alt2.aspmx.l.google.com,142.250.27.27,22.0,20.0
+386,397,aspmx2.googlemail.com,64.233.184.27,21.0,30.0
+387,397,aspmx3.googlemail.com,142.250.27.27,22.0,30.0
+388,397,aspmx4.googlemail.com,142.250.153.27,23.0,30.0
+389,397,aspmx5.googlemail.com,142.251.9.26,106.0,30.0
+390,398,aspmx.l.google.com,142.251.0.26,115.0,1.0
+391,398,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+392,398,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+393,398,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+394,398,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+395,399,matheus.garlix.com.br,NULL,,5.0
+396,400,mx.core.locaweb.com.br,177.153.23.241,99.0,10.0
+397,400,mx.a.locaweb.com.br,186.202.4.42,86.0,20.0
+398,400,mx.b.locaweb.com.br,177.153.23.242,85.0,20.0
+399,400,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+400,401,aspmx.l.google.com,142.251.0.26,115.0,1.0
+401,401,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+402,401,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+403,401,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+404,401,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+405,402,mxcreci.lk6.com.br,187.32.80.226,160.0,10.0
+406,403,barracuda.penso.com.br,200.219.235.50,161.0,10.0
+407,405,aspmx.l.google.com,142.251.0.26,115.0,1.0
+408,405,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+409,405,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+410,405,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+411,405,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+412,406,creciac.gov.br,198.49.75.151,162.0,0.0
+413,407,mx.a.locaweb.com.br,186.202.4.42,86.0,10.0
+414,407,mx.b.locaweb.com.br,177.153.23.242,85.0,10.0
+415,407,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+416,408,aspmx.l.google.com,142.251.0.26,115.0,0.0
+417,408,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+418,408,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+419,408,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+420,408,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+421,409,aspmx.l.google.com,142.251.0.26,115.0,1.0
+422,409,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+423,409,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+424,409,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+425,409,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+426,410,aspmx.l.google.com,142.251.0.26,115.0,0.0
+427,410,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+428,410,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+429,410,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+430,410,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+431,411,mail.crecima.gov.br,162.241.203.15,163.0,0.0
+432,412,aspmx.l.google.com,142.251.0.26,115.0,1.0
+433,412,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+434,412,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+435,412,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+436,412,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+437,413,aspmx.l.google.com,142.251.0.26,115.0,1.0
+438,413,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+439,413,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+440,413,alt3.aspmx.l.google.com,142.250.153.26,117.0,9.0
+441,413,alt4.aspmx.l.google.com,142.251.9.26,106.0,9.0
+442,414,aspmx.l.google.com,142.251.0.26,115.0,1.0
+443,414,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+444,414,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+445,414,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+446,414,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+447,415,aspmx.l.google.com,142.251.0.26,115.0,1.0
+448,415,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+449,415,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+450,415,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+451,415,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+452,416,mail.crecipr.gov.br,201.47.3.86,164.0,10.0
+453,416,mail2.crecipr.gov.br,177.36.185.134,165.0,10.0
+454,417,aspmx.l.google.com,142.251.0.26,115.0,1.0
+455,417,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+456,417,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+457,417,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+458,417,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+459,418,aspmx.l.google.com,142.251.0.26,115.0,1.0
+460,418,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+461,418,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+462,418,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+463,418,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+464,419,aspmx.l.google.com,142.251.0.26,115.0,1.0
+465,419,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+466,419,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+467,419,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+468,419,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+469,420,aspmx.l.google.com,142.251.0.26,115.0,1.0
+470,420,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+471,420,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+472,420,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+473,420,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+474,421,mail.crecito.gov.br,162.240.166.230,166.0,0.0
+475,424,cref-sp.gov.br,187.0.205.22,167.0,0.0
+476,425,cref4-sp.gov.br,187.0.205.22,167.0,0.0
+477,426,cref4.gov.br,187.0.205.22,167.0,0.0
+478,427,cref4sp.gov.br,187.0.205.22,167.0,0.0
+479,428,aspmx.l.google.com,142.251.0.26,115.0,10.0
+480,428,alt1.aspmx.l.google.com,64.233.184.26,116.0,20.0
+481,428,alt2.aspmx.l.google.com,142.250.27.27,22.0,20.0
+482,428,aspmx2.googlemail.com,64.233.184.27,21.0,30.0
+483,428,aspmx3.googlemail.com,142.250.27.27,22.0,30.0
+484,428,aspmx4.googlemail.com,142.250.153.27,23.0,30.0
+485,428,aspmx5.googlemail.com,142.251.9.26,106.0,30.0
+486,430,mx.core.locaweb.com.br,177.153.23.241,99.0,10.0
+487,430,mx.a.locaweb.com.br,186.202.4.42,86.0,20.0
+488,430,mx.b.locaweb.com.br,177.153.23.242,85.0,20.0
+489,430,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+490,431,mx.a.locaweb.com.br,186.202.4.42,86.0,10.0
+491,431,mx.b.locaweb.com.br,177.153.23.242,85.0,10.0
+492,431,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+493,432,mx.b.locaweb.com.br,177.153.23.242,85.0,10.0
+494,432,mx.core.locaweb.com.br,177.153.23.241,99.0,10.0
+495,432,mx.a.locaweb.com.br,186.202.4.42,86.0,20.0
+496,432,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+497,433,crefito4.gov.br,179.124.199.226,168.0,0.0
+498,434,mail.crefito7.gov.br,162.214.64.218,169.0,0.0
+499,435,crefito8-gov-br.mail.protection.outlook.com,52.101.41.54,170.0,0.0
+500,435,antigo.mx.a.locaweb.com.br,NULL,,10.0
+501,435,antigo.mx.b.locaweb.com.br,NULL,,10.0
+502,435,antigo.mx.jk.locaweb.com.br,NULL,,20.0
+503,435,ms94649695.msv1.invalid,NULL,,3276.0
+504,437,mx.core.locaweb.com.br,177.153.23.241,99.0,10.0
+505,437,mx.a.locaweb.com.br,186.202.4.42,86.0,20.0
+506,437,mx.b.locaweb.com.br,177.153.23.242,85.0,20.0
+507,437,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+508,438,hl06mta1.argohost.net,201.139.186.196,171.0,0.0
+509,438,hl06mta2.argohost.net,201.139.186.199,172.0,0.0
+510,438,hl06mta3.argohost.net,201.139.186.200,173.0,0.0
+511,439,h01r16.llevon.com.br,187.0.205.24,174.0,0.0
+512,440,mx.cremesp.gov.br,200.198.189.214,175.0,5.0
+513,442,mx.core.locaweb.com.br,177.153.23.241,99.0,10.0
+514,442,mx.a.locaweb.com.br,186.202.4.42,86.0,20.0
+515,442,mx.b.locaweb.com.br,177.153.23.242,85.0,20.0
+516,442,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+517,444,crfsc.gov.br,187.49.226.210,176.0,0.0
+518,445,aspmx.l.google.com,142.251.0.26,115.0,1.0
+519,445,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+520,445,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+521,445,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+522,445,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+523,446,crm-gov-br.mail.protection.outlook.com,52.101.11.13,34.0,0.0
+524,448,mx.spamexperts.com,38.111.198.185,177.0,10.0
+525,448,fallbackmx.spamexperts.eu,38.89.254.156,178.0,20.0
+526,448,lastmx.spamexperts.net,38.89.254.156,178.0,30.0
+527,450,mx.b.locaweb.com.br,177.153.23.242,85.0,10.0
+528,450,mx.core.locaweb.com.br,177.153.23.241,99.0,10.0
+529,450,mx.a.locaweb.com.br,186.202.4.42,86.0,20.0
+530,450,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+531,451,mx.emailsecurityonline.com.br,45.71.212.60,179.0,10.0
+532,452,mail.crmvsc.gov.br,138.122.95.18,180.0,10.0
+533,453,mx.b.locaweb.com.br,177.153.23.242,85.0,10.0
+534,453,mx.core.locaweb.com.br,177.153.23.241,99.0,10.0
+535,453,mx.a.locaweb.com.br,186.202.4.42,86.0,20.0
+536,453,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+537,454,mx.cfmv.gov.br,189.85.87.76,100.0,10.0
+538,454,mx2.cfmv.gov.br,45.4.192.12,101.0,20.0
+539,455,aspmx.l.google.com,142.251.0.26,115.0,10.0
+540,455,alt1.aspmx.l.google.com,64.233.184.26,116.0,20.0
+541,455,alt2.aspmx.l.google.com,142.250.27.27,22.0,30.0
+542,455,aspmx2.googlemail.com,64.233.184.27,21.0,40.0
+543,455,aspmx3.googlemail.com,142.250.27.27,22.0,50.0
+544,456,mail.crq-9.gov.br,177.92.11.115,181.0,5.0
+545,458,aspmx.l.google.com,142.251.0.26,115.0,1.0
+546,458,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+547,458,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+548,458,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+549,458,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+550,459,aspmx.l.google.com,142.251.0.26,115.0,1.0
+551,459,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+552,459,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+553,459,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+554,459,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+555,460,antispam.pensomail.com.br,179.190.27.164,182.0,10.0
+556,461,aspmx.l.google.com,142.251.0.26,115.0,1.0
+557,461,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+558,461,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+559,461,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+560,461,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+561,463,aspmx.l.google.com,142.251.0.26,115.0,0.0
+562,463,alt2.aspmx.l.google.com,142.250.27.27,22.0,1.0
+563,463,alt3.aspmx.l.google.com,142.250.153.26,117.0,2.0
+564,463,alt4.aspmx.l.google.com,142.251.9.26,106.0,3.0
+565,463,alt5.aspmx.l.google.com,142.250.150.26,183.0,5.0
+566,464,mx.core.locaweb.com.br,177.153.23.241,99.0,10.0
+567,464,mx.a.locaweb.com.br,186.202.4.42,86.0,20.0
+568,464,mx.b.locaweb.com.br,177.153.23.242,85.0,20.0
+569,464,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+570,466,aspmx.l.google.com,142.251.0.26,115.0,1.0
+571,466,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+572,466,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+573,466,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+574,466,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+575,467,aspmx.l.google.com,142.251.0.26,115.0,1.0
+576,467,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+577,467,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+578,467,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+579,467,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+580,468,aspmx.l.google.com,142.251.0.26,115.0,1.0
+581,468,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+582,468,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+583,468,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+584,468,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+585,469,aspmx.l.google.com,142.251.0.26,115.0,1.0
+586,469,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+587,469,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+588,469,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+589,469,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+590,470,mx-vip-01.uni5.net,191.6.220.38,184.0,5.0
+591,470,mx-vip-02.uni5.net,191.6.220.39,185.0,5.0
+592,471,mx.b.locaweb.com.br,177.153.23.242,85.0,10.0
+593,471,mx.core.locaweb.com.br,177.153.23.241,99.0,10.0
+594,471,mx.a.locaweb.com.br,186.202.4.42,86.0,20.0
+595,471,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+596,472,crtr14-gov-br.mail.protection.outlook.com,52.101.11.3,28.0,0.0
+597,473,mx1.ntshs.net,63.143.34.92,186.0,10.0
+598,473,mail.crtr17.gov.br,74.63.210.132,187.0,10.0
+599,473,mx2.ntshs.net,216.245.220.55,188.0,20.0
+600,474,mx.b.locaweb.com.br,177.153.23.242,85.0,10.0
+601,474,mx.core.locaweb.com.br,177.153.23.241,99.0,10.0
+602,474,mx.a.locaweb.com.br,186.202.4.42,86.0,20.0
+603,474,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+604,475,smtpvin1.f1.k8.com.br,187.73.32.162,189.0,10.0
+605,476,mx.core.locaweb.com.br,177.153.23.241,99.0,10.0
+606,476,mx.a.locaweb.com.br,186.202.4.42,86.0,20.0
+607,476,mx.b.locaweb.com.br,177.153.23.242,85.0,20.0
+608,476,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+609,477,aspmx.l.google.com,142.251.0.26,115.0,1.0
+610,477,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+611,477,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+612,477,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+613,477,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+614,478,mail.crtrpe.gov.br,192.185.213.13,190.0,0.0
+615,479,antispam2.llevon.com.br,187.0.205.39,191.0,10.0
+616,479,mail.crtrrj.gov.br,187.0.205.22,167.0,20.0
+617,479,h01r12.llevon.com.br,187.0.205.22,167.0,50.0
+618,480,mail.crtsp.gov.br,138.122.95.55,192.0,10.0
+619,484,teresopolis.cti.gov.br,200.144.113.17,97.0,10.0
+620,485,luminol.ctir.gov.br,200.160.7.164,193.0,5.0
+621,486,cultura-gov-br.mail.protection.outlook.com,52.101.10.10,194.0,0.0
+622,488,cvm-gov-br.mail.protection.outlook.com,52.101.10.2,107.0,0.0
+623,490,protection.serpro.gov.br,161.148.50.251,39.0,10.0
+624,492,dataprev-gov-br.mail.protection.outlook.com,52.101.40.24,42.0,5.0
+625,492,smtp2.dataprev.gov.br,200.152.39.40,195.0,10.0
+626,492,mailint.dataprev.gov.br,200.152.35.47,196.0,10.0
+627,493,azulao.datasus.gov.br,189.28.143.94,197.0,10.0
+628,493,falcao.datasus.gov.br,189.28.143.170,198.0,20.0
+629,494,decea-gov-br.mail.protection.outlook.com,52.101.41.28,199.0,5.0
+630,495,silicio.defesa.gov.br,200.198.192.140,200.0,5.0
+631,496,mx1.defesacivil.gov.br,200.198.213.91,201.0,10.0
+632,496,mx2.defesacivil.gov.br,200.198.213.92,202.0,10.0
+633,497,defesadoconsumidor-gov-br.mail.protection.outlook.com,52.101.10.12,45.0,10.0
+634,497,piaget00.mj.gov.br,189.9.0.101,132.0,11.0
+635,500,souzinha1.camara.gov.br,200.219.133.161,64.0,10.0
+636,500,souzinha2.camara.gov.br,200.219.133.162,65.0,10.0
+637,500,souzinha3.camara.gov.br,200.219.133.163,66.0,10.0
+638,505,smtp-serpro01.mds.gov.br,200.198.205.29,59.0,10.0
+639,505,smtp-serpro02.mds.gov.br,200.198.205.30,60.0,10.0
+640,506,smtp053.gdfnet.df.gov.br,131.72.222.253,52.0,5.0
+641,506,smtp054.gdfnet.df.gov.br,131.72.222.254,53.0,5.0
+642,506,smtp051.gdfnet.df.gov.br,131.72.221.51,54.0,15.0
+643,507,esa01.presidencia.gov.br,170.246.255.51,50.0,5.0
+644,507,esa02.presidencia.gov.br,170.246.255.52,51.0,10.0
+645,508,esa01.presidencia.gov.br,170.246.255.51,50.0,5.0
+646,508,esa02.presidencia.gov.br,170.246.255.52,51.0,10.0
+647,516,mailing.direitoshumanos.gov.br,189.9.36.187,203.0,10.0
+648,520,dc02-dnit-mx02.mlicloud.com,186.227.197.44,204.0,10.0
+649,520,dc03-dnit-mx01.mlicloud.com,187.45.189.84,205.0,10.0
+650,521,smtp.dnocs.gov.br,177.14.224.152,206.0,5.0
+651,521,webmail.dnocs.gov.br,177.14.224.156,207.0,10.0
+652,521,d01ls029v.dnocs.gov.br,177.14.224.151,208.0,30.0
+653,522,dnpm-pe.gov.br,208.115.238.130,209.0,0.0
+654,523,dnpm-gov-br.mail.protection.outlook.com,52.101.10.1,69.0,10.0
+655,525,dominiopublico-gov-br.mail.protection.outlook.com,52.101.42.18,29.0,0.0
+656,527,dpf-gov-br.mail.protection.outlook.com,52.101.41.58,210.0,1.0
+657,528,mailmx.abc.gov.br,201.36.109.91,56.0,10.0
+658,531,mx01.abin.gov.br,200.198.220.7,5.0,10.0
+659,531,mx02.abin.gov.br,200.198.220.17,6.0,10.0
+660,541,ssmtp002.pr.gov.br,NULL,,0.0
+661,541,smtp.pr.gov.br,NULL,,10.0
+662,545,relayone.serpro.gov.br,161.148.173.216,211.0,10.0
+663,546,email.eafmachado.gov.br,200.131.10.42,212.0,10.0
+664,548,mx-caprica.zoneedit.com,64.68.198.24,213.0,0.0
+665,550,ebserh-gov-br.mail.protection.outlook.com,52.101.11.9,112.0,0.0
+666,552,dc02-economia-mx01.mlicloud.com,186.227.197.37,122.0,10.0
+667,552,dc02-economia-mx02.mlicloud.com,187.45.183.227,123.0,10.0
+668,552,economia-mx-balancer.mlicloud.com,187.108.197.247,214.0,10.0
+669,556,educacao-gov-br.mail.protection.outlook.com,52.101.42.10,79.0,0.0
+670,561,deedee.tse.gov.br,NULL,,5.0
+671,561,dexter.tse.gov.br,NULL,,10.0
+672,562,mxa-007a2802.gslb.pphosted.com,148.163.146.14,104.0,10.0
+673,562,mxb-007a2802.gslb.pphosted.com,148.163.143.246,105.0,10.0
+674,564,mxa-007a2802.gslb.pphosted.com,148.163.146.14,104.0,10.0
+675,564,mxb-007a2802.gslb.pphosted.com,148.163.143.246,105.0,10.0
+676,565,asetn01.eletronuclear.gov.br,187.16.71.206,215.0,5.0
+677,565,asetn02.eletronuclear.gov.br,187.95.42.141,216.0,5.0
+678,567,mxa-007a2802.gslb.pphosted.com,148.163.146.14,104.0,10.0
+679,567,mxb-007a2802.gslb.pphosted.com,148.163.143.246,105.0,10.0
+680,569,mx.embratur.gov.br,NULL,,5.0
+681,569,mx2.embratur.gov.br,NULL,,10.0
+682,570,aruba.emgea.gov.br,187.32.152.73,217.0,10.0
+683,571,mx1.emgepron.gov.br,187.29.162.15,25.0,9.0
+684,571,mx3.emgepron.gov.br,187.29.162.14,26.0,9.0
+685,571,mx4.emgepron.gov.br,187.29.11.36,27.0,9.0
+686,572,smtp.google.com,64.233.186.26,218.0,1.0
+687,576,enap-gov-br.mail.protection.outlook.com,52.101.41.54,170.0,0.0
+688,577,enbpar-gov-br.mail.protection.outlook.com,52.101.198.38,219.0,0.0
+689,581,ensaiosclinicos.gov.br,140.82.26.58,220.0,10.0
+690,585,epl-gov-br.mail.protection.outlook.com,52.101.10.16,221.0,0.0
+691,593,gw1.correio.es.gov.br,201.62.44.139,222.0,10.0
+692,593,gw2.correio.es.gov.br,201.62.44.16,223.0,10.0
+693,595,mailmtb.escoladotrabalhador.gov.br,200.130.15.217,224.0,10.0
+694,597,mail.esd.gov.br,200.17.1.129,225.0,10.0
+695,600,protection.serpro.gov.br,161.148.50.251,39.0,0.0
+696,601,esporte-gov-br.mail.protection.outlook.com,52.101.10.10,194.0,0.0
+697,609,relay.mdic.gov.br,NULL,,10.0
+698,609,smtp2.mdic.gov.br,NULL,,15.0
+699,610,relay.mdic.gov.br,NULL,,10.0
+700,610,smtp2.mdic.gov.br,NULL,,15.0
+701,611,mailscan-in.serpro.gov.br,161.148.21.200,46.0,10.0
+702,612,mail7.fab.gov.br,NULL,,10.0
+703,615,mx1.mte.gov.br,NULL,,10.0
+704,615,mx2.mte.gov.br,NULL,,20.0
+705,616,mte-mx03.mlicloud.com,187.108.197.246,120.0,0.0
+706,616,mte-mx04.mlicloud.com,187.108.197.187,121.0,0.0
+707,616,dc02-economia-mx01.mlicloud.com,186.227.197.37,122.0,0.0
+708,616,dc02-economia-mx02.mlicloud.com,187.45.183.227,123.0,0.0
+709,623,e2c3358fd45147b663d5a538f5f9fb.mail.outlook.com,52.101.10.18,226.0,10.0
+710,625,finep-gov-br.mail.protection.outlook.com,52.101.198.38,219.0,10.0
+711,627,florestal2023-mail-onmicrosoft-com.mail.protection.outlook.com,52.101.200.0,1.0,0.0
+712,628,fnde-gov-br.mail.protection.outlook.com,52.101.42.6,67.0,0.0
+713,631,smtp-serpro.mds.gov.br,NULL,,10.0
+714,639,funag-gov-br.mail.protection.outlook.com,52.101.198.0,35.0,0.0
+715,640,funai-gov-br.mail.protection.outlook.com,52.101.8.46,227.0,0.0
+716,640,smtp1.funai.gov.br,189.9.55.11,228.0,5.0
+717,640,smtp2.funai.gov.br,189.9.55.12,229.0,5.0
+718,640,primary.us.email.fireeyecloud.com,34.223.36.122,230.0,10.0
+719,640,alt1.us.email.fireeyecloud.com,34.223.36.121,231.0,20.0
+720,640,alt2.us.email.fireeyecloud.com,3.93.93.52,232.0,30.0
+721,640,alt3.us.email.fireeyecloud.com,34.223.36.123,233.0,40.0
+722,641,funarte-gov-br.mail.protection.outlook.com,52.101.198.38,219.0,0.0
+723,642,funasa.in.tmes.trendmicro.com,18.208.22.77,30.0,5.0
+724,643,fundacentro-gov-br.mail.protection.outlook.com,52.101.41.56,77.0,0.0
+725,644,aspmx.l.google.com,142.250.0.26,234.0,1.0
+726,644,alt1.aspmx.l.google.com,64.233.184.27,21.0,5.0
+727,644,alt2.aspmx.l.google.com,142.250.27.26,61.0,5.0
+728,644,alt3.aspmx.l.google.com,142.250.153.27,23.0,10.0
+729,644,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+730,646,fundoamazonia-gov-br.mail.protection.outlook.com,52.101.198.38,219.0,0.0
+731,648,mx.funpresp.gov.br,54.233.169.182,235.0,0.0
+732,650,protection.serpro.gov.br,161.148.50.251,39.0,0.0
+733,651,smtp053.gdfnet.df.gov.br,131.72.222.253,52.0,5.0
+734,651,smtp054.gdfnet.df.gov.br,131.72.222.254,53.0,10.0
+735,651,smtp051.gdfnet.df.gov.br,131.72.221.51,54.0,15.0
+736,654,mte-mx03.mlicloud.com,187.108.197.246,120.0,10.0
+737,654,mte-mx04.mlicloud.com,187.108.197.187,121.0,10.0
+738,654,dc02-economia-mx01.mlicloud.com,186.227.197.37,122.0,10.0
+739,654,dc02-economia-mx02.mlicloud.com,187.45.183.227,123.0,10.0
+740,658,mailinspector-goias.lb.go.gov.br,45.183.244.63,236.0,0.0
+741,659,goias-gov-br.mail.protection.outlook.com,52.101.10.5,237.0,0.0
+742,659,mta1.go.gov.br,45.183.244.45,238.0,50.0
+743,662,esa01.presidencia.gov.br,170.246.255.51,50.0,5.0
+744,662,esa02.presidencia.gov.br,170.246.255.52,51.0,10.0
+745,665,protection.serpro.gov.br,161.148.50.251,39.0,0.0
+746,666,esa01.presidencia.gov.br,170.246.255.51,50.0,5.0
+747,666,esa02.presidencia.gov.br,170.246.255.52,51.0,10.0
+748,669,srvwsbrexet01.hemobras.gov.br,177.221.45.30,239.0,10.0
+749,674,ibama-gov-br.mail.protection.outlook.com,52.101.10.12,45.0,5.0
+750,675,aspmx.l.google.com,142.250.0.26,234.0,1.0
+751,675,alt1.aspmx.l.google.com,64.233.184.27,21.0,5.0
+752,675,alt2.aspmx.l.google.com,142.250.27.26,61.0,5.0
+753,675,alt3.aspmx.l.google.com,142.250.153.27,23.0,10.0
+754,675,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+755,676,ibge-gov-br.mail.protection.outlook.com,52.101.41.6,240.0,5.0
+756,677,ibram07.ibram.gov.br,177.69.150.181,241.0,10.0
+757,678,aspmx.l.google.com,142.250.0.26,234.0,10.0
+758,678,alt1.aspmx.l.google.com,64.233.184.27,21.0,20.0
+759,678,alt2.aspmx.l.google.com,142.250.27.26,61.0,20.0
+760,678,aspmx2.googlemail.com,64.233.184.27,21.0,30.0
+761,678,aspmx3.googlemail.com,142.250.27.27,22.0,30.0
+762,678,aspmx4.googlemail.com,142.250.153.26,117.0,30.0
+763,678,aspmx5.googlemail.com,142.251.9.27,24.0,30.0
+764,680,icmbio-gov-br.mail.protection.outlook.com,52.101.40.4,80.0,0.0
+765,681,mx.icpbrasil.gov.br,200.130.30.6,9.0,1.0
+766,681,mx.acraiz.gov.br,200.130.30.6,9.0,5.0
+767,682,mail.iec.gov.br,200.139.9.101,242.0,5.0
+768,683,ien-gov-br.mail.protection.outlook.com,52.101.198.1,4.0,0.0
+769,685,mdh.in.tmes.trendmicro.com,18.208.22.77,30.0,0.0
+770,687,relay.eb.mil.br,177.8.81.216,243.0,10.0
+771,687,relay2.eb.mil.br,177.8.81.217,244.0,10.0
+772,690,sol-01.inb.gov.br,201.87.145.140,245.0,5.0
+773,690,sol-02.inb.gov.br,189.127.82.76,246.0,10.0
+774,691,smtp.google.com,64.233.186.26,218.0,1.0
+775,691,srvgw02.inca.gov.br,200.33.96.13,247.0,15.0
+776,693,incra-gov-br.mail.protection.outlook.com,52.101.8.42,31.0,10.0
+777,694,inde-gov-br.mail.protection.outlook.com,52.101.194.15,248.0,5.0
+778,696,mx01.inep.gov.br,200.130.24.115,249.0,10.0
+779,696,mx02.inep.gov.br,200.130.24.116,250.0,10.0
+780,696,relay.inep.gov.br,200.130.24.121,251.0,100.0
+781,697,aspmx.l.google.com,142.250.0.26,234.0,1.0
+782,697,alt1.aspmx.l.google.com,64.233.184.27,21.0,5.0
+783,697,alt2.aspmx.l.google.com,142.250.27.26,61.0,5.0
+784,697,alt3.aspmx.l.google.com,142.250.153.27,23.0,10.0
+785,697,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+786,703,piaget00.mj.gov.br,189.9.0.101,132.0,1.0
+787,703,piaget.mj.gov.br,189.9.0.101,132.0,10.0
+788,703,maine.mj.gov.br,189.9.0.101,132.0,20.0
+789,705,mail.infraero.gov.br,45.171.50.29,11.0,0.0
+790,708,infrasa-gov-br.mail.protection.outlook.com,52.101.11.15,63.0,10.0
+791,710,aspmx.l.google.com,142.250.0.26,234.0,1.0
+792,710,alt1.aspmx.l.google.com,64.233.184.27,21.0,5.0
+793,710,alt2.aspmx.l.google.com,142.250.27.26,61.0,5.0
+794,710,alt3.aspmx.l.google.com,142.250.153.27,23.0,10.0
+795,710,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+796,711,inmet-gov-br.mail.protection.outlook.com,52.101.198.1,4.0,0.0
+797,712,ksmg.inmetro.gov.br,200.20.212.42,252.0,10.0
+798,713,ksmg.inmetrogo.gov.br,200.20.212.41,253.0,10.0
+799,715,mailserver.inpa.gov.br,200.17.53.9,254.0,10.0
+800,716,smtp.inpi.gov.br,168.90.175.156,255.0,20.0
+801,717,aspmx.l.google.com,142.250.0.26,234.0,
+802,717,alt1.aspmx.l.google.com,64.233.184.27,21.0,5.0
+803,717,alt2.aspmx.l.google.com,142.250.27.26,61.0,5.0
+804,717,alt3.aspmx.l.google.com,142.250.153.27,23.0,10.0
+805,717,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+806,718,aspmx.l.google.com,142.250.0.26,234.0,1.0
+807,718,alt1.aspmx.l.google.com,64.233.184.27,21.0,2.0
+808,718,alt2.aspmx.l.google.com,142.250.27.26,61.0,3.0
+809,718,alt3.aspmx.l.google.com,142.250.153.27,23.0,4.0
+810,718,alt4.aspmx.l.google.com,142.251.9.26,106.0,5.0
+811,719,inss-gov-br.mail.protection.outlook.com,52.101.41.3,3.0,10.0
+812,721,mailscan-in.serpro.gov.br,161.148.21.200,46.0,0.0
+813,722,aspmx.l.google.com,142.250.0.26,234.0,1.0
+814,722,alt1.aspmx.l.google.com,64.233.184.27,21.0,5.0
+815,722,alt2.aspmx.l.google.com,142.250.27.26,61.0,5.0
+816,722,alt3.aspmx.l.google.com,142.250.153.27,23.0,10.0
+817,722,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+818,723,dcse-23.int.gov.br,200.20.196.22,256.0,0.0
+819,724,integracao-gov-br.mail.protection.outlook.com,52.101.41.54,170.0,0.0
+820,725,naumailmtain1.interlegis.leg.br,201.54.51.144,257.0,10.0
+821,725,naumailmtain2.interlegis.leg.br,201.54.51.145,258.0,10.0
+822,725,naumailmtain3.interlegis.leg.br,201.54.51.147,259.0,10.0
+823,735,ssmtp002.pr.gov.br,NULL,,5.0
+824,735,ssmtp003.pr.gov.br,NULL,,5.0
+825,735,smtp.pr.gov.br,NULL,,20.0
+826,736,ipea-gov-br.mail.protection.outlook.com,52.101.11.10,10.0,10.0
+827,737,mailmaster4.ipea.gov.br,45.171.102.3,260.0,10.0
+828,738,iphan-gov-br.mail.protection.outlook.com,52.101.42.10,79.0,0.0
+829,740,ipsm-gov-br.mail.protection.outlook.com,52.101.9.0,261.0,0.0
+830,741,caxias.irbbrasilre.com,200.214.65.150,57.0,10.0
+831,741,tijuca.irbbrasilre.com,189.125.177.216,58.0,10.0
+832,742,caxias.irbbrasilre.com,200.214.65.150,57.0,10.0
+833,742,tijuca.irbbrasilre.com,189.125.177.216,58.0,10.0
+834,743,caxias.irbbrasilre.com,200.214.65.150,57.0,10.0
+835,743,tijuca.irbbrasilre.com,189.125.177.216,58.0,10.0
+836,744,ird-gov-br.mail.protection.outlook.com,52.101.198.0,35.0,0.0
+837,745,itaipu-gov-br.mail.protection.outlook.com,52.101.198.0,35.0,5.0
+838,746,itamaraty-gov-br.mail.protection.outlook.com,52.101.198.38,219.0,0.0
+839,747,iti-gov-br.mail.protection.outlook.com,52.101.10.5,237.0,0.0
+840,748,aspmx.l.google.com,142.250.0.26,234.0,1.0
+841,748,alt1.aspmx.l.google.com,64.233.184.27,21.0,5.0
+842,748,alt2.aspmx.l.google.com,142.250.27.26,61.0,5.0
+843,748,alt3.aspmx.l.google.com,142.250.153.27,23.0,10.0
+844,748,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+845,754,jfce-gov-br.mail.protection.outlook.com,52.101.198.38,219.0,0.0
+846,756,mail.jfes.gov.br,187.73.237.197,262.0,10.0
+847,761,mx.jfrj.jus.br,177.223.208.15,263.0,0.0
+848,761,mx.trf2.jus.br,201.48.221.24,264.0,0.0
+849,762,ironport.jfrn.gov.br,45.178.243.130,265.0,0.0
+850,763,mx1.jfrs.gov.br,168.194.28.13,266.0,5.0
+851,763,mx2.jfrs.gov.br,168.194.28.14,267.0,5.0
+852,771,mx.justicafederal.gov.br,201.49.156.78,268.0,10.0
+853,789,mx1.srvmail.ma.gov.br,181.191.91.198,269.0,5.0
+854,791,maismedicos-gov-br.mail.protection.outlook.com,NULL,,0.0
+855,796,mcom-gov-br.mail.protection.outlook.com,52.101.40.24,42.0,0.0
+856,797,mcti-gov-br.mail.protection.outlook.com,52.101.198.1,4.0,5.0
+857,798,mx1.mctic.gov.br,200.130.9.21,270.0,10.0
+858,798,mx2.mctic.gov.br,200.130.9.22,271.0,10.0
+859,799,cluster1.us.messagelabs.com,67.219.246.210,272.0,10.0
+860,799,cluster1a.us.messagelabs.com,52.207.128.88,13.0,20.0
+861,800,mdh.in.tmes.trendmicro.com,18.208.22.77,30.0,0.0
+862,801,mte-mx03.mlicloud.com,187.108.197.246,120.0,10.0
+863,801,mte-mx04.mlicloud.com,187.108.197.187,121.0,10.0
+864,801,dc02-economia-mx01.mlicloud.com,186.227.197.37,122.0,10.0
+865,801,dc02-economia-mx02.mlicloud.com,187.45.183.227,123.0,10.0
+866,802,mdr-gov-br.mail.protection.outlook.com,52.101.41.21,131.0,0.0
+867,803,mds-gov-br.mail.protection.outlook.com,52.101.41.54,170.0,0.0
+868,804,mec-gov-br.mail.protection.outlook.com,52.101.9.14,62.0,0.0
+869,809,mte-mx03.mlicloud.com,187.108.197.246,120.0,10.0
+870,809,mte-mx04.mlicloud.com,187.108.197.187,121.0,10.0
+871,809,dc02-economia-mx01.mlicloud.com,186.227.197.37,122.0,10.0
+872,809,dc02-economia-mx02.mlicloud.com,187.45.183.227,123.0,10.0
+873,812,mailmaster4.ipea.gov.br,45.171.102.3,260.0,10.0
+874,815,mx1.antispammg.mg.gov.br,200.198.4.121,273.0,1.0
+875,815,mx2.antispammg.mg.gov.br,200.198.4.122,274.0,1.0
+876,815,mx3.antispammg.mg.gov.br,200.198.4.53,275.0,1.0
+877,816,mx1.mi.gov.br,189.9.36.197,276.0,10.0
+878,816,mx2.mi.gov.br,189.9.36.196,277.0,10.0
+879,818,maine.mj.gov.br,189.9.0.101,132.0,10.0
+880,818,piaget.mj.gov.br,189.9.0.101,132.0,20.0
+881,820,mj-gov-br.mail.protection.outlook.com,52.101.11.15,63.0,0.0
+882,821,mx.core.locaweb.com.br,177.153.23.241,99.0,10.0
+883,821,mx.a.locaweb.com.br,186.202.4.42,86.0,20.0
+884,821,mx.b.locaweb.com.br,177.153.23.242,85.0,20.0
+885,821,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+886,822,mma-gov-br.mail.protection.outlook.com,52.101.42.9,278.0,0.0
+887,822,mail01.mma.gov.br,45.231.205.19,279.0,10.0
+888,822,mail.mma.gov.br,45.231.205.18,280.0,100.0
+889,823,correio2.mme.gov.br,200.9.252.142,281.0,10.0
+890,823,mail.mme.gov.br,200.9.252.22,282.0,20.0
+891,828,cluster1.us.messagelabs.com,67.219.246.210,272.0,10.0
+892,828,cluster1a.us.messagelabs.com,52.207.128.88,13.0,20.0
+893,831,smtp01.mpes.gov.br,45.178.242.41,283.0,10.0
+894,832,smtp1.mpu.gov.br,NULL,,5.0
+895,832,smtp2.mpu.gov.br,NULL,,5.0
+896,834,mpor-gov-br.mail.protection.outlook.com,52.101.8.34,40.0,10.0
+897,835,cioba.previdencia.gov.br,200.152.40.101,284.0,10.0
+898,837,smtp1.mpu.mp.br,200.142.1.39,285.0,5.0
+899,837,smtp2.mpu.mp.br,NULL,,5.0
+900,838,mailmx.mre.gov.br,189.85.94.116,286.0,10.0
+901,839,snwl.ms.gov.br,187.86.226.146,287.0,10.0
+902,840,piaget00.mj.gov.br,189.9.0.101,132.0,1.0
+903,841,aspmx.l.google.com,142.250.0.26,234.0,1.0
+904,841,alt1.aspmx.l.google.com,64.233.184.27,21.0,5.0
+905,841,alt2.aspmx.l.google.com,142.250.27.26,61.0,5.0
+906,841,alt3.aspmx.l.google.com,142.250.153.27,23.0,10.0
+907,841,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+908,842,mte-mx03.mlicloud.com,187.108.197.246,120.0,10.0
+909,842,mte-mx04.mlicloud.com,187.108.197.187,121.0,10.0
+910,842,dc02-economia-mx01.mlicloud.com,186.227.197.37,122.0,10.0
+911,842,dc02-economia-mx02.mlicloud.com,187.45.183.227,123.0,10.0
+912,844,mte-mx03.mlicloud.com,187.108.197.246,120.0,10.0
+913,844,mte-mx04.mlicloud.com,187.108.197.187,121.0,10.0
+914,844,dc02-economia-mx01.mlicloud.com,186.227.197.37,122.0,10.0
+915,844,dc02-economia-mx02.mlicloud.com,187.45.183.227,123.0,10.0
+916,845,mx1.mte.gov.br,NULL,,10.0
+917,845,mx2.mte.gov.br,NULL,,20.0
+918,847,mdh.in.tmes.trendmicro.com,18.208.22.80,288.0,0.0
+919,850,mx.a.locaweb.com.br,186.202.4.42,86.0,10.0
+920,850,mx.b.locaweb.com.br,177.153.23.242,85.0,10.0
+921,850,mx.jk.locaweb.com.br,200.234.204.130,87.0,20.0
+922,851,museudoindio-gov-br.mail.protection.outlook.com,52.101.9.17,2.0,0.0
+923,852,museus-gov-br.mail.protection.outlook.com,52.101.8.42,31.0,0.0
+924,853,navbrasil-gov-br.mail.protection.outlook.com,52.101.198.0,35.0,0.0
+925,854,smtp1.nbr.gov.br,189.9.0.12,289.0,10.0
+926,858,mail.niteroi-artes.gov.br,192.185.221.155,290.0,0.0
+927,865,srvras.nuclebras.gov.br,201.57.65.226,291.0,10.0
+928,866,nuclep-gov-br.mail.protection.outlook.com,52.101.10.16,221.0,0.0
+929,869,jacaranda.apps.ibict.br,NULL,,1.0
+930,881,colab-antispam-01.pa.gov.br,177.74.3.71,292.0,10.0
+931,881,colab-antispam-02.pa.gov.br,177.74.3.72,293.0,10.0
+932,881,colab-antispam-03.pa.gov.br,177.74.3.73,294.0,10.0
+933,885,webmail.palmares.gov.br,200.198.213.137,295.0,0.0
+934,885,mx1.palmares.gov.br,200.198.213.135,296.0,5.0
+935,885,mx2.palmares.gov.br,200.198.213.137,295.0,10.0
+936,885,mx3.palmares.gov.br,209.126.109.83,297.0,11.0
+937,888,esa01.presidencia.gov.br,170.246.255.51,50.0,5.0
+938,888,esa02.presidencia.gov.br,170.246.255.52,51.0,10.0
+939,892,mx1.pb.gov.br,138.185.34.4,298.0,100.0
+940,892,mx2.pb.gov.br,138.185.34.5,299.0,100.0
+941,893,aspmx.l.google.com,142.251.0.27,300.0,10.0
+942,893,alt1.aspmx.l.google.com,64.233.184.27,21.0,20.0
+943,893,alt2.aspmx.l.google.com,142.250.27.27,22.0,20.0
+944,893,aspmx2.googlemail.com,64.233.184.27,21.0,30.0
+945,893,aspmx3.googlemail.com,142.250.27.27,22.0,30.0
+946,893,aspmx4.googlemail.com,142.250.153.27,23.0,30.0
+947,893,aspmx5.googlemail.com,142.251.9.27,24.0,30.0
+948,894,asmail.peconectado.pe.gov.br,200.238.64.78,301.0,0.0
+949,902,pf-gov-br.mail.protection.outlook.com,52.101.10.10,194.0,1.0
+950,903,aspmx.l.google.com,142.251.0.27,300.0,1.0
+951,903,alt1.aspmx.l.google.com,64.233.184.27,21.0,5.0
+952,903,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+953,903,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+954,903,alt4.aspmx.l.google.com,142.251.9.27,24.0,10.0
+955,906,zmta.pi.gov.br,200.23.153.156,302.0,0.0
+956,908,esa01.presidencia.gov.br,170.246.255.51,50.0,5.0
+957,908,esa02.presidencia.gov.br,170.246.255.52,51.0,10.0
+958,909,mte-mx03.mlicloud.com,187.108.197.246,120.0,10.0
+959,909,mte-mx04.mlicloud.com,187.108.197.187,121.0,10.0
+960,909,dc02-economia-mx01.mlicloud.com,186.227.197.37,122.0,10.0
+961,909,dc02-economia-mx02.mlicloud.com,187.45.183.227,123.0,10.0
+962,913,souzinha1.camara.gov.br,200.219.133.161,64.0,10.0
+963,913,souzinha2.camara.gov.br,200.219.133.162,65.0,10.0
+964,913,souzinha3.camara.gov.br,200.219.133.163,66.0,10.0
+965,917,protection.serpro.gov.br,161.148.50.251,39.0,10.0
+966,922,aspmx.l.google.com,64.233.186.27,20.0,1.0
+967,922,alt1.aspmx.l.google.com,64.233.184.27,21.0,5.0
+968,922,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+969,922,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+970,922,alt4.aspmx.l.google.com,142.251.9.27,24.0,10.0
+971,924,sucuri.snisb.gov.br,177.15.65.152,83.0,10.0
+972,924,bonito.snisb.gov.br,177.15.65.189,84.0,50.0
+973,926,mailmx2.portaldoconsumidor.gov.br,NULL,,5.0
+974,937,portodesantos-gov-br.mail.protection.outlook.com,52.101.11.2,76.0,0.0
+975,938,portodevitoria.gov.br,177.39.234.157,303.0,10.0
+976,940,portosrio-gov-br.mail.protection.outlook.com,52.101.9.17,2.0,0.0
+977,942,mte-mx03.mlicloud.com,187.108.197.246,120.0,10.0
+978,942,mte-mx04.mlicloud.com,187.108.197.187,121.0,10.0
+979,942,dc02-economia-mx01.mlicloud.com,186.227.197.37,122.0,10.0
+980,942,dc02-economia-mx02.mlicloud.com,187.45.183.227,123.0,10.0
+981,944,ppsa-gov-br.mail.protection.outlook.com,52.101.41.6,240.0,0.0
+982,945,smtp01.pr.gov.br,200.189.123.155,94.0,5.0
+983,945,smtp02.pr.gov.br,200.189.123.155,94.0,5.0
+984,945,smtp03.pr.gov.br,200.189.123.155,94.0,5.0
+985,945,smtp04.pr.gov.br,200.189.123.155,94.0,5.0
+986,945,smtp05.pr.gov.br,200.189.123.155,94.0,5.0
+987,949,mx1.hc5664-24.iphmx.com,68.232.148.130,304.0,10.0
+988,949,mx2.hc5664-24.iphmx.com,68.232.148.130,304.0,10.0
+989,951,presalpetroleo-gov-br.mail.protection.outlook.com,52.101.40.2,37.0,0.0
+990,952,esa01.presidencia.gov.br,170.246.255.51,50.0,5.0
+991,952,esa02.presidencia.gov.br,170.246.255.52,51.0,10.0
+992,953,previc-gov-br.mail.protection.outlook.com,52.101.200.0,1.0,0.0
+993,954,mte-mx03.mlicloud.com,187.108.197.246,120.0,10.0
+994,954,mte-mx04.mlicloud.com,187.108.197.187,121.0,10.0
+995,954,dc02-economia-mx01.mlicloud.com,186.227.197.37,122.0,10.0
+996,954,dc02-economia-mx02.mlicloud.com,187.45.183.227,123.0,10.0
+997,956,aspmx.l.google.com,64.233.186.27,20.0,1.0
+998,956,alt1.aspmx.l.google.com,64.233.184.27,21.0,5.0
+999,956,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+1000,956,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+1001,956,alt4.aspmx.l.google.com,142.251.9.27,24.0,10.0
+1002,960,prodeb-gov-br.mail.protection.outlook.com,52.101.40.6,305.0,0.0
+1003,961,mx3.antispammg.mg.gov.br,200.198.4.53,275.0,5.0
+1004,961,mx2.antispammg.mg.gov.br,200.198.4.122,274.0,8.0
+1005,961,mx1.antispammg.mg.gov.br,200.198.4.121,273.0,10.0
+1006,962,colab-antispam-01.pa.gov.br,177.74.3.71,292.0,5.0
+1007,962,colab-antispam-02.pa.gov.br,177.74.3.72,293.0,10.0
+1008,962,colab-antispam-03.pa.gov.br,177.74.3.73,294.0,10.0
+1009,973,prove.gov.br,69.73.181.16,306.0,0.0
+1010,995,protection.serpro.gov.br,161.148.50.251,39.0,5.0
+1011,996,ksmg.inmetro.rs.gov.br,200.132.19.141,307.0,10.0
+1012,1003,redecontrole-gov-br.mail.protection.outlook.com,52.101.10.12,45.0,0.0
+1013,1004,rededecontrole-gov-br.mail.protection.outlook.com,52.101.42.16,81.0,0.0
+1014,1005,email.esporte.gov.br,200.198.205.29,59.0,5.0
+1015,1005,email3.esporte.gov.br,200.198.205.30,60.0,10.0
+1016,1009,protection.serpro.gov.br,161.148.50.251,39.0,0.0
+1017,1020,rfb-gov-br.mail.protection.outlook.com,52.101.11.17,308.0,0.0
+1018,1022,mx1.rio.gov.br,187.111.111.2,309.0,10.0
+1019,1024,mailscan-in.serpro.gov.br,161.148.21.200,46.0,0.0
+1020,1025,mx2.webmail.rj.gov.br,187.62.129.129,310.0,10.0
+1021,1030,mail.rr.gov.br,190.123.15.9,311.0,5.0
+1022,1032,mxsec.direto.procergs.rs.gov.br,200.189.134.196,312.0,10.0
+1023,1032,mxsec2.direto.procergs.rs.gov.br,200.189.134.194,313.0,20.0
+1024,1032,mxsec3.direto.procergs.rs.gov.br,200.189.134.155,314.0,30.0
+1025,1032,mxsec4.direto.procergs.rs.gov.br,200.189.134.30,315.0,40.0
+1026,1034,cluster1.us.messagelabs.com,67.219.247.202,316.0,10.0
+1027,1034,cluster1a.us.messagelabs.com,52.207.128.88,13.0,20.0
+1028,1035,aspmx.l.google.com,64.233.186.27,20.0,1.0
+1029,1035,alt1.aspmx.l.google.com,64.233.184.27,21.0,5.0
+1030,1035,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+1031,1035,aspmx2.googlemail.com,64.233.184.27,21.0,10.0
+1032,1035,aspmx3.googlemail.com,142.250.27.27,22.0,10.0
+1033,1039,mxs3.se.gov.br,187.17.2.201,317.0,5.0
+1034,1039,mxs4.se.gov.br,187.17.2.203,318.0,10.0
+1035,1039,mxs5.se.gov.br,187.17.2.206,319.0,15.0
+1036,1040,seade-gov-br.mail.protection.outlook.com,52.101.41.28,199.0,0.0
+1037,1041,esa01.presidencia.gov.br,170.246.255.51,50.0,5.0
+1038,1041,esa02.presidencia.gov.br,170.246.255.52,51.0,10.0
+1039,1043,esa01.presidencia.gov.br,170.246.255.51,50.0,5.0
+1040,1043,esa02.presidencia.gov.br,170.246.255.52,51.0,10.0
+1041,1044,esa01.presidencia.gov.br,170.246.255.51,50.0,5.0
+1042,1044,esa02.presidencia.gov.br,170.246.255.52,51.0,10.0
+1043,1045,esa01.presidencia.gov.br,170.246.255.51,50.0,5.0
+1044,1045,esa02.presidencia.gov.br,170.246.255.52,51.0,10.0
+1045,1046,amobika.sdh.gov.br,NULL,,10.0
+1046,1047,esa01.presidencia.gov.br,170.246.255.51,50.0,5.0
+1047,1047,esa02.presidencia.gov.br,170.246.255.52,51.0,10.0
+1048,1048,piaget00.mj.gov.br,189.9.0.101,132.0,1.0
+1049,1054,relay.mdic.gov.br,NULL,,10.0
+1050,1054,smtp2.mdic.gov.br,NULL,,15.0
+1051,1057,senad-gov-br.mail.protection.outlook.com,52.101.10.10,194.0,0.0
+1052,1058,senado-gov-br.mail.protection.outlook.com,52.101.10.2,107.0,5.0
+1053,1059,senador-gov-br.mail.protection.outlook.com,52.101.42.10,79.0,5.0
+1054,1060,senadora-gov-br.mail.protection.outlook.com,52.101.40.2,37.0,5.0
+1055,1063,protection.serpro.gov.br,161.148.50.251,39.0,0.0
+1056,1065,protection.serpro.gov.br,161.148.50.251,39.0,10.0
+1057,1068,smtp.seti.gov.br,NULL,,0.0
+1058,1069,esa01.presidencia.gov.br,170.246.255.51,50.0,5.0
+1059,1069,esa02.presidencia.gov.br,170.246.255.52,51.0,10.0
+1060,1070,aspmx.l.google.com,64.233.186.27,20.0,1.0
+1061,1070,alt1.aspmx.l.google.com,64.233.184.27,21.0,5.0
+1062,1070,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+1063,1070,alt3.aspmx.l.google.com,142.250.153.26,117.0,10.0
+1064,1070,alt4.aspmx.l.google.com,142.251.9.27,24.0,10.0
+1065,1072,esa01.presidencia.gov.br,170.246.255.51,50.0,5.0
+1066,1072,esa02.presidencia.gov.br,170.246.255.52,51.0,10.0
+1067,1075,tyrion.lncc.br,146.134.8.188,320.0,0.0
+1068,1080,sigplan.planejamento.gov.br,NULL,,10.0
+1069,1083,protection.serpro.gov.br,161.148.50.251,39.0,0.0
+1070,1085,mx.via-rs.com.br,200.198.128.218,321.0,10.0
+1071,1085,mxbkp.via-rs.com.br,NULL,,20.0
+1072,1088,sipam-gov-br.mail.protection.outlook.com,52.101.198.38,219.0,0.0
+1073,1090,mx.sirc.gov.br,200.152.40.96,322.0,10.0
+1074,1093,protection.serpro.gov.br,161.148.50.251,39.0,0.0
+1075,1095,mx.zoho.com,204.141.43.44,323.0,10.0
+1076,1095,mx2.zoho.com,204.141.33.44,324.0,20.0
+1077,1095,mx3.zoho.com,136.143.183.44,325.0,50.0
+1078,1102,mail.snirh.gov.br,NULL,,10.0
+1079,1104,sucuri.snisb.gov.br,177.15.65.152,83.0,10.0
+1080,1104,bonito.snisb.gov.br,177.15.65.189,84.0,50.0
+1081,1113,sp-gov-br.mail.protection.outlook.com,52.101.10.6,78.0,10.0
+1082,1114,amobika.mdh.gov.br,200.198.218.98,326.0,10.0
+1083,1116,relay.mdic.gov.br,NULL,,10.0
+1084,1116,smtp2.mdic.gov.br,NULL,,15.0
+1085,1121,stn-gov-br.mail.protection.outlook.com,52.101.10.14,74.0,0.0
+1086,1122,sudam-gov-br.mail.protection.outlook.com,52.101.198.0,35.0,5.0
+1087,1123,sudeco-gov-br.mail.protection.outlook.com,52.101.9.24,327.0,0.0
+1088,1124,sudene-gov-br.mail.protection.outlook.com,52.101.198.1,4.0,10.0
+1089,1125,suframa-gov-br.mail.protection.outlook.com,52.101.198.1,4.0,0.0
+1090,1129,relay.mdic.gov.br,NULL,,10.0
+1091,1129,smtp2.mdic.gov.br,NULL,,15.0
+1092,1131,mail.sus.gov.br,189.28.143.223,328.0,10.0
+1093,1132,susep-gov-br.mail.protection.outlook.com,52.101.10.6,78.0,0.0
+1094,1133,protection.serpro.gov.br,161.148.50.251,39.0,10.0
+1095,1135,tcu-gov-br.mail.protection.outlook.com,52.101.194.0,329.0,30.0
+1096,1142,tesouro-gov-br.mail.protection.outlook.com,52.101.41.21,131.0,0.0
+1097,1145,ticontrole-gov-br.mail.protection.outlook.com,52.101.42.16,81.0,0.0
+1098,1148,smtp.google.com,64.233.186.27,20.0,10.0
+1099,1151,smtp.to.gov.br,131.72.217.19,330.0,10.0
+1100,1154,mte-mx03.mlicloud.com,187.108.197.246,120.0,10.0
+1101,1154,mte-mx04.mlicloud.com,187.108.197.187,121.0,10.0
+1102,1154,dc02-economia-mx01.mlicloud.com,186.227.197.37,122.0,10.0
+1103,1154,dc02-economia-mx02.mlicloud.com,187.45.183.227,123.0,10.0
+1104,1161,transportes-gov-br.mail.protection.outlook.com,52.101.42.13,331.0,5.0
+1105,1168,aspmx.l.google.com,142.250.0.26,234.0,1.0
+1106,1168,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+1107,1168,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+1108,1168,alt3.aspmx.l.google.com,142.250.153.27,23.0,10.0
+1109,1168,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+1110,1169,trees-gov-br0i.mail.protection.outlook.com,52.101.41.22,332.0,5.0
+1111,1174,tremt-gov-br0i.mail.protection.outlook.com,52.101.8.32,333.0,0.0
+1112,1175,aspmx.l.google.com,142.250.0.26,234.0,1.0
+1113,1175,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+1114,1175,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+1115,1175,alt3.aspmx.l.google.com,142.250.153.27,23.0,10.0
+1116,1175,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+1117,1180,mail01.tre-rj.gov.br,164.152.54.137,334.0,5.0
+1118,1189,smtp-a.trensurb.gov.br,189.9.3.170,335.0,10.0
+1119,1189,smtp-b.trensurb.gov.br,189.9.3.171,336.0,15.0
+1120,1194,mx.jfrj.jus.br,177.223.208.15,263.0,0.0
+1121,1194,mx.trf2.jus.br,201.48.221.24,264.0,0.0
+1122,1207,vm-z-mail.trt.gov.br,192.100.177.174,337.0,10.0
+1123,1213,aspmx.l.google.com,142.250.0.26,234.0,10.0
+1124,1213,alt1.aspmx.l.google.com,64.233.184.26,116.0,20.0
+1125,1213,alt2.aspmx.l.google.com,142.250.27.27,22.0,30.0
+1126,1213,aspmx2.googlemail.com,64.233.184.27,21.0,40.0
+1127,1213,aspmx3.googlemail.com,142.250.27.26,61.0,50.0
+1128,1217,aspmx.l.google.com,142.250.0.26,234.0,1.0
+1129,1217,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+1130,1217,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+1131,1217,alt3.aspmx.l.google.com,142.250.153.27,23.0,10.0
+1132,1217,alt4.aspmx.l.google.com,142.251.9.26,106.0,10.0
+1133,1225,mail.trt23.gov.br,201.182.224.203,338.0,10.0
+1134,1225,mail2.trt23.jus.br,NULL,,20.0
+1135,1229,aspmx.l.google.com,142.250.0.26,234.0,10.0
+1136,1229,alt1.aspmx.l.google.com,64.233.184.26,116.0,20.0
+1137,1229,alt2.aspmx.l.google.com,142.250.27.27,22.0,20.0
+1138,1229,aspmx2.googlemail.com,64.233.184.27,21.0,30.0
+1139,1229,aspmx3.googlemail.com,142.250.27.26,61.0,30.0
+1140,1234,aspmx.l.google.com,142.250.0.26,234.0,1.0
+1141,1234,alt1.aspmx.l.google.com,64.233.184.26,116.0,5.0
+1142,1234,alt2.aspmx.l.google.com,142.250.27.27,22.0,5.0
+1143,1234,aspmx2.googlemail.com,64.233.184.27,21.0,10.0
+1144,1234,aspmx3.googlemail.com,142.250.27.26,61.0,10.0
+1145,1239,turismo-gov-br.mail.protection.outlook.com,52.101.8.44,82.0,10.0
+1146,1244,unasus-gov-br.mail.protection.outlook.com,52.101.41.28,199.0,10.0
+1147,1246,valec-gov-br.mail.protection.outlook.com,52.101.42.13,331.0,10.0
+1148,1248,mx.venturecapital.gov.br,200.212.144.20,68.0,10.0
+1149,1249,veracruz-rs.gov.br,177.70.14.19,339.0,0.0
+1150,1254,alpha.planalto.gov.br,170.246.255.10,55.0,5.0
+1151,1258,relay.mdic.gov.br,NULL,,10.0
+1152,1258,smtp2.mdic.gov.br,NULL,,15.0
+1153,1262,smtp1.nbr.gov.br,189.9.0.12,289.0,10.0
+1154,1263,smtp01.radiobras.gov.br,NULL,,10.0
+1155,1263,smtp02.radiobras.gov.br,NULL,,20.0
+1156,1272,mte-mx03.mlicloud.com,187.108.197.246,120.0,10.0
+1157,1272,mte-mx04.mlicloud.com,187.108.197.187,121.0,10.0
+1158,1272,dc02-economia-mx01.mlicloud.com,186.227.197.37,122.0,10.0
+1159,1272,dc02-economia-mx02.mlicloud.com,187.45.183.227,123.0,10.0
