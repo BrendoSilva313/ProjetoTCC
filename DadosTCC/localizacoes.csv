@@ -1,340 +1,340 @@
 id,ip,cidade,regiao,pais
-1, 52.101.200.0, Rio de Janeiro, Rio de Janeiro, BR 
-2, 52.101.9.17, Ashburn, Virginia, US 
-3, 52.101.41.3, San Jose, California, US 
-4, 52.101.198.1, Campinas, São Paulo, BR 
-5, 200.198.220.7, Brasília, Federal District, BR 
-6, 200.198.220.17, Brasília, Federal District, BR 
-7, 161.148.9.250, Brasília, Federal District, BR 
-8, 179.252.114.123, Goiânia, Goiás, BR 
-9, 200.130.30.6, Brasília, Federal District, BR 
-10, 52.101.11.10, San Antonio, Texas, US 
-11, 45.171.50.29, Brasília, Federal District, BR 
-12, 67.219.250.212, The Dalles, Oregon, US 
-13, 52.207.128.88, Ashburn, Virginia, US 
-14, 18.208.22.79, Ashburn, Virginia, US 
-15, 189.28.129.174, Brasília, Federal District, BR 
-16, 189.28.129.173, Brasília, Federal District, BR 
-17, 177.92.163.132, Belém de São Francisco, Pernambuco, BR 
-18, 177.92.163.142, Belém de São Francisco, Pernambuco, BR 
-19, 177.86.143.130, Belo Horizonte, Minas Gerais, BR 
-20, 64.233.186.27, Santiago, Santiago Metropolitan, CL 
-21, 64.233.184.27, Brussels, Brussels Capital, BE 
-22, 142.250.27.27, Amsterdam, North Holland, NL 
-23, 142.250.153.27, Delfzijl, Groningen, NL 
-24, 142.251.9.27, Groningen, Groningen, NL 
-25, 187.29.162.15, Rio de Janeiro, Rio de Janeiro, BR 
-26, 187.29.162.14, Rio de Janeiro, Rio de Janeiro, BR 
-27, 187.29.11.36, Rio de Janeiro, Rio de Janeiro, BR 
-28, 52.101.11.3, San Antonio, Texas, US 
-29, 52.101.42.18, Moses Lake, Washington, US 
-30, 18.208.22.77, Ashburn, Virginia, US 
-31, 52.101.8.42, Des Moines, Iowa, US 
-32, 200.198.220.179, Brasília, Federal District, BR 
-33, 200.198.220.178, Brasília, Federal District, BR 
-34, 52.101.11.13, San Antonio, Texas, US 
-35, 52.101.198.0, Campinas, São Paulo, BR 
-36, 52.101.41.26, San Jose, California, US 
-37, 52.101.40.2, Cheyenne, Wyoming, US 
-38, 177.84.201.239, Macapá, Amapá, BR 
-39, 161.148.50.251, Brasília, Federal District, BR 
-40, 52.101.8.34, Des Moines, Iowa, US 
-41, 52.101.40.1, Cheyenne, Wyoming, US 
-42, 52.101.40.24, Cheyenne, Wyoming, US 
-43, 198.17.120.44, Fortaleza, Ceará, BR 
-44, 198.17.121.44, Fortaleza, Ceará, BR 
-45, 52.101.10.12, Boydton, Virginia, US 
-46, 161.148.21.200, Brasília, Federal District, BR 
-47, 177.223.196.212, Rio de Janeiro, Rio de Janeiro, BR 
-48, 200.9.175.158, Rio de Janeiro, Rio de Janeiro, BR 
-49, 52.101.9.2, Ashburn, Virginia, US 
-50, 170.246.255.51, Brasília, Federal District, BR 
-51, 170.246.255.52, Brasília, Federal District, BR 
-52, 131.72.222.253, Brasília, Federal District, BR 
-53, 131.72.222.254, Brasília, Federal District, BR 
-54, 131.72.221.51, Brasília, Federal District, BR 
-55, 170.246.255.10, Brasília, Federal District, BR 
-56, 201.36.109.91, Brasília, Federal District, BR 
-57, 200.214.65.150, Rio de Janeiro, Rio de Janeiro, BR 
-58, 189.125.177.216, São Paulo, São Paulo, BR 
-59, 200.198.205.29, Brasília, Federal District, BR 
-60, 200.198.205.30, Brasília, Federal District, BR 
-61, 142.250.27.26, Amsterdam, North Holland, NL 
-62, 52.101.9.14, Ashburn, Virginia, US 
-63, 52.101.11.15, San Antonio, Texas, US 
-64, 200.219.133.161, Brasília, Federal District, BR 
-65, 200.219.133.162, Brasília, Federal District, BR 
-66, 200.219.133.163, Brasília, Federal District, BR 
-67, 52.101.42.6, Moses Lake, Washington, US 
-68, 200.212.144.20, São Paulo, São Paulo, BR 
-69, 52.101.10.1, Boydton, Virginia, US 
-70, 187.0.209.84, Rio de Janeiro, Rio de Janeiro, BR 
-71, 52.101.194.13, Chicago, Illinois, US 
-72, 52.101.9.26, Ashburn, Virginia, US 
-73, 52.101.40.0, Cheyenne, Wyoming, US 
-74, 52.101.10.14, Boydton, Virginia, US 
-75, 52.101.8.51, Des Moines, Iowa, US 
-76, 52.101.11.2, San Antonio, Texas, US 
-77, 52.101.41.56, San Jose, California, US 
-78, 52.101.10.6, Boydton, Virginia, US 
-79, 52.101.42.10, Moses Lake, Washington, US 
-80, 52.101.40.4, Cheyenne, Wyoming, US 
-81, 52.101.42.16, Moses Lake, Washington, US 
-82, 52.101.8.44, Des Moines, Iowa, US 
-83, 177.15.65.152, Brasília, Federal District, BR 
-84, 177.15.65.189, Brasília, Federal District, BR 
-85, 177.153.23.242, São Paulo, São Paulo, BR 
-86, 186.202.4.42, São Paulo, São Paulo, BR 
-87, 200.234.204.130, São Paulo, São Paulo, BR 
-88, 186.200.39.170, São Paulo, São Paulo, BR 
-89, 186.200.39.169, São Paulo, São Paulo, BR 
-90, 189.90.171.3, Fortaleza, Ceará, BR 
-91, 189.90.171.4, Fortaleza, Ceará, BR 
-92, 200.201.166.106, Rio de Janeiro, Rio de Janeiro, BR 
-93, 200.132.5.15, Porto Alegre, Rio Grande do Sul, BR 
-94, 200.189.123.155, Maringá, Paraná, BR 
-95, 200.133.244.156, Guarulhos, São Paulo, BR 
-96, 200.139.10.103, São Paulo, São Paulo, BR 
-97, 200.144.113.17, Campinas, São Paulo, BR 
-98, 200.20.105.3, Rio de Janeiro, Rio de Janeiro, BR 
-99, 177.153.23.241, São Paulo, São Paulo, BR 
-100, 189.85.87.76, Brasília, Federal District, BR 
-101, 45.4.192.12, Brasília, Federal District, BR 
-102, 200.147.36.29, São Paulo, São Paulo, BR 
-103, 200.216.54.201, Rio de Janeiro, Rio de Janeiro, BR 
-104, 148.163.146.14, San Jose, California, US 
-105, 148.163.143.246, Atlanta, Georgia, US 
-106, 142.251.9.26, Groningen, Groningen, NL 
-107, 52.101.10.2, Boydton, Virginia, US 
-108, 18.208.22.78, Ashburn, Virginia, US 
-109, 162.241.2.213, Atlanta, Georgia, US 
-110, 200.255.49.23, Rio de Janeiro, Rio de Janeiro, BR 
-111, 200.216.54.205, Rio de Janeiro, Rio de Janeiro, BR 
-112, 52.101.11.9, San Antonio, Texas, US 
-113, 189.84.136.140, Brasília, Federal District, BR 
-114, 186.216.211.93, Brasília, Federal District, BR 
-115, 142.251.0.26, Santiago, Santiago Metropolitan, CL 
-116, 64.233.184.26, Brussels, Brussels Capital, BE 
-117, 142.250.153.26, Delfzijl, Groningen, NL 
-118, 162.214.54.154, Provo, Utah, US 
-119, 52.101.9.11, Washington, District of Columbia, US 
-120, 187.108.197.246, São Paulo, São Paulo, BR 
-121, 187.108.197.187, São Paulo, São Paulo, BR 
-122, 186.227.197.37, Cabedelo, Paraíba, BR 
-123, 187.45.183.227, João Pessoa, Paraíba, BR 
-124, 189.9.7.65, Salvador, Bahia, BR 
-125, 189.9.7.66, Salvador, Bahia, BR 
-126, 160.238.29.68, Brasília, Federal District, BR 
-127, 189.28.129.1, Brasília, Federal District, BR 
-128, 189.28.129.2, Brasília, Federal District, BR 
-129, 189.28.129.4, Brasília, Federal District, BR 
-130, 189.28.129.16, Brasília, Federal District, BR 
-131, 52.101.41.21, San Jose, California, US 
-132, 189.9.0.101, Brasília, Federal District, BR 
-133, 44.218.81.177, Ashburn, Virginia, US 
-134, 3.215.61.3, Ashburn, Virginia, US 
-135, 162.241.2.66, Atlanta, Georgia, US 
-136, 162.241.61.189, Atlanta, Georgia, US 
-137, 162.240.161.58, Provo, Utah, US 
-138, 192.185.223.121, Atlanta, Georgia, US 
-139, 52.67.41.212, São Paulo, São Paulo, BR 
-140, 3.217.213.23, Ashburn, Virginia, US 
-141, 34.232.250.42, Ashburn, Virginia, US 
-142, 35.162.4.77, Boardman, Oregon, US 
-143, 213.32.17.239, Lille, Hauts-de-France, FR 
-144, 162.240.220.15, Provo, Utah, US 
-145, 52.101.9.12, Ashburn, Virginia, US 
-146, 186.248.236.163, Santa Luzia, Minas Gerais, BR 
-147, 168.181.70.251, Itaperuçu, Paraná, BR 
-148, 201.16.179.9, Barueri, São Paulo, BR 
-149, 54.232.52.172, São Paulo, São Paulo, BR 
-150, 200.189.101.10, Rio de Janeiro, Rio de Janeiro, BR 
-151, 138.122.95.70, São Paulo, São Paulo, BR 
-152, 177.66.204.150, São Paulo, São Paulo, BR 
-153, 45.233.113.76, Guarulhos, São Paulo, BR 
-154, 45.233.113.66, Guarulhos, São Paulo, BR 
-155, 138.122.92.39, Itajaí, Santa Catarina, BR 
-156, 191.6.216.38, São Paulo, São Paulo, BR 
-157, 191.6.216.39, São Paulo, São Paulo, BR 
-158, 216.172.172.228, Atlanta, Georgia, US 
-159, 67.225.188.52, Lansing, Michigan, US 
-160, 187.32.80.226, São Paulo, São Paulo, BR 
-161, 200.219.235.50, São Paulo, São Paulo, BR 
-162, 198.49.75.151, Lockhart, Florida, US 
-163, 162.241.203.15, Atlanta, Georgia, US 
-164, 201.47.3.86, Curitiba, Paraná, BR 
-165, 177.36.185.134, Osasco, São Paulo, BR 
-166, 162.240.166.230, Provo, Utah, US 
-167, 187.0.205.22, São Paulo, São Paulo, BR 
-168, 179.124.199.226, Sombrio, Santa Catarina, BR 
-169, 162.214.64.218, Provo, Utah, US 
-170, 52.101.41.54, San Jose, California, US 
-171, 201.139.186.196, Fortaleza, Ceará, BR 
-172, 201.139.186.199, Fortaleza, Ceará, BR 
-173, 201.139.186.200, Fortaleza, Ceará, BR 
-174, 187.0.205.24, São Paulo, São Paulo, BR 
-175, 200.198.189.214, São Paulo, São Paulo, BR 
-176, 187.49.226.210, Florianópolis, Santa Catarina, BR 
-177, 38.111.198.185, El Segundo, California, US 
-178, 38.89.254.156, Elk Grove Village, Illinois, US 
-179, 45.71.212.60, São Paulo, São Paulo, BR 
-180, 138.122.95.18, São Paulo, São Paulo, BR 
-181, 177.92.11.115, Curitiba, Paraná, BR 
-182, 179.190.27.164, São Paulo, São Paulo, BR 
-183, 142.250.150.26, Kotka, Kymenlaakso, FI 
-184, 191.6.220.38, São Paulo, São Paulo, BR 
-185, 191.6.220.39, São Paulo, São Paulo, BR 
-186, 63.143.34.92, Dallas, Texas, US 
-187, 74.63.210.132, Dallas, Texas, US 
-188, 216.245.220.55, Dallas, Texas, US 
-189, 187.73.32.162, São Paulo, São Paulo, BR 
-190, 192.185.213.13, Atlanta, Georgia, US 
-191, 187.0.205.39, São Paulo, São Paulo, BR 
-192, 138.122.95.55, São Paulo, São Paulo, BR 
-193, 200.160.7.164, São Paulo, São Paulo, BR 
-194, 52.101.10.10, Boydton, Virginia, US 
-195, 200.152.39.40, Rio de Janeiro, Rio de Janeiro, BR 
-196, 200.152.35.47, Rio de Janeiro, Rio de Janeiro, BR 
-197, 189.28.143.94, Rio de Janeiro, Rio de Janeiro, BR 
-198, 189.28.143.170, Rio de Janeiro, Rio de Janeiro, BR 
-199, 52.101.41.28, San Jose, California, US 
-200, 200.198.192.140, Brasília, Federal District, BR 
-201, 200.198.213.91, Brasília, Federal District, BR 
-202, 200.198.213.92, Brasília, Federal District, BR 
-203, 189.9.36.187, Brasília, Federal District, BR 
-204, 186.227.197.44, Cabedelo, Paraíba, BR 
-205, 187.45.189.84, São Paulo, São Paulo, BR 
-206, 177.14.224.152, Fortaleza, Ceará, BR 
-207, 177.14.224.156, Fortaleza, Ceará, BR 
-208, 177.14.224.151, Fortaleza, Ceará, BR 
-209, 208.115.238.130, Dallas, Texas, US 
-210, 52.101.41.58, San Jose, California, US 
-211, 161.148.173.216, Brasília, Federal District, BR 
-212, 200.131.10.42, Machado, Minas Gerais, BR 
-213, 64.68.198.24, Toronto, Ontario, CA 
-214, 187.108.197.247, São Paulo, São Paulo, BR 
-215, 187.16.71.206, Rio de Janeiro, Rio de Janeiro, BR 
-216, 187.95.42.141, Angra dos Reis, Rio de Janeiro, BR 
-217, 187.32.152.73, São Paulo, São Paulo, BR 
-218, 64.233.186.26, Santiago, Santiago Metropolitan, CL 
-219, 52.101.198.38, Campinas, São Paulo, BR 
-220, 140.82.26.58, Miami, Florida, US 
-221, 52.101.10.16, Boydton, Virginia, US 
-222, 201.62.44.139, Cachoeiro de Itapemirim, Espírito Santo, BR 
-223, 201.62.44.16, Cachoeiro de Itapemirim, Espírito Santo, BR 
-224, 200.130.15.217, Brasília, Federal District, BR 
-225, 200.17.1.129, Brasília, Federal District, BR 
-226, 52.101.10.18, Boydton, Virginia, US 
-227, 52.101.8.46, Des Moines, Iowa, US 
-228, 189.9.55.11, Brasília, Federal District, BR 
-229, 189.9.55.12, Brasília, Federal District, BR 
-230, 34.223.36.122, Boardman, Oregon, US 
-231, 34.223.36.121, Boardman, Oregon, US 
-232, 3.93.93.52, Ashburn, Virginia, US 
-233, 34.223.36.123, Boardman, Oregon, US 
-234, 142.250.0.26, Santiago, Santiago Metropolitan, CL 
-235, 54.233.169.182, São Paulo, São Paulo, BR 
-236, 45.183.244.63, Goiânia, Goiás, BR 
-237, 52.101.10.5, Boydton, Virginia, US 
-238, 45.183.244.45, Goiânia, Goiás, BR 
-239, 177.221.45.30, Recife, Pernambuco, BR 
-240, 52.101.41.6, San Jose, California, US 
-241, 177.69.150.181, São Paulo, São Paulo, BR 
-242, 200.139.9.101, Ananindeua, Pará, BR 
-243, 177.8.81.216, Brasília, Federal District, BR 
-244, 177.8.81.217, Brasília, Federal District, BR 
-245, 201.87.145.140, São Paulo, São Paulo, BR 
-246, 189.127.82.76, Rio de Janeiro, Rio de Janeiro, BR 
-247, 200.33.96.13, Rio de Janeiro, Rio de Janeiro, BR 
-248, 52.101.194.15, Chicago, Illinois, US 
-249, 200.130.24.115, Brasília, Federal District, BR 
-250, 200.130.24.116, Brasília, Federal District, BR 
-251, 200.130.24.121, Brasília, Federal District, BR 
-252, 200.20.212.42, Rio de Janeiro, Rio de Janeiro, BR 
-253, 200.20.212.41, Rio de Janeiro, Rio de Janeiro, BR 
-254, 200.17.53.9, São Paulo, São Paulo, BR 
-255, 168.90.175.156, Rio de Janeiro, Rio de Janeiro, BR 
-256, 200.20.196.22, Rio de Janeiro, Rio de Janeiro, BR 
-257, 201.54.51.144, Brasília, Federal District, BR 
-258, 201.54.51.145, Brasília, Federal District, BR 
-259, 201.54.51.147, Brasília, Federal District, BR 
-260, 45.171.102.3, Brasília, Federal District, BR 
-261, 52.101.9.0, Washington, District of Columbia, US 
-262, 187.73.237.197, Vitória, Espírito Santo, BR 
-263, 177.223.208.15, Rio de Janeiro, Rio de Janeiro, BR 
-264, 201.48.221.24, São Paulo, São Paulo, BR 
-265, 45.178.243.130, Natal, Rio Grande do Norte, BR 
-266, 168.194.28.13, Porto Alegre, Rio Grande do Sul, BR 
-267, 168.194.28.14, Porto Alegre, Rio Grande do Sul, BR 
-268, 201.49.156.78, São Paulo, São Paulo, BR 
-269, 181.191.91.198, São Luís, Maranhão, BR 
-270, 200.130.9.21, Brasília, Federal District, BR 
-271, 200.130.9.22, Brasília, Federal District, BR 
-272, 67.219.246.210, Council Bluffs, Iowa, US 
-273, 200.198.4.121, Belo Horizonte, Minas Gerais, BR 
-274, 200.198.4.122, Belo Horizonte, Minas Gerais, BR 
-275, 200.198.4.53, Belo Horizonte, Minas Gerais, BR 
-276, 189.9.36.197, Brasília, Federal District, BR 
-277, 189.9.36.196, Brasília, Federal District, BR 
-278, 52.101.42.9, Moses Lake, Washington, US 
-279, 45.231.205.19, Brasília, Federal District, BR 
-280, 45.231.205.18, Brasília, Federal District, BR 
-281, 200.9.252.142, Brasília, Federal District, BR 
-282, 200.9.252.22, Brasília, Federal District, BR 
-283, 45.178.242.41, Vitória, Espírito Santo, BR 
-284, 200.152.40.101, Rio de Janeiro, Rio de Janeiro, BR 
-285, 200.142.1.39, Brasília, Federal District, BR 
-286, 189.85.94.116, Brasília, Federal District, BR 
-287, 187.86.226.146, Mato Grosso, Paraíba, BR 
-288, 18.208.22.80, Ashburn, Virginia, US 
-289, 189.9.0.12, Brasília, Federal District, BR 
-290, 192.185.221.155, Atlanta, Georgia, US 
-291, 201.57.65.226, Rio de Janeiro, Rio de Janeiro, BR 
-292, 177.74.3.71, São Paulo, São Paulo, BR 
-293, 177.74.3.72, São Paulo, São Paulo, BR 
-294, 177.74.3.73, São Paulo, São Paulo, BR 
-295, 200.198.213.137, Brasília, Federal District, BR 
-296, 200.198.213.135, Brasília, Federal District, BR 
-297, 209.126.109.83, St. Louis, Missouri, US 
-298, 138.185.34.4, João Pessoa, Paraíba, BR 
-299, 138.185.34.5, João Pessoa, Paraíba, BR 
-300, 142.251.0.27, Santiago, Santiago Metropolitan, CL 
-301, 200.238.64.78, Recife, Pernambuco, BR 
-302, 200.23.153.156, Teresina, Piauí, BR 
-303, 177.39.234.157, Vitória, Espírito Santo, BR 
-304, 68.232.148.130, Las Vegas, Nevada, US 
-305, 52.101.40.6, Cheyenne, Wyoming, US 
-306, 69.73.181.16, Atlanta, Georgia, US 
-307, 200.132.19.141, Rio Grande, Rio Grande do Sul, BR 
-308, 52.101.11.17, San Antonio, Texas, US 
-309, 187.111.111.2, Rio de Janeiro, Rio de Janeiro, BR 
-310, 187.62.129.129, Rio de Janeiro, Rio de Janeiro, BR 
-311, 190.123.15.9, Boa Vista, Roraima, BR 
-312, 200.189.134.196, Passo Fundo, Rio Grande do Sul, BR 
-313, 200.189.134.194, Passo Fundo, Rio Grande do Sul, BR 
-314, 200.189.134.155, Passo Fundo, Rio Grande do Sul, BR 
-315, 200.189.134.30, Passo Fundo, Rio Grande do Sul, BR 
-316, 67.219.247.202, Moncks Corner, South Carolina, US 
-317, 187.17.2.201, Igaci, Alagoas, BR 
-318, 187.17.2.203, Igaci, Alagoas, BR 
-319, 187.17.2.206, Igaci, Alagoas, BR 
-320, 146.134.8.188, São Paulo, São Paulo, BR 
-321, 200.198.128.218, Passo Fundo, Rio Grande do Sul, BR 
-322, 200.152.40.96, Rio de Janeiro, Rio de Janeiro, BR 
-323, 204.141.43.44, Seattle, Washington, US 
-324, 204.141.33.44, Dallas, Texas, US 
-325, 136.143.183.44, Dallas, Texas, US 
-326, 200.198.218.98, Brasília, Federal District, BR 
-327, 52.101.9.24, Washington, District of Columbia, US 
-328, 189.28.143.223, Rio de Janeiro, Rio de Janeiro, BR 
-329, 52.101.194.0, Chicago, Illinois, US 
-330, 131.72.217.19, Palmas, Tocantins, BR 
-331, 52.101.42.13, Moses Lake, Washington, US 
-332, 52.101.41.22, San Jose, California, US 
-333, 52.101.8.32, Des Moines, Iowa, US 
-334, 164.152.54.137, São Paulo, São Paulo, BR 
-335, 189.9.3.170, Brasília, Federal District, BR 
-336, 189.9.3.171, Brasília, Federal District, BR 
-337, 192.100.177.174, Santa Luzia, Minas Gerais, BR 
-338, 201.182.224.203, Cuiabá, Mato Grosso, BR 
-339, 177.70.14.19, São Paulo, São Paulo, BR
+1,52.101.200.0,RiodeJaneiro,RiodeJaneiro,BR
+2,52.101.9.17,Ashburn,Virginia,US
+3,52.101.41.3,SanJose,California,US
+4,52.101.198.1,Campinas,SãoPaulo,BR
+5,200.198.220.7,Brasília,FederalDistrict,BR
+6,200.198.220.17,Brasília,FederalDistrict,BR
+7,161.148.9.250,Brasília,FederalDistrict,BR
+8,179.252.114.123,Goiânia,Goiás,BR
+9,200.130.30.6,Brasília,FederalDistrict,BR
+10,52.101.11.10,SanAntonio,Texas,US
+11,45.171.50.29,Brasília,FederalDistrict,BR
+12,67.219.250.212,TheDalles,Oregon,US
+13,52.207.128.88,Ashburn,Virginia,US
+14,18.208.22.79,Ashburn,Virginia,US
+15,189.28.129.174,Brasília,FederalDistrict,BR
+16,189.28.129.173,Brasília,FederalDistrict,BR
+17,177.92.163.132,BelémdeSãoFrancisco,Pernambuco,BR
+18,177.92.163.142,BelémdeSãoFrancisco,Pernambuco,BR
+19,177.86.143.130,BeloHorizonte,MinasGerais,BR
+20,64.233.186.27,Santiago,SantiagoMetropolitan,CL
+21,64.233.184.27,Brussels,BrusselsCapital,BE
+22,142.250.27.27,Amsterdam,NorthHolland,NL
+23,142.250.153.27,Delfzijl,Groningen,NL
+24,142.251.9.27,Groningen,Groningen,NL
+25,187.29.162.15,RiodeJaneiro,RiodeJaneiro,BR
+26,187.29.162.14,RiodeJaneiro,RiodeJaneiro,BR
+27,187.29.11.36,RiodeJaneiro,RiodeJaneiro,BR
+28,52.101.11.3,SanAntonio,Texas,US
+29,52.101.42.18,MosesLake,Washington,US
+30,18.208.22.77,Ashburn,Virginia,US
+31,52.101.8.42,DesMoines,Iowa,US
+32,200.198.220.179,Brasília,FederalDistrict,BR
+33,200.198.220.178,Brasília,FederalDistrict,BR
+34,52.101.11.13,SanAntonio,Texas,US
+35,52.101.198.0,Campinas,SãoPaulo,BR
+36,52.101.41.26,SanJose,California,US
+37,52.101.40.2,Cheyenne,Wyoming,US
+38,177.84.201.239,Macapá,Amapá,BR
+39,161.148.50.251,Brasília,FederalDistrict,BR
+40,52.101.8.34,DesMoines,Iowa,US
+41,52.101.40.1,Cheyenne,Wyoming,US
+42,52.101.40.24,Cheyenne,Wyoming,US
+43,198.17.120.44,Fortaleza,Ceará,BR
+44,198.17.121.44,Fortaleza,Ceará,BR
+45,52.101.10.12,Boydton,Virginia,US
+46,161.148.21.200,Brasília,FederalDistrict,BR
+47,177.223.196.212,RiodeJaneiro,RiodeJaneiro,BR
+48,200.9.175.158,RiodeJaneiro,RiodeJaneiro,BR
+49,52.101.9.2,Ashburn,Virginia,US
+50,170.246.255.51,Brasília,FederalDistrict,BR
+51,170.246.255.52,Brasília,FederalDistrict,BR
+52,131.72.222.253,Brasília,FederalDistrict,BR
+53,131.72.222.254,Brasília,FederalDistrict,BR
+54,131.72.221.51,Brasília,FederalDistrict,BR
+55,170.246.255.10,Brasília,FederalDistrict,BR
+56,201.36.109.91,Brasília,FederalDistrict,BR
+57,200.214.65.150,RiodeJaneiro,RiodeJaneiro,BR
+58,189.125.177.216,SãoPaulo,SãoPaulo,BR
+59,200.198.205.29,Brasília,FederalDistrict,BR
+60,200.198.205.30,Brasília,FederalDistrict,BR
+61,142.250.27.26,Amsterdam,NorthHolland,NL
+62,52.101.9.14,Ashburn,Virginia,US
+63,52.101.11.15,SanAntonio,Texas,US
+64,200.219.133.161,Brasília,FederalDistrict,BR
+65,200.219.133.162,Brasília,FederalDistrict,BR
+66,200.219.133.163,Brasília,FederalDistrict,BR
+67,52.101.42.6,MosesLake,Washington,US
+68,200.212.144.20,SãoPaulo,SãoPaulo,BR
+69,52.101.10.1,Boydton,Virginia,US
+70,187.0.209.84,RiodeJaneiro,RiodeJaneiro,BR
+71,52.101.194.13,Chicago,Illinois,US
+72,52.101.9.26,Ashburn,Virginia,US
+73,52.101.40.0,Cheyenne,Wyoming,US
+74,52.101.10.14,Boydton,Virginia,US
+75,52.101.8.51,DesMoines,Iowa,US
+76,52.101.11.2,SanAntonio,Texas,US
+77,52.101.41.56,SanJose,California,US
+78,52.101.10.6,Boydton,Virginia,US
+79,52.101.42.10,MosesLake,Washington,US
+80,52.101.40.4,Cheyenne,Wyoming,US
+81,52.101.42.16,MosesLake,Washington,US
+82,52.101.8.44,DesMoines,Iowa,US
+83,177.15.65.152,Brasília,FederalDistrict,BR
+84,177.15.65.189,Brasília,FederalDistrict,BR
+85,177.153.23.242,SãoPaulo,SãoPaulo,BR
+86,186.202.4.42,SãoPaulo,SãoPaulo,BR
+87,200.234.204.130,SãoPaulo,SãoPaulo,BR
+88,186.200.39.170,SãoPaulo,SãoPaulo,BR
+89,186.200.39.169,SãoPaulo,SãoPaulo,BR
+90,189.90.171.3,Fortaleza,Ceará,BR
+91,189.90.171.4,Fortaleza,Ceará,BR
+92,200.201.166.106,RiodeJaneiro,RiodeJaneiro,BR
+93,200.132.5.15,PortoAlegre,RioGrandedoSul,BR
+94,200.189.123.155,Maringá,Paraná,BR
+95,200.133.244.156,Guarulhos,SãoPaulo,BR
+96,200.139.10.103,SãoPaulo,SãoPaulo,BR
+97,200.144.113.17,Campinas,SãoPaulo,BR
+98,200.20.105.3,RiodeJaneiro,RiodeJaneiro,BR
+99,177.153.23.241,SãoPaulo,SãoPaulo,BR
+100,189.85.87.76,Brasília,FederalDistrict,BR
+101,45.4.192.12,Brasília,FederalDistrict,BR
+102,200.147.36.29,SãoPaulo,SãoPaulo,BR
+103,200.216.54.201,RiodeJaneiro,RiodeJaneiro,BR
+104,148.163.146.14,SanJose,California,US
+105,148.163.143.246,Atlanta,Georgia,US
+106,142.251.9.26,Groningen,Groningen,NL
+107,52.101.10.2,Boydton,Virginia,US
+108,18.208.22.78,Ashburn,Virginia,US
+109,162.241.2.213,Atlanta,Georgia,US
+110,200.255.49.23,RiodeJaneiro,RiodeJaneiro,BR
+111,200.216.54.205,RiodeJaneiro,RiodeJaneiro,BR
+112,52.101.11.9,SanAntonio,Texas,US
+113,189.84.136.140,Brasília,FederalDistrict,BR
+114,186.216.211.93,Brasília,FederalDistrict,BR
+115,142.251.0.26,Santiago,SantiagoMetropolitan,CL
+116,64.233.184.26,Brussels,BrusselsCapital,BE
+117,142.250.153.26,Delfzijl,Groningen,NL
+118,162.214.54.154,Provo,Utah,US
+119,52.101.9.11,Washington,DistrictofColumbia,US
+120,187.108.197.246,SãoPaulo,SãoPaulo,BR
+121,187.108.197.187,SãoPaulo,SãoPaulo,BR
+122,186.227.197.37,Cabedelo,Paraíba,BR
+123,187.45.183.227,JoãoPessoa,Paraíba,BR
+124,189.9.7.65,Salvador,Bahia,BR
+125,189.9.7.66,Salvador,Bahia,BR
+126,160.238.29.68,Brasília,FederalDistrict,BR
+127,189.28.129.1,Brasília,FederalDistrict,BR
+128,189.28.129.2,Brasília,FederalDistrict,BR
+129,189.28.129.4,Brasília,FederalDistrict,BR
+130,189.28.129.16,Brasília,FederalDistrict,BR
+131,52.101.41.21,SanJose,California,US
+132,189.9.0.101,Brasília,FederalDistrict,BR
+133,44.218.81.177,Ashburn,Virginia,US
+134,3.215.61.3,Ashburn,Virginia,US
+135,162.241.2.66,Atlanta,Georgia,US
+136,162.241.61.189,Atlanta,Georgia,US
+137,162.240.161.58,Provo,Utah,US
+138,192.185.223.121,Atlanta,Georgia,US
+139,52.67.41.212,SãoPaulo,SãoPaulo,BR
+140,3.217.213.23,Ashburn,Virginia,US
+141,34.232.250.42,Ashburn,Virginia,US
+142,35.162.4.77,Boardman,Oregon,US
+143,213.32.17.239,Lille,Hauts-de-France,FR
+144,162.240.220.15,Provo,Utah,US
+145,52.101.9.12,Ashburn,Virginia,US
+146,186.248.236.163,SantaLuzia,MinasGerais,BR
+147,168.181.70.251,Itaperuçu,Paraná,BR
+148,201.16.179.9,Barueri,SãoPaulo,BR
+149,54.232.52.172,SãoPaulo,SãoPaulo,BR
+150,200.189.101.10,RiodeJaneiro,RiodeJaneiro,BR
+151,138.122.95.70,SãoPaulo,SãoPaulo,BR
+152,177.66.204.150,SãoPaulo,SãoPaulo,BR
+153,45.233.113.76,Guarulhos,SãoPaulo,BR
+154,45.233.113.66,Guarulhos,SãoPaulo,BR
+155,138.122.92.39,Itajaí,SantaCatarina,BR
+156,191.6.216.38,SãoPaulo,SãoPaulo,BR
+157,191.6.216.39,SãoPaulo,SãoPaulo,BR
+158,216.172.172.228,Atlanta,Georgia,US
+159,67.225.188.52,Lansing,Michigan,US
+160,187.32.80.226,SãoPaulo,SãoPaulo,BR
+161,200.219.235.50,SãoPaulo,SãoPaulo,BR
+162,198.49.75.151,Lockhart,Florida,US
+163,162.241.203.15,Atlanta,Georgia,US
+164,201.47.3.86,Curitiba,Paraná,BR
+165,177.36.185.134,Osasco,SãoPaulo,BR
+166,162.240.166.230,Provo,Utah,US
+167,187.0.205.22,SãoPaulo,SãoPaulo,BR
+168,179.124.199.226,Sombrio,SantaCatarina,BR
+169,162.214.64.218,Provo,Utah,US
+170,52.101.41.54,SanJose,California,US
+171,201.139.186.196,Fortaleza,Ceará,BR
+172,201.139.186.199,Fortaleza,Ceará,BR
+173,201.139.186.200,Fortaleza,Ceará,BR
+174,187.0.205.24,SãoPaulo,SãoPaulo,BR
+175,200.198.189.214,SãoPaulo,SãoPaulo,BR
+176,187.49.226.210,Florianópolis,SantaCatarina,BR
+177,38.111.198.185,ElSegundo,California,US
+178,38.89.254.156,ElkGroveVillage,Illinois,US
+179,45.71.212.60,SãoPaulo,SãoPaulo,BR
+180,138.122.95.18,SãoPaulo,SãoPaulo,BR
+181,177.92.11.115,Curitiba,Paraná,BR
+182,179.190.27.164,SãoPaulo,SãoPaulo,BR
+183,142.250.150.26,Kotka,Kymenlaakso,FI
+184,191.6.220.38,SãoPaulo,SãoPaulo,BR
+185,191.6.220.39,SãoPaulo,SãoPaulo,BR
+186,63.143.34.92,Dallas,Texas,US
+187,74.63.210.132,Dallas,Texas,US
+188,216.245.220.55,Dallas,Texas,US
+189,187.73.32.162,SãoPaulo,SãoPaulo,BR
+190,192.185.213.13,Atlanta,Georgia,US
+191,187.0.205.39,SãoPaulo,SãoPaulo,BR
+192,138.122.95.55,SãoPaulo,SãoPaulo,BR
+193,200.160.7.164,SãoPaulo,SãoPaulo,BR
+194,52.101.10.10,Boydton,Virginia,US
+195,200.152.39.40,RiodeJaneiro,RiodeJaneiro,BR
+196,200.152.35.47,RiodeJaneiro,RiodeJaneiro,BR
+197,189.28.143.94,RiodeJaneiro,RiodeJaneiro,BR
+198,189.28.143.170,RiodeJaneiro,RiodeJaneiro,BR
+199,52.101.41.28,SanJose,California,US
+200,200.198.192.140,Brasília,FederalDistrict,BR
+201,200.198.213.91,Brasília,FederalDistrict,BR
+202,200.198.213.92,Brasília,FederalDistrict,BR
+203,189.9.36.187,Brasília,FederalDistrict,BR
+204,186.227.197.44,Cabedelo,Paraíba,BR
+205,187.45.189.84,SãoPaulo,SãoPaulo,BR
+206,177.14.224.152,Fortaleza,Ceará,BR
+207,177.14.224.156,Fortaleza,Ceará,BR
+208,177.14.224.151,Fortaleza,Ceará,BR
+209,208.115.238.130,Dallas,Texas,US
+210,52.101.41.58,SanJose,California,US
+211,161.148.173.216,Brasília,FederalDistrict,BR
+212,200.131.10.42,Machado,MinasGerais,BR
+213,64.68.198.24,Toronto,Ontario,CA
+214,187.108.197.247,SãoPaulo,SãoPaulo,BR
+215,187.16.71.206,RiodeJaneiro,RiodeJaneiro,BR
+216,187.95.42.141,AngradosReis,RiodeJaneiro,BR
+217,187.32.152.73,SãoPaulo,SãoPaulo,BR
+218,64.233.186.26,Santiago,SantiagoMetropolitan,CL
+219,52.101.198.38,Campinas,SãoPaulo,BR
+220,140.82.26.58,Miami,Florida,US
+221,52.101.10.16,Boydton,Virginia,US
+222,201.62.44.139,CachoeirodeItapemirim,EspíritoSanto,BR
+223,201.62.44.16,CachoeirodeItapemirim,EspíritoSanto,BR
+224,200.130.15.217,Brasília,FederalDistrict,BR
+225,200.17.1.129,Brasília,FederalDistrict,BR
+226,52.101.10.18,Boydton,Virginia,US
+227,52.101.8.46,DesMoines,Iowa,US
+228,189.9.55.11,Brasília,FederalDistrict,BR
+229,189.9.55.12,Brasília,FederalDistrict,BR
+230,34.223.36.122,Boardman,Oregon,US
+231,34.223.36.121,Boardman,Oregon,US
+232,3.93.93.52,Ashburn,Virginia,US
+233,34.223.36.123,Boardman,Oregon,US
+234,142.250.0.26,Santiago,SantiagoMetropolitan,CL
+235,54.233.169.182,SãoPaulo,SãoPaulo,BR
+236,45.183.244.63,Goiânia,Goiás,BR
+237,52.101.10.5,Boydton,Virginia,US
+238,45.183.244.45,Goiânia,Goiás,BR
+239,177.221.45.30,Recife,Pernambuco,BR
+240,52.101.41.6,SanJose,California,US
+241,177.69.150.181,SãoPaulo,SãoPaulo,BR
+242,200.139.9.101,Ananindeua,Pará,BR
+243,177.8.81.216,Brasília,FederalDistrict,BR
+244,177.8.81.217,Brasília,FederalDistrict,BR
+245,201.87.145.140,SãoPaulo,SãoPaulo,BR
+246,189.127.82.76,RiodeJaneiro,RiodeJaneiro,BR
+247,200.33.96.13,RiodeJaneiro,RiodeJaneiro,BR
+248,52.101.194.15,Chicago,Illinois,US
+249,200.130.24.115,Brasília,FederalDistrict,BR
+250,200.130.24.116,Brasília,FederalDistrict,BR
+251,200.130.24.121,Brasília,FederalDistrict,BR
+252,200.20.212.42,RiodeJaneiro,RiodeJaneiro,BR
+253,200.20.212.41,RiodeJaneiro,RiodeJaneiro,BR
+254,200.17.53.9,SãoPaulo,SãoPaulo,BR
+255,168.90.175.156,RiodeJaneiro,RiodeJaneiro,BR
+256,200.20.196.22,RiodeJaneiro,RiodeJaneiro,BR
+257,201.54.51.144,Brasília,FederalDistrict,BR
+258,201.54.51.145,Brasília,FederalDistrict,BR
+259,201.54.51.147,Brasília,FederalDistrict,BR
+260,45.171.102.3,Brasília,FederalDistrict,BR
+261,52.101.9.0,Washington,DistrictofColumbia,US
+262,187.73.237.197,Vitória,EspíritoSanto,BR
+263,177.223.208.15,RiodeJaneiro,RiodeJaneiro,BR
+264,201.48.221.24,SãoPaulo,SãoPaulo,BR
+265,45.178.243.130,Natal,RioGrandedoNorte,BR
+266,168.194.28.13,PortoAlegre,RioGrandedoSul,BR
+267,168.194.28.14,PortoAlegre,RioGrandedoSul,BR
+268,201.49.156.78,SãoPaulo,SãoPaulo,BR
+269,181.191.91.198,SãoLuís,Maranhão,BR
+270,200.130.9.21,Brasília,FederalDistrict,BR
+271,200.130.9.22,Brasília,FederalDistrict,BR
+272,67.219.246.210,CouncilBluffs,Iowa,US
+273,200.198.4.121,BeloHorizonte,MinasGerais,BR
+274,200.198.4.122,BeloHorizonte,MinasGerais,BR
+275,200.198.4.53,BeloHorizonte,MinasGerais,BR
+276,189.9.36.197,Brasília,FederalDistrict,BR
+277,189.9.36.196,Brasília,FederalDistrict,BR
+278,52.101.42.9,MosesLake,Washington,US
+279,45.231.205.19,Brasília,FederalDistrict,BR
+280,45.231.205.18,Brasília,FederalDistrict,BR
+281,200.9.252.142,Brasília,FederalDistrict,BR
+282,200.9.252.22,Brasília,FederalDistrict,BR
+283,45.178.242.41,Vitória,EspíritoSanto,BR
+284,200.152.40.101,RiodeJaneiro,RiodeJaneiro,BR
+285,200.142.1.39,Brasília,FederalDistrict,BR
+286,189.85.94.116,Brasília,FederalDistrict,BR
+287,187.86.226.146,MatoGrosso,Paraíba,BR
+288,18.208.22.80,Ashburn,Virginia,US
+289,189.9.0.12,Brasília,FederalDistrict,BR
+290,192.185.221.155,Atlanta,Georgia,US
+291,201.57.65.226,RiodeJaneiro,RiodeJaneiro,BR
+292,177.74.3.71,SãoPaulo,SãoPaulo,BR
+293,177.74.3.72,SãoPaulo,SãoPaulo,BR
+294,177.74.3.73,SãoPaulo,SãoPaulo,BR
+295,200.198.213.137,Brasília,FederalDistrict,BR
+296,200.198.213.135,Brasília,FederalDistrict,BR
+297,209.126.109.83,St.Louis,Missouri,US
+298,138.185.34.4,JoãoPessoa,Paraíba,BR
+299,138.185.34.5,JoãoPessoa,Paraíba,BR
+300,142.251.0.27,Santiago,SantiagoMetropolitan,CL
+301,200.238.64.78,Recife,Pernambuco,BR
+302,200.23.153.156,Teresina,Piauí,BR
+303,177.39.234.157,Vitória,EspíritoSanto,BR
+304,68.232.148.130,LasVegas,Nevada,US
+305,52.101.40.6,Cheyenne,Wyoming,US
+306,69.73.181.16,Atlanta,Georgia,US
+307,200.132.19.141,RioGrande,RioGrandedoSul,BR
+308,52.101.11.17,SanAntonio,Texas,US
+309,187.111.111.2,RiodeJaneiro,RiodeJaneiro,BR
+310,187.62.129.129,RiodeJaneiro,RiodeJaneiro,BR
+311,190.123.15.9,BoaVista,Roraima,BR
+312,200.189.134.196,PassoFundo,RioGrandedoSul,BR
+313,200.189.134.194,PassoFundo,RioGrandedoSul,BR
+314,200.189.134.155,PassoFundo,RioGrandedoSul,BR
+315,200.189.134.30,PassoFundo,RioGrandedoSul,BR
+316,67.219.247.202,MoncksCorner,SouthCarolina,US
+317,187.17.2.201,Igaci,Alagoas,BR
+318,187.17.2.203,Igaci,Alagoas,BR
+319,187.17.2.206,Igaci,Alagoas,BR
+320,146.134.8.188,SãoPaulo,SãoPaulo,BR
+321,200.198.128.218,PassoFundo,RioGrandedoSul,BR
+322,200.152.40.96,RiodeJaneiro,RiodeJaneiro,BR
+323,204.141.43.44,Seattle,Washington,US
+324,204.141.33.44,Dallas,Texas,US
+325,136.143.183.44,Dallas,Texas,US
+326,200.198.218.98,Brasília,FederalDistrict,BR
+327,52.101.9.24,Washington,DistrictofColumbia,US
+328,189.28.143.223,RiodeJaneiro,RiodeJaneiro,BR
+329,52.101.194.0,Chicago,Illinois,US
+330,131.72.217.19,Palmas,Tocantins,BR
+331,52.101.42.13,MosesLake,Washington,US
+332,52.101.41.22,SanJose,California,US
+333,52.101.8.32,DesMoines,Iowa,US
+334,164.152.54.137,SãoPaulo,SãoPaulo,BR
+335,189.9.3.170,Brasília,FederalDistrict,BR
+336,189.9.3.171,Brasília,FederalDistrict,BR
+337,192.100.177.174,SantaLuzia,MinasGerais,BR
+338,201.182.224.203,Cuiabá,MatoGrosso,BR
+339,177.70.14.19,SãoPaulo,SãoPaulo,BR
